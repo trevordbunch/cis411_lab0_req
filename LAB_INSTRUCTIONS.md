@@ -38,7 +38,7 @@ and have it delivered to my classroom.”
 If there are any gaps that you are perceiving in fully understanding the business problem, please feel free to fill in the gaps with fictional personas or documentation.
 
 ## Step 4 - Summarize
-After collecting your interview data, assemble the results into a single overview processes.  If necessary, repeate interviews to fill in gaps or document alternative outcomes.  The goal is to get an end-to-end picture of the business problem that you are solving, and provide an organizing frame to start to tackle it.
+After collecting your interview data, assemble the results into a single overview processes.  If necessary, repeat interviews to fill in gaps or document alternative outcomes.  The goal is to get an end-to-end picture of the business problem that you are solving, and provide an organizing frame to start to tackle it.
 
 ## Step 5 - Document Requirements
 Using your *Step 4* summary as a guide, start organizing and formulating your requirement statements into the body of your lab report.  You have some flexibility in how you organize and present this in the template.
