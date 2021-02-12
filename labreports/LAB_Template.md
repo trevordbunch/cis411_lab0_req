@@ -3,7 +3,7 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Hallie Nicholas
-**GitHub Handle:** Your GitHub Handle  
+**GitHub Handle:** hallienicholas
 **Repository:** Your Forked Repository  
 ___
 
@@ -15,11 +15,14 @@ Here is an example of including a image into your lab report using a URL:
 Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case Diagram](/Documents/diagram_fork.png)
+
+Credit: By Hallie Nicholas, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+
+### Business requirements
 
 This is an awesome requirement!
 
