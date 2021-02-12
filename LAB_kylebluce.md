@@ -2,7 +2,7 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Kyle Luce 
+**Name:** Kyle Luce
 **GitHub Handle:** [kylebluce](https://github.com/kylebluce)  
 **Repository:** https://github.com/kylebluce/cis411_lab0_req
 ___
