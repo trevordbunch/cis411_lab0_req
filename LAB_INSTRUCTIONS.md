@@ -20,7 +20,7 @@
 [Branching and merging](https://www.atlassian.com/agile/software-development/branching) is a common tactic used in change management and feature development. We're going to use a branch (and eventually a merge) to build our lab report.
 
 1. Create the branch `git checkout -b labreport`.
-1. Create a lab report mardown file (ex. `cp labreports/LAB.md labreports/LAB_[GITHUB USERNAME].md` ).
+1. Create a lab report mardown file (ex. `cp labreports/LAB_Template.md labreports/LAB_[GITHUB USERNAME].md` ).
 1. Add your lab report `git add *`
 1. Add the file to your branch `git commit -a -m "your commit and reference @trevordbunch in the message"`.
 1. Push the change to GitHub `git push -u origin labreport`.
