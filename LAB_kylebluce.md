@@ -2,7 +2,7 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Kyle Luce
+**Name:** Kyle Luce 
 **GitHub Handle:** [kylebluce](https://github.com/kylebluce)  
 **Repository:** https://github.com/kylebluce/cis411_lab0_req
 ___
@@ -31,8 +31,7 @@ In this section, provide a diagram that demonstrates the relationship between th
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
-
-Hint: for system output, use markdown's fenced code block for formatting.
+2a56642 (HEAD -> labreport, origin/labreport) KyleLuce LabReport @trevordbunch
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
