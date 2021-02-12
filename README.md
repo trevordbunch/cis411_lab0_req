@@ -37,8 +37,8 @@ You are expected to create a lab report as a markdown file under the labreports 
 
 # Resources
 Lab Specific Help (since this may be your first GitHub experience or writing requirements, we have some additional resources for you :) ).
-- [Detailed instructions](labreports/LAB_INSTRUCTIONS.md).
-- [Lab template](labreports/LAB.md)
+- [Detailed instructions](LAB_INSTRUCTIONS.md).
+- [Lab template](labreports/LAB_Template.md)
 - [Lessons Learned](lessonsLearned.md)
 
 Git & GitHub
