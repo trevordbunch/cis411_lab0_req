@@ -20,10 +20,20 @@ The Falcoln is creating an aplication that would alowe the users to order food t
 - U.1 The user must regester using messiah student account.(Mason Leaver)
 - U.2 The user must select the option from the manu. (Mason Leaver)
 - U.3 The user must provide delivery location within Messiah University perimiter/oakwoodhills. (Mason Leaver)
+- U.4 The user must provide a payment method, like dining dalors or banck card. (Mason Leaver)
 
 ### Functional Requirements
+- F.1 The system must provide estimated delivery time. (Mason Leaver)
+- F.2 The system must send the notification of whether or not the order was placed. (Alec Chappell)
+- F.3 System must provide the option of editing the order within one minute of the submission. (Alec Chappell)
+- F.4 The system should provide notifications for any order complications. (Alec Chappell)
+- F.5 The system must provide delivery methods. (Mason Leaver)
 
 ### Non-Functional Requirements
+- NF.1 The system must not have to much information on the single page. (Mason Leaver)
+- NF.2 The conformation of the order must me within 10 seconds after the submission. (Alec Chappell)
+- NF.3 The system must send the thank you node for placing the order. (Alec Chappell)
+- NF.4 The system must remove the item from the manu if the item is not awaileble. (Mason Leaver)
 
 ### System Requirements
 
@@ -39,9 +49,9 @@ This is an optional section, where system constraints, out of scope features or 
 ![Use Case Diagram](/assets/repository_diagram.svg)
 
 ### A.2 Git Logs
-2.7 ``View history of all commits that are related to the main repository `git log``
+2.7 View history of all commits that are related to the main repository `git log`
 
-6.4 ``View history of all commits and merges of the feature branch `git log``
+6.4 View history of all commits and merges of the feature branch `git log`
 
 ### A.3 Branch Repository
 ![Use Case Diagram](/assets/main_feature_branch.svg)
