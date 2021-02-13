@@ -64,12 +64,27 @@ If delivery time cannot be met, there should be something set up to notify users
 
 ![ForkedRepositoryDiagram](/assets/cis411lab0drawing1.png)    
 
-### A.2 Git Logs
-2a56642 (HEAD -> labreport, origin/labreport) KyleLuce LabReport @trevordbunch    
+### A.2 Git Logs    
+
+7eadb0f (HEAD -> main, origin/labreport, labreport) Update LAB_kylebluce.md   
+9fa5b85 Add files via upload    
+823d75d Update LAB_kylebluce.md   
+66ec3e8 Update LAB_kylebluce.md   
+01def4b Add files via upload    
+63fcdef Edited LabReport @trevordbunch    
+fb1e62c Add files via upload    
+da1fc5c Update LAB_kylebluce.md   
+c8fe8d8 Update and rename LAB_Template.md to LAB_kylebluce.md   
+2a56642 KyleLuce LabReport @trevordbunch    
+77ae0f0 Revert "Added labreport @trevordbunch"    
+aa8105a Added labreport @trevordbunch   
+
+(I am not quite sure if this is correct. I was having trouble with the command line interface.)
 
 ### A.3 Branch Repository
 
 ![BranchDiagram](/assets/cis411lab0drawing2.png)     
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+
+![RoundTripDiagram](/assets/cis411lab0drawing4.png)  
