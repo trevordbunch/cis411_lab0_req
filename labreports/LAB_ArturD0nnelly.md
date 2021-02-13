@@ -8,22 +8,36 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
-
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+The Falcoln is creating an aplication that would alowe the users to order food to any places around Messiah University campus.
+![Use Case Diagram](/assets/system_diagram.svg)
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
 ### Business Requirements
+- B.1 The system must recive up to one hundret orders at a time.
+- B.2 The system must spesify exacte location of the delivery.
+- B.3 The system must 
 
-This is an awesome requirement.
+### User Requirements
+- U.1 The user must regester using messiah student account.(Mason Leaver)
+- U.2 The user must select the option from the manu. (Mason Leaver)
+- U.3 The user must provide delivery location within Messiah University perimiter/oakwoodhills. (Mason Leaver)
+- U.4 The user must provide a payment method, like dining dalors or banck card. (Mason Leaver)
+
+### Functional Requirements
+- F.1 The system must provide estimated delivery time. (Mason Leaver)
+- F.2 The system must send the notification of whether or not the order was placed. (Alec Chappell)
+- F.3 System must provide the option of editing the order within one minute of the submission. (Alec Chappell)
+- F.4 The system should provide notifications for any order complications. (Alec Chappell)
+- F.5 The system must provide delivery methods. (Mason Leaver)
+
+### Non-Functional Requirements
+- NF.1 The system must not have to much information on the single page. (Mason Leaver)
+- NF.2 The conformation of the order must me within 10 seconds after the submission. (Alec Chappell)
+- NF.3 The system must send the thank you node for placing the order. (Alec Chappell)
+- NF.4 The system must remove the item from the manu if the item is not awaileble. (Mason Leaver)
+
+### System Requirements
 
 
 
@@ -37,9 +51,9 @@ This is an optional section, where system constraints, out of scope features or 
 ![Use Case Diagram](/assets/repository_diagram.svg)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*. Something
+2.7 View history of all commits that are related to the main repository `git log`
 
-``View history of all commits that are related to the main repository `git log``
+6.4 View history of all commits and merges of the feature branch `git log`
 
 ### A.3 Branch Repository
 ![Use Case Diagram](/assets/main_feature_branch.svg)
