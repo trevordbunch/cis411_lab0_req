@@ -3,12 +3,13 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Seth Artur Donnelly  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**GitHub Handle:** ArturD0nnelly  
+**Repository:** https://github.com/ArturD0nnelly/cis411_lab0_req.git
 ___
 
 ## 1. Overview
 The Falcoln is creating an aplication that would alowe the users to order food to any places around Messiah University campus.
+
 ![Use Case Diagram](/assets/system_diagram.svg)
 
 ## 2. Requirements
