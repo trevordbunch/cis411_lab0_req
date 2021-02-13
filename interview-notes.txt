@@ -1,0 +1,23 @@
+business:
+-limit orders based on staff capacity (trevor)
+-must charge additional delivery cost (josiah)
+
+user:
+-user must associate account with payment method (trevor)
+-user must provide classroom/building upon order (hungry kid)
+-user must request a scheduled delivery time (noah)
+
+functional:
+-must come up with the earliest possible delivery time for an order (trevor, modified)
+-must account for open hours of food service (cafe manager)
+-must avoid interrupting classes (noah)
+
+non-functional:
+-must render pages within 10 seconds of interaction (trevor)
+-must be able to handle web traffic (hungry kid)
+-must optimize delivery route (noah)
+
+system:
+-must use SSO (trevor)
+-must have a toggle switch to for admins to turn off service (josiah)
+-must go through the chosen food provider's order site (cafe employee)

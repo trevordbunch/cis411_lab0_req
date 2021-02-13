@@ -28,10 +28,11 @@
 1. Add the file to your branch `git commit -a -m "your commit and reference @trevordbunch in the message"`.
 1. Push the change to GitHub `git push -u origin labreport`.
 1. As you make additional changes to the lab report, commit and push at least one more change to the branch.
-7. Add the output of your git commit log for your feature branch to your lab report `git log --oneline`.
-8. Generate a simple diagram that demonstrates the relationship between your master and feature branch in your forked repository.
+1. Add the output of your git commit log for your feature branch to your lab report `git log --oneline`.
+1. Generate a simple diagram that demonstrates the relationship between your master and feature branch in your forked repository.
 
 ## Step 3 - Interview Stakeholders
+
 Find at least two humans to discuss the following business need.  
 ```
 “I would like to order a meal from an on-campus provider, 
@@ -41,24 +42,30 @@ and have it delivered to my classroom.”
 If there are any gaps that you are perceiving in fully understanding the business problem, please feel free to fill in the gaps with fictional personas or documentation.
 
 ## Step 4 - Summarize
-After collecting your interview data, assemble the results into a single overview processes.  If necessary, repeate interviews to fill in gaps or document alternative outcomes.  The goal is to get an end-to-end picture of the business problem that you are solving, and provide an organizing frame to start to tackle it.
+
+After collecting your interview data, assemble the results into a single overview process. If necessary, repeat interviews to fill in gaps or document alternative outcomes. The goal is to get an end-to-end picture of the business problem that you are solving, and provide an organizing frame to start to tackle it.
 
 ## Step 5 - Document Requirements
+
 Using your *Step 4* summary as a guide, start organizing and formulating your requirement statements into the body of your lab report.  You have some flexibility in how you organize and present this in the template.
 
 ## Step 6 - Merging the feature branch
+
 1. Commit your changes to your feature branch ```git commit -a -m "your commit message```.
 2. Switch to the master branch ```git checkout master```.
 3. Merge the changes from your feature branch ```git merge labreport```.
 4. **Add the output of your git commit log** from master to your lab report ```git log  --oneline```.
 
-# Step 7: Submitting a Pull Request
+## Step 7: Submitting a Pull Request
+
 Once you've completed your report markdown, have ensured that your forked repository is successfully running in CircleCI, and have committed all your changes to your (primary) master branch, initiate a Pull Request in GitHub to submit your Lab Report.
+
 1. Navigate to the root of your forked repository (ex. https://github.com/YOURHANDLE/cis411_lab0).
 2. Click the _New pull request_ button.
 3. Choose the base fork _trevordbunch/cis411_lab0_req_ is the target and that your fully updated _master_ branch is the source.
 4. Enter a title and description for the Pull Request (PR), **referencing at least one other student in the content via their GitHub handle**, and submit the PR.
 
 ## Step 8 - Extra Credit
+
 1. Provide a diagram that shows the round-trip that the code has made during this lab, starting and ending with source repository.  Document all fork, branch, commit, merge and pull request actions in your diagram.
 2. Find a typo, fix it and submit it in a separate `pull request`.
