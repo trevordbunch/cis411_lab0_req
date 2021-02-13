@@ -8,10 +8,9 @@ ___
 ___
 
 ## 1. Overview
+![Use Case](../assets/Use%20Case.svg)
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![The way GitHub functions](../assets/GitHub%20vs%20Fork.svg)
 
 ## 2. Requirements
 
@@ -21,7 +20,7 @@ Artur Donnelly, Elon Musk, Joe Tonnies, Jeff Bazos
    - 
     B.1 - The website must take the users orders.(Jeff Bazos)  
     B.2 - Give the order to the cooking staff.(Jeff Bazos)  
-    B.3 - Give proper information to allow divery of the food to the customer. (Jeff Bazos)
+    B.3 - Give proper information to allow delivery of the food to the customer. (Jeff Bazos)
 
 2. User 
    -  
