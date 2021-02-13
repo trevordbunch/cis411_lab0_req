@@ -13,7 +13,7 @@ ___
 
 ## 2. Requirements
 
-Interviewees: Artur Donnelly, Elon Musk, Joe Tonnies, Jeff Bazos
+Interviewees: Artur Donnelly [(@arturd0nnelly)](https://github.com/arturd0nnelly), Elon Musk, Joe Tonnies [(@Jmtonnies)](https://github.com/Jmtonnies), Jeff Bazos
 
 1. Business 
    - 
@@ -31,13 +31,13 @@ Interviewees: Artur Donnelly, Elon Musk, Joe Tonnies, Jeff Bazos
 3. Functional 
    - 
    F.1 - System must provide user with a way to sign-in with Messiah email. (Joe Tonnies)  
-   F.2 - System must provide an interface to order food and select prefrences. (Joe Tonnies)  
+   F.2 - System must provide an interface to order food and select preferences. (Joe Tonnies)  
    F.3 - System must send a confirmation email to consumer. (Artur Donnelly)   
 
 4. Non-Functional 
    -  
    N.1 - The website must have a clean user interface, it must not be cluttered. (Artur Donnelly)  
-   N.2 - The backround of webpage must be customisable. (Artur Donnelly)  
+   N.2 - The background of webpage must be customizable. (Artur Donnelly)  
    N.3 - The system must notify customers within 1 minute with order confirmation. (Artur Donnelly)  
    N.4 - System must be able to display live order tracking updates to user. (Artur Donnelly)
 
@@ -50,7 +50,7 @@ Interviewees: Artur Donnelly, Elon Musk, Joe Tonnies, Jeff Bazos
 
 ## Appendix: GitHub Notes
 
-### A.1 Forked Repository  
+### A.1 Forked Repository Diagram 
 
 ![The way GitHub functions](../assets/GitHub%20vs%20Fork.svg)
 
