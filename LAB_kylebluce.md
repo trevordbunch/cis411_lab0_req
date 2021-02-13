@@ -48,7 +48,12 @@ System
 -	S.6 The system should be regularly kept up to date with updates and security standards as well as new features offered by the food provider.
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+
+Delivery may not be available during the busiest hours due to low staffing. This would primarily be during the hours of (11am-1pm & 5pm-7pm).
+
+Certification for delivery drivers would need to include training of staff members willing to drive.
+
+If delivery time cannot be met, there should be something set up to notify users that their order will not arrive on time.
 
 ## Appendix: GitHub Notes
 
