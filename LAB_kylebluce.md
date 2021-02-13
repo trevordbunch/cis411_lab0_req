@@ -21,13 +21,12 @@ This is an optional section, where system constraints, out of scope features or 
 ### A.1 Forked Repository
 In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
 
-![ForkedRepositoryDiagram](/assets/cis411lab0drawing1.png)  
-
 ### A.2 Git Logs
 2a56642 (HEAD -> labreport, origin/labreport) KyleLuce LabReport @trevordbunch    
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
+
+![BranchDiagram](/assets/cis411lab0drawing2.png)     
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
