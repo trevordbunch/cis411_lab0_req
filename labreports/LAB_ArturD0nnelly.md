@@ -14,7 +14,9 @@ The Falcoln is creating an aplication that would alowe the users to order food t
 ## 2. Requirements
 
 ### Business Requirements
-- B.1 
+- B.1 The system must recive up to one hundret orders at a time.
+- B.2 The system must spesify exacte location of the delivery.
+- B.3 The system must 
 
 ### User Requirements
 - U.1 The user must regester using messiah student account.(Mason Leaver)
