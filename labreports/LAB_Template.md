@@ -2,8 +2,8 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
+**Name:** Emily Lopez  
+**GitHub Handle:** el1303  
 **Repository:** Your Forked Repository  
 ___
 
@@ -20,6 +20,13 @@ Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+
+### Busines Requirements
+This is an awesome requirement. (write requirements)
+ *each requirement sourced*
+Business|User|Functional|Nonfunctional|System|
+:---|:---:|:---:|:---:|:---:|
+
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
