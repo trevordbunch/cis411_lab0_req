@@ -39,7 +39,7 @@ This is an optional section, where system constraints, out of scope features or 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*. Something
 
-Hint: for system output, use markdown's fenced code block for formatting.
+``View history of all commits that are related to the main repository `git log``
 
 ### A.3 Branch Repository
 ![Use Case Diagram](/assets/main_feature_branch.svg)
