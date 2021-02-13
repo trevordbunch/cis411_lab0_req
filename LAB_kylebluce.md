@@ -8,7 +8,10 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+
+If a user wants to order food for delivery from an on-campus provider, they must log-in to the Messiah University SSO portal and choose which provider they are ordering from. After selecting their order, they must define a delivery time. If the time is ASAP, the system will provide an estimated delivery time. This order will then be sent to workers to prepare and package the food. Once the food is packaged, a delivery worker will drive to the designated location to deliver the food. If there is a problem with the food, there will be a return system set in place to correct the order or refund the customer.
+
+![OverviewProblemDiagram](/assets/cis411lab0drawing3.png) 
 
 ## 2. Requirements
 
