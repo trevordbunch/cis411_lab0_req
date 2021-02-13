@@ -37,9 +37,9 @@ This is an optional section, where system constraints, out of scope features or 
 ![Use Case Diagram](/assets/repository_diagram.svg)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*. Something
+2.7 ``View history of all commits that are related to the main repository `git log``
 
-``View history of all commits that are related to the main repository `git log``
+6.4 ``View history of all commits and merges of the feature branch `git log``
 
 ### A.3 Branch Repository
 ![Use Case Diagram](/assets/main_feature_branch.svg)
