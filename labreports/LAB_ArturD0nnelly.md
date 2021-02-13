@@ -15,9 +15,10 @@ The Falcoln is creating an aplication that would alowe the users to order food t
 ## 2. Requirements
 
 ### Business Requirements
-- B.1 The system must recive up to one hundret orders at a time.
-- B.2 The system must spesify exacte location of the delivery.
-- B.3 The system must 
+- B.1 The system must recive up to one hundret orders at a time. (Gordon Ramsay)
+- B.2 The system must spesify exacte location of the delivery. (Gordon Ramsay)
+- B.3 The system will automaticly pick delivery persone that is free at that time. (Gordon Ramsay)
+- B.4 The system must indicate the food items that were changed by the customer. (Gordon Ramsay)
 
 ### User Requirements
 - U.1 The user must regester using messiah student account.(Mason Leaver)
@@ -39,7 +40,9 @@ The Falcoln is creating an aplication that would alowe the users to order food t
 - NF.4 The system must remove the item from the manu if the item is not awaileble. (Mason Leaver)
 
 ### System Requirements
-
+- S.1 The system must use GPS to identify location of the delivery. (Elon Musk)
+- S.2 The system must have emultiple languages availble for the for the users and the buisness. (Elon Musk)
+- S.3 The system must not be exasible if the user is not connected to messiah network. (Elon Musk)
 
 
 
