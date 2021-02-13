@@ -12,19 +12,32 @@ In this section provides a brief overview of the business problem.  By brief, it
 
 Here is an example of including a image into your lab report using a URL:  
 ![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
+
 Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/Documents/diagram_fork.png)
+![Fork Diagram](/labreports/diagram_fork.png)
 
-Credit: By Hallie Nicholas, https://commons.wikimedia.org/w/index.php?curid=7880320
+Credit: By Hallie Nicholas
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
 ### Business requirements
+  - Business must experience an increase in sales and profit
+  - Customer orders must be easily accessible to all employees involved in completing the order. (Ed Holthause)
+  - Orders must be limited based on capacity
+  - 
+### User Requirements
 
-This is an awesome requirement!
+
+### Functional Requirements
+
+
+### Non-functional Requirements
+
+
+### System Requirements
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
