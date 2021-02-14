@@ -44,7 +44,7 @@ After collecting your interview data, assemble the results into a single overvie
 Using your *Step 4* summary as a guide, start organizing and formulating your requirement statements into the body of your lab report.  You have some flexibility in how you organize and present this in the template.
 
 ## Step 6 - Merging the feature branch
-1. Commit your changes to your feature branch ```git commit -a -m "your commit message```.
+1. Commit your changes to your feature branch ```git commit -a -m "your commit message"```.
 2. Switch to the master branch ```git checkout master```.
 3. Merge the changes from your feature branch ```git merge labreport```.
 4. **Add the output of your git commit log** from master to your lab report ```git log  --oneline```.
