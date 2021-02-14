@@ -3,7 +3,7 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Roman Searle 
-**GitHub Handle:** rsearle  
+**GitHub Handle:** RomanSearle  
 **Repository:** https://github.com/RomanSearle/cis411_lab0_req
 ___
 
