@@ -2,13 +2,16 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-___
+**Name:** Emily Lopez
+**GitHub Handle:** el1303/cis411_lab0_req
+**Repository:**  [Your Forked Repository ](https://github.com/el1303/cis411_lab0_req?organization=el1303&organization=el1303) 
 
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+![Picture Overview](file:///Users/lopezemilia/Downloads/Overview.svg)
+![Picture](
+https://docs.google.com/drawings/d/e/2PACX-1vTuzxWiSMkWJOAQPmoMYDis_TghGLXZ4ZD_f7ZMiBqCw1F_WRw8hFyVVpn9VltXdfDonn3Is2Lmm3-u/pub?w=960&h=720)
+
 
 Here is an example of including a image into your lab report using a URL:  
 ![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
@@ -21,6 +24,14 @@ Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
+### Busines Requirements
+This is an awesome requirement. (write requirements)
+ *each requirement sourced*
+Business|User|Functional|Nonfunctional|System|
+:----|:----:|:----:|:----:|:----:|
+Having a service of food delivered to a on-campus residents dorm room. |  SignUp Customer account that has the check status and order viewing. | An area where you can view the users order history. Tips for the ones delivering. | Require strong accounts so others can't hack with distinctive passwords. | Need an application or website for users to take orders. Requiring a Profile page, menu, and order check receipt. |
+
+
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
 
@@ -32,10 +43,14 @@ In this section, provide a diagram that demonstrates the relationship between th
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
+![Picture two](https://docs.google.com/drawings/d/e/2PACX-1vQdABSDJ4tSzu2DY5mvfpVFQPmd05rqfAOkZ7xivUahwQKGLsQHMklXsWLhimIrz4PYETtzdQExhqrZ/pub?w=960&h=720)
+
+
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
+![Picture one](https://docs.google.com/drawings/d/e/2PACX-1vQla0wzhwtSw-JiLDGPUIflqRUDRRwqoFhBkzWSrUKqXliFkvkOyve0n026ENnXTjd_3O7RlFUxgh9N/pub?w=960&h=720)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
