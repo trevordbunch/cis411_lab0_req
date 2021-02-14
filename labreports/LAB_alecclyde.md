@@ -9,6 +9,8 @@ ___
 
 ## 1. Overview  
 
+This app will connect the Falcon restaurant on Messiah's campus to students and users on campus. The website/app will take the users order and delivery address information and give it to the cook and delivery person to handle. The app will also allow the user to track the order.
+
 ![Use Case](../assets/Use%20Case.svg)
 
 ## 2. Requirements
