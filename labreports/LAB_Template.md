@@ -8,15 +8,15 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+In this section provide a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-“I would like to order a meal from an on-campus provider, 
-and have it delivered to my classroom.”
+Business Problem: “I would like to order a meal from an on-campus provider, and have it delivered to my classroom.”
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Fork Diagram](/labreports/diagram_fork.png)
-
+![Business Problem Diagram](/labreports/business_diagram.png)
 Credit: By Hallie Nicholas
+
+#### Business Problem Explanation
+In this business example, the client first orders the food and pays for it via the online system. Then, the system immediately processes the order and returns the estimated delivery time to the client. The employee and chef then simultaneously receive the processed order so that the chef can cook the food and the employee can package it. The delivery staff then receives the location of the client and the packaged food and delivers it.
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
@@ -27,9 +27,9 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
   - Orders must be limited based on capacity
   - Business must have enough staff for the execution of this service
 ### User Requirements
-- The user must have a simple payment method
+- The user must have a simple payment method (Ed)
 - Interface must be set up properly (Ed Holthause)
-- User must have approval by professor
+- User must have approval by professor (Ed)
 - Order will be accurate when delivered (Daniel)
 
 ### Functional Requirements
