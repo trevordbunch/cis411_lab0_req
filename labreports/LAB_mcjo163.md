@@ -23,9 +23,11 @@ The system requirements are as follows:
 - **Business**: The business objective that the system needs to satisfy.
   - B.1. The system must limit orders based on staff capacity. (Trevor)
   - B.2. The orders placed through this system must charge students more, to cover the cost of delivery workers. (Josiah)
+  - B.3. Procedures must be in place to ensure orders are not lost. (Hungry Kid)
 - **User**: The actions that a user takes within the system.
   - U.1. Users must associate their accounts with a default payment method (i.e. Dining Dollars, Credit Card, etc.). (Trevor)
   - U.2. User must provide a building and delivery time upon ordering. (Noah)
+  - U.3. Users must pick up their orders within 30 minutes of the delivery time. (Existing food provider policy)
 - **Functional**: The functions that the system must perform.
   - F.1. The system must not allow users to select impossible order times. (Trevor, modified)
   - F.2. The system must account for the food providers' operation hours. (Union Cafe Manager)
@@ -34,6 +36,7 @@ The system requirements are as follows:
 - **Non-Functional**: The characteristics that the system must have.
   - N.1. The system must render all webpages within 10 seconds of user interaction. (Trevor)
   - N.2. The system must be able to handle the same amount of web traffic handled by the food service sites. (Hungry Kid)
+  - N.3. The system must handle users' payment information securely. (Hungry Kid)
 - **System**: Specifications about how the system must be built.
   - S.1. The system must use Messiah's SSO for handling accounts with the messiah.edu domain. (Trevor)
   - S.2. The system must be able to be turned on/off by administration when needed. (Josiah)
@@ -67,4 +70,4 @@ ad87871 Create License
 
 ### A.4 Extra Credit
 
-In this section, provide the round-trip diagram described in *Step 8*.
+![round-trip diagram](/assets/round-trip-mcjo.png)
