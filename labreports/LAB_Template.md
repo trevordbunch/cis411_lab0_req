@@ -2,13 +2,16 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Hallie Nicholas
-**GitHub Handle:** hallienicholas
+**Name:** Hallie Nicholas  
+**GitHub Handle:** hallienicholas  
 **Repository:** https://github.com/hallienicholas/cis411_lab0_req  
 ___
 
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+
+“I would like to order a meal from an on-campus provider, 
+and have it delivered to my classroom.”
 
 Here is an example of including a image into your lab report using an uploaded file:  
 ![Fork Diagram](/labreports/diagram_fork.png)
