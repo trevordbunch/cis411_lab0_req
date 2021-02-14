@@ -56,9 +56,23 @@ The proposed system would only be one part of making this idea work. It is assum
 
 ### A.2 Git Logs
 
+Step 4.7
+
 ```powershell
 787465c (HEAD -> labreport, origin/labreport) copied lan template @trevordbunch
 3080719 (origin/main, origin/HEAD, main) typo in readme
+33efb41 (upstream/main) formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+
+Step 6.4
+
+```powershell
+108dc5e (HEAD -> main, labreport) finalized
+9dc0045 finished requirements
+787465c (origin/labreport) copied lan template @trevordbunch
+3080719 (origin/main, origin/HEAD) typo in readme
 33efb41 (upstream/main) formatted template
 fd13d03 initial draft
 ad87871 Create License
