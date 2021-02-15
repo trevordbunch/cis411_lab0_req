@@ -1,33 +1,49 @@
-# Lab Report: Requirements
+# Lab Report:
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Timothy Diana 
+**GitHub Handle:** Tim12-code  
+**Repository:** cis411_lab0_req  
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
-
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+The business problem we were tasked with solving was the process of having a meal from an on-campus provider be delivered to a specific classroom. Me and my interviewees came up with business, user, functional, non-functional, and system requirements to solve this problem and plan for a system that could execute this task. The User must give the specified information to the system in order for it to return with the confirmation order information. The system will perform multiple tasks, including taking an order, estimating delievery time, and sending the order to employees to carryout in that time.
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+- **Business**:
+  - The system must have set times for delivery workers to schedule (Ethan B)
+  - The system must require the customer to be a current student at Messiah (Owen K)
+  - All meal orders should have set prices (Owen K)
+  - Purchase must have a delivery fee (Owen K)
+- **User**:
+  - User must have payment method for food and delivery (Ethan B)
+  - User must give a meal order to the system (Owen K)
+  - User must specify on-campus provider (Ethan B)
+  - User must speicfy classroom location (Owen K)
+- **Functional**:
+  - Must provide delivery estimates to customers (Ethan B)
+  - Send out order information to deliverers and meal preparation crew (Ethan B)
+  - Must process payment (Owen K)
+  - Must have meal and provider options listed (Ethan B)
+  - Must have list of classroom locations to select from (Owen K)
+  - Must confirm order, location, and delivery time (Ethan B)
+- **Non-Functional**:
+  - Must be readable and clearly layedout (Ethan B)
+  - Pages must load in reasonable timing (Owen K)
+  - System must not crash muliple times in one day (Ethan B)
+- **System**:
+  - System must use Messiah domain log-in (Ethan B)
+  - System must have secure encrypted security system to store payment methods and orders (Owen K)
+  - System must organize information in a database (Ethan B)
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+optional section
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+![Use Case Diagram](/assets/Forked_repository_diagram.svg)
 
 ### A.2 Git Logs
 ```bash
@@ -43,7 +59,8 @@ fd13d03 initial draft
 ad87871 Create License
 ```
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
+![Use Case Diagram](/assets/Branch_repository_diagram.svg)
+
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+optional section
