@@ -9,7 +9,7 @@ ___
 
 ## 1. Overview
 
-#####Students would like to order food from an on-campus provider (Lottie, Union, Falcon) and have it delivered to a classroom of their choice.
+Students would like to order food from an on-campus provider (Lottie, Union, Falcon) and have it delivered to a classroom of their choice.
  
 ## 2. Requirements
 
