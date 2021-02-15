@@ -41,7 +41,7 @@ ___
 
 ### A.2 Git Logs
 
-#### Step 2.7
+#### Step 2.7 Log
 ```
 fe0a5a4 (HEAD -> labreport) Create LAB_felixzrte.md
 237b52e (origin/main, origin/labreport, origin/HEAD, main) Update Instructions for template file
@@ -51,8 +51,23 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 3080719 typo in readme
 :
 ```
-#### Step 6.4
-# ``
+#### Step 6.4 Log
+
+```
+4afbd64 (HEAD -> main, origin/labreport, labreport) hotfix
+59e1a39 Appendix Commit
+2eb3bb7 Added Business Requirements
+fe0a5a4 Create LAB_felixzrte.md
+237b52e (origin/main, origin/HEAD) Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+
+```
 
 ### A.3 Branch Repository
 
