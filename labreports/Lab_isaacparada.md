@@ -68,4 +68,3 @@ This is an optional section, where system constraints, out of scope features or 
 ![Main branch/ feature branch diagram](/labreports/Screen Shot 2021-02-14 at 11.57.46 PM.png)
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
