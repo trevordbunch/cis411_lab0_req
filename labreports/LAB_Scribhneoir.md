@@ -8,8 +8,8 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
+The system provides an accurate menu to the user based off of the time, ready ingredients, and available staff. The user will then order food, provide payment, and request a delivery location. The system shall send the order to the chef to cook, the delivery location to the deliverer, and a time estimate to the client when the food will be delivered. The chef will make the food, and give it to the deliverer, who will then deliver it to the requested location and give it to the client within the allotted time frame.
+![Use Case Diagram](/assets/usecase.svg)  
 Credit: By Josiah McCracken
 
 ## 2. Requirements
@@ -34,17 +34,16 @@ Credit: By Josiah McCracken
     - S3. Built off of preexisting union and falcon web ordering pages, adding additional checkout method "delivery" (Dilbert)
 
 
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
-
 ## Appendix: GitHub Notes
 ### A.1 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+3c4bd18 (HEAD -> main, labreport) Finished requirements and added diagrams
+dafaf5e (origin/main) Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 
-Hint: for system output, use markdown's fenced code block for formatting.
-
-### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
-
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+### A.2 Github diagram
+![Github Diagram](/assets/github.svg)
