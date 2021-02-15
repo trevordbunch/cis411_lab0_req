@@ -1,0 +1,24 @@
+Last login: Sun Feb 14 15:22:14 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Annikas-MacBook-Pro:~ annikakowalski$ git commit -a -m "your commit message"
+fatal: not a git repository (or any of the parent directories): .git
+Annikas-MacBook-Pro:~ annikakowalski$ git checkout master
+fatal: not a git repository (or any of the parent directories): .git
+Annikas-MacBook-Pro:~ annikakowalski$ git checkout master.
+fatal: not a git repository (or any of the parent directories): .git
+Annikas-MacBook-Pro:~ annikakowalski$ 
+Annikas-MacBook-Pro:~ annikakowalski$ git checkout master
+fatal: not a git repository (or any of the parent directories): .git
+Annikas-MacBook-Pro:~ annikakowalski$ git checkout master
+fatal: not a git repository (or any of the parent directories): .git
+Annikas-MacBook-Pro:~ annikakowalski$ git merge labreport
+fatal: not a git repository (or any of the parent directories): .git
+Annikas-MacBook-Pro:~ annikakowalski$ 
+
+
+
+
+
