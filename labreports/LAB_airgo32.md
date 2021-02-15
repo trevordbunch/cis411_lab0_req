@@ -69,7 +69,8 @@ These requirements operate under the assumption that on-campus restaurants have 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+<!-- In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*   -->
+<img src="../assets/Forked_repo_relationship.png">
 
 ### A.2 Git Logs
 <!-- In this section, provide the logs from *Step 2.7* and *Step 6.4*. -->
@@ -90,6 +91,4 @@ ad87871 Create License
 
 ### A.3 Branch Repository
 <!-- In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*) -->
-
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+<img src="../assets/Feature_branch_relationship.png">
