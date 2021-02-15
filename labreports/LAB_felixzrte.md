@@ -37,7 +37,7 @@ ___
 
 ### A.1 Forked Repository
 
-![Fork Diagram](/assets/Fork Diagram.pdf) 
+![Fork Diagram](/assets/Fork_Diagram.pdf) 
 
 ### A.2 Git Logs
 
@@ -52,7 +52,7 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 :
 ```
 #### Step 6.4
-
+# ``
 
 ### A.3 Branch Repository
 
