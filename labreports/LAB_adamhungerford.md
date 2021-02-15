@@ -51,29 +51,32 @@ Some workers must become delivery personnel, unless additional workers are hired
 ### A.2 Git Logs
 
 #### 2.7 Log
-`892ce11 (HEAD -> labreport, origin/labreport) Added lab report @trevordbunch
-ef962b1 (upstream/main, origin/main, origin/HEAD, main) Fix links in resource area
-237b52e Update Instructions for template file
-dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-6293806 Merge pull request #1 from mcjo163/main
-7482f04 Typo in lab instructions
-3080719 typo in readme
-33efb41 formatted template
-fd13d03 initial draft
-ad87871 Create License`
+`892ce11 (HEAD -> labreport, origin/labreport) Added lab report @trevordbunch`
+`ef962b1 (upstream/main, origin/main, origin/HEAD, main) Fix links in resource area`
+`237b52e Update Instructions for template file`
+`dafaf5e Merge pull request #2 from NedacNostrebor/patch-1`
+`6293806 Merge pull request #1 from mcjo163/main`
+`7482f04 Typo in lab instructions`
+`3080719 typo in readme`
+`33efb41 formatted template`
+`fd13d03 initial draft`
+`ad87871 Create License`
 
-#### 6.2 Log
-`52fd59b (HEAD -> labreport) Further edited lab report @trevordbunch
-892ce11 (origin/labreport) Added lab report @trevordbunch
-ef962b1 (upstream/main, origin/main, origin/HEAD, main) Fix links in resource area
-237b52e Update Instructions for template file
-dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-6293806 Merge pull request #1 from mcjo163/main
-7482f04 Typo in lab instructions
-3080719 typo in readme
-33efb41 formatted template
-fd13d03 initial draft
-ad87871 Create License`
+#### 6.4 Log
+`e18d5e0 (HEAD -> main, origin/labreport, labreport) adding images from assets.`
+`af6a610 adding images from assets.`
+`d6cac59 Further edited lab report @trevordbunch`
+`52fd59b Further edited lab report @trevordbunch`
+`892ce11 Added lab report @trevordbunch`
+`ef962b1 (upstream/main, origin/main, origin/HEAD) Fix links in resource area`
+`237b52e Update Instructions for template file`
+`dafaf5e Merge pull request #2 from NedacNostrebor/patch-1`
+`6293806 Merge pull request #1 from mcjo163/main`
+`7482f04 Typo in lab instructions`
+`3080719 typo in readme`
+`33efb41 formatted template`
+`fd13d03 initial draft`
+`ad87871 Create License`
 
 ### A.3 Branch Repository
 
