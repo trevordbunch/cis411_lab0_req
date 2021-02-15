@@ -9,7 +9,7 @@ ___
 
 ## 1. Overview
 
-![Use Case Flowchart](assets/overviewflowchart.png)
+![Use Case Flowchart](/assets/overviewflowchart.png)
 
 "I would like to order a meal from an on-campus provider, and have it delivered to my classroom."
 The basic goal of this problem is to move food from an on-campus provider to a classroom. This entails some form of application allowing the user to order (ideally, an aggregate of the online ordering apps for each on-campus service provider), authenticated using CAS, and which gives the user the ability to pay in-app with Dining Dollars, Falcon Dollars, or credit or debit. 
@@ -77,8 +77,8 @@ ad87871 Create License`
 
 ### A.3 Branch Repository
 
-![Relationship Diagram](assets/featurebranch.png)
+![Relationship Diagram](/assets/featurebranch.png)
 
 ### A.4 Extra Credit
 
-![Round-trip Diagram](assets/roundtripdata.png)
+![Round-trip Diagram](/assets/roundtripdata.png)
