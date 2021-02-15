@@ -60,7 +60,22 @@ S4. System must communicate with payment processor via secure connection. (Marie
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-Hint: for system output, use markdown's fenced code block for formatting.
+*Step 2.7 Output:*
+``` 
+d15f16c (HEAD -> labreport) Added Branch Diagram
+de1de77 (origin/labreport) First Commit @trevordbunch
+ef962b1 (upstream/main, origin/main, origin/HEAD, main) Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+*Step 6.4 Output:*
+
 
 ### A.3 Branch Repository
 
