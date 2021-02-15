@@ -46,7 +46,7 @@ In this business example, the client first orders the food and pays for it via t
 - Delivery time must be estimated by system (Expectant Student #2)
 - Location access must be enabled and client's device must give that authority (Ed)
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+ 
 It is assumed that there will be enough staff for an employee, other than a chef and delivery man, to package the order and get it ready for delivery. This is shown in the business process model in Section 1 above.
 ## Appendix: GitHub Notes
 
@@ -55,14 +55,11 @@ It is assumed that there will be enough staff for an employee, other than a chef
 ![Fork Diagram](/labreports/diagram_fork.png)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 #### From Step 2.7
-![Commit history](/labreports/git_commit.png)
+![Commit history](/labreports/git_commit_1.png)
 
 #### From Step 6.4
-
-
-Hint: for system output, use markdown's fenced code block for formatting.
+![Commit history](/labreports/git_commit_2.png)
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
@@ -70,4 +67,6 @@ In this section, provide a diagram that demonstrates the relationship between yo
 ![Branch Diagram](/labreports/branch_diagram.png)
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+Round-trip diagram described in *Step 8*.
+
+![Round-trip diagram](/labreports/extra_credit_1.png)
