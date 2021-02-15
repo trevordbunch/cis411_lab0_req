@@ -3,7 +3,7 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Julina Metz  
-**GitHub Handle:**  julinametz   
+**GitHub Handle:** [julinametz](https://github.com/julinametz)   
 **Repository:** https://github.com/julinametz/cis411_lab0_req  
 ___
 
@@ -21,20 +21,20 @@ B1. Estimated delivery timeframe must be provided in the confirmation email. (Ma
 B2. Records of all orders within the past year must be kept. (Marie)  
 B3. The system must accept order cancellations up until the food has been picked up for delivery. (Marie)  
 B4. Refunds must be processed immediately for cancelled orders. (Marie)  
-B5. On-campus food providers should be able to edit the menu items offered. (Union employee)  
+B5. On-campus food providers must be able to edit the menu items offered. (Union employee)  
 
 #### User Requirements
 U1. User must select whether the food will be delivered immediately or specify a future time. (Marie)  
 U2. User must pay at the time of order placement via PayPal, credit card, or dining dollars. (Marie)  
 U3. User must sign in using Messiah’s SSO. (Marie)  
 U4. User must provide delivery information. (Harold)  
-U5. Users should be able to store “favorite” orders in their account. (Harold)  
+U5. Users will be able to store “favorite” orders in their account. (Harold)  
 
 #### Functional Requirements
-F1. System should have a drop-down list of campus buildings that are eligible for delivery. (Harold)  
+F1. System must have a drop-down list of campus buildings that are eligible for delivery. (Harold)  
 F2. System must have a full listing of menu items. (Union employee)  
 F3. System must have an option to enter special requests and/or allergy information for orders. (Union employee)  
-F4. System should offer “suggested menu items” (Harold)  
+F4. System must offer “suggested menu items” (Harold)  
 
 
 #### Nonfunctional Requirements
@@ -75,6 +75,20 @@ fd13d03 initial draft
 ad87871 Create License
 ```
 *Step 6.4 Output:*
+```
+9c32d94 (HEAD -> main, labreport) Merge Branches
+d15f16c Added Branch Diagram
+de1de77 (origin/labreport) First Commit @trevordbunch
+ef962b1 (upstream/main, origin/main, origin/HEAD) Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
 
 
 ### A.3 Branch Repository
