@@ -2,40 +2,60 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Wesley Cheah  
+**GitHub Handle:** wesleyyycheah 
+**Repository:** https://github.com/wesleyyycheah/cis411_lab0_req 
 ___
 
-## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+## Overview
+**Business Problem:** Getting food delivered from the school cafe to classrooms on time so students will not starve during class and also be on time for other classes. 
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case](lab_0_diagram.png)
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+**Interviewees:**
+- Abrielle Kautzmann (AK)
+- Marissa Cheah (MC)
+- John Smith (JS)
+- Michael Jackson (MJ)
 
-## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+## Requirements
+**Business Requirements:**
+1. Food will arrive within a five minute window before or after the scheduled delivery time. (AK)
+2. Food will arrive to students' correct classrooms without any complications. (AK)
+3. Utensils will be provided with the meals if requested.
 
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+**User Requirements:**
+*First screen*
+- Options to choose from either Union Cafe or The Falcon. (MC)
+  
+*Second screen*
+- Food options displayed respective to which food provider selected. (AK)
 
-## Appendix: GitHub Notes
+*Third screen*
+- After adding food to cart, student can select which academic building and which classrooms to send the meals to.
+- Student selects a time for the meals to arrive.
 
-### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+*Fourth screen*
+- Select payment method and enter payment details. 
+- Confirm order.
 
-### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+*Fifth screen*
+- Order confirmation and details displayed to user. 
 
-Hint: for system output, use markdown's fenced code block for formatting.
+*Other user requirements*
+- UI/UX must be intuitive and simple enough to use. (MJ)
+- System will accept credit/debit and student meal plans. (MJ)
 
-### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
+**Functional Requirements**
+1. Student will be able to save certain locations under "Favorites" for ease of reordering.
+2. Student will be able to save payment methods securely. (JS)
+3. Student will be able to see order status. (i.e. preparing, being picked up, etc.)
+4. Student will have the option to view order history and reorder them. (JS)
+5. Student will be able to login using school email address.
 
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+**Non-Functional Requirements**
+1. Web application must be able to support large amounts of traffic during busy hours. 
+2. Web application must be compatible for all major browsers (Safari, Mozilla, Chrome, etc.)
+
+**System Requirements**
+1. Web application will be built using React Native.
