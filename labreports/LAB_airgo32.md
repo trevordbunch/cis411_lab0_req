@@ -3,7 +3,7 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Robbie Dorsey  
-**GitHub Handle:** airgo32
+**GitHub Handle:** airgo32  
 **Repository:** https://github.com/airgo32/cis411_lab0_req
 ___
 
