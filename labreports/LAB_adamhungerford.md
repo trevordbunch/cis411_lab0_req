@@ -2,35 +2,68 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Adam Hungerford  
+**GitHub Handle:** [adamhungerford](https://github.com/adamhungerford)  
+**Repository:** https://github.com/adamhungerford/cis411_lab0_req  
 ___
 
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case Flowchart](assets/overviewflowchart.png)
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+"I would like to order a meal from an on-campus provider, and have it delivered to my classroom."
+The basic goal of this problem is to move food from an on-campus provider to a classroom. This entails some form of application allowing the user to order (ideally, an aggregate of the online ordering apps for each on-campus service provider), authenticated using CAS, and which gives the user the ability to pay in-app with Dining Dollars, Falcon Dollars, or credit or debit. 
+
+Once the user has placed their order, flow proceeds to the chefs, who will receive the order by way of the ticket system used in each on-campus provider. Delivery orders will be marked with a large-font "Delivery" heading at the top of the ticket, with the educational building specified in a subheading underneath. When the chefs have completed the order, it will be given to the delivery personnel.
+
+Delivery personnel must take the food to the classroom (or nearest lobby in building) within five minutes (about the time it would take to walk there oneself). If delivery personnel are overtaxed, delivery orders must be limited. 
+
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
+- **Business:**
+	- B.1 Stress on the system must not lengthen the wait of sit-in customers. (Matt)
+	- B.2 Delivery orders must be limited by flexibility of delivery workers. (Matt)
+- **User:**
+	- U.1 The user must be able to pay with Falcon Dollars, Dining Dollars, or credit. (Very Hungry Person)
+- **Functional:**
+	- F.1 The service will provide an aggregate of menus from each on-campus provider. (Drew)
+	- F.2 The service must be integrated with the ticket system used in each on-campus provider, and must print "Delivery" and the location on the tickets. (Drew)
+- **Non-functional:**
+	- N.1 Food must be delivered before the approximate time it would take for the client to walk to the on-campus provider. (Matt)
+- **System:**
+	- S.1 User authentication must be provided through Messiah CAS. (Marissa)
+
+
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+There are 3 on-campus providers: Lottie Nelson Dining Hall, Larsen Student Union, and The Falcon.
+- Orders at The Falcon is only open until 2:30. 
+- Larsen Student Union is the furthest from the educational buildings, except perhaps Jordan-Kline.
+
+Some workers must become delivery personnel, unless additional workers are hired.
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.* 
+![Forked Repository Diagram](/assets/gitdiagram.png) 
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+
+#### 2.7 Log
+`892ce11 (HEAD -> labreport, origin/labreport) Added lab report @trevordbunch
+ef962b1 (upstream/main, origin/main, origin/HEAD, main) Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License`
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
