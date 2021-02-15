@@ -42,6 +42,7 @@ optional section
 
 ## Appendix: GitHub Notes
 
+
 ### A.1 Forked Repository
 ![Use Case Diagram](/assets/Forked_repository_diagram.svg)
 
@@ -58,9 +59,23 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 fd13d03 initial draft
 ad87871 Create License
 ```
+```bash
+bdaf26f (HEAD -> main, origin/labreport, labreport) finished
+6fa6be2 added git log
+1f69107 duplicated lab template @trevordbunch
+ef962b1 (upstream/main, origin/main, origin/HEAD) Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+
 ### A.3 Branch Repository
 ![Use Case Diagram](/assets/Branch_repository_diagram.svg)
-
 
 ### A.4 Extra Credit
 optional section
