@@ -15,6 +15,7 @@ In this section provides a brief overview of the business problem.  By brief, it
 
 ![Use Case Diagram](/labreports/Screen Shot 2021-02-14 at 11.06.29 PM.png)  
 
+
 The process we are dealing with here is clearly not as simple as you might be led on to believe. We are dealing with at least 3 different parties here. I interviewed a number of people, some of whom had good insights, others of whom weren’t very helpful. One person suggested bringing drones into the picture. For the sake of simplicity (and not wanting to think about legal complications) I decided against bringing drones into any part of this. 
 
 As far as I can boil this down, we have a) an individual ordering food and specifying delivery instructions, b) the food is then prepared by a food service employee, and c) a delivery person will then come and get the food, bringing it to the person that ordered it. 
@@ -54,7 +55,8 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+
+![Use Case Diagram](/labreports/labreports/Screen Shot 2021-02-14 at 7.35.57 PM.png)  
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
