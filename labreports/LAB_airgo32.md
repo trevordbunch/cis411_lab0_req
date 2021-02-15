@@ -87,6 +87,23 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 fd13d03 initial draft
 ad87871 Create License
 ```
+
+*Step 6.4* git log
+```
+acb1e44 (HEAD -> main, labreport) Added fork and branch diagrams
+686fff4 Added requirements and use case diagram
+d878e64 (origin/labreport) added markdown file for @trevordbunch requirements lab
+ef962b1 (origin/main, origin/HEAD) Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+
 <!-- Hint: for system output, use markdown's fenced code block for formatting. -->
 
 ### A.3 Branch Repository
