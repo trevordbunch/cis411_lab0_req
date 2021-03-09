@@ -55,7 +55,21 @@ This is an optional section, where system constraints, out of scope features or 
 ![Use Case Diagram](/assets/repository_diagram.svg)
 
 ### A.2 Git Logs
-2.7 View history of all commits that are related to the main repository `git log`
+2.7 Output
+```
+874ea0e (HEAD -> labreports, origin/labreports) Finishing the graphs
+ad53951 Working on the cis411_lab0_req again. trevordbunch
+50d40f8 (upstream/main, origin/main, origin/HEAD, main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+````
 
 6.4 View history of all commits and merges of the featured branch `git log`
 
