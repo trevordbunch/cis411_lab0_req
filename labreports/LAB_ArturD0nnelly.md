@@ -71,7 +71,22 @@ fd13d03 initial draft
 ad87871 Create License
 ````
 
-6.4 View history of all commits and merges of the featured branch `git log`
+6.4 Output
+```
+56f82ee (HEAD -> main, labreports) Working on A.3
+874ea0e (origin/labreports) Finishing the graphs
+ad53951 Working on the cis411_lab0_req again. trevordbunch
+50d40f8 (upstream/main, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
 
 ### A.3 Branch Repository
 ![Use Case Diagram](/assets/main_feature_branch.svg)
