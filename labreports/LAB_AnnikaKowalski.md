@@ -24,19 +24,18 @@ U3. The user must be able to place contact information on the ordering form such
 U4. The user must receive the right order and be satisfied to continue ordering with the business. (Parents)
 
 Functional Requirements   
-F1. Documentation of payment or order form to ensure the correct person is receiving the right order as well as delivery information. (Parents and Alana)  
-F2. Food must be kept either hot or cold until the delivery is made (Parents and Alana)  
-F3. Provide utensils and napkins since it is a takeout service (Parents)   
-F4. Customer service must be great in order to keep customers coming back. (Parents and	Alana) 
+F1. User must be able to sign in with Messiah credentials. (Parents)  
+F2. The app must provide an iterface for users to select food for ordering and customizing orders. (Alana and Parents)   
+F3. The app must send a confirmation email to the email provided upon log in. (Parents) 
 
 Non Functional Requirements   
-NF1. Easy to read graphics as well as colorful graphics (Parents)  
-NF2. Must be easy to navigate the website for ordering as well as food delivery (Parents and Alana)   
+NF1. The website/app must have identifiers so users can navigate the application.  (Parents)  
+NF2. The syste, msut notify customer of purchase within 1 minute of ordering. (Parents)  
+NF3. The custoemr must be able to track food order through the system. (Alana and Parents)  
 
 System Requirements  
-S1. Orders must be able to be tracked by the customer (Alana and Paarents)  
-S2. Provide online or in person payment methods (Alana)  
-S3. The website or app must be easily navigated (Parents)
+S1. The system must be built using Messiah's servers. (Parents)  
+S2. 
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
