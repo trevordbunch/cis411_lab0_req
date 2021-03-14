@@ -59,9 +59,17 @@ fd13d03 initial draft
 ad87871 Create License  
 
 Log from step 6.4
-
-
-Hint: for system output, use markdown's fenced code block for formatting.
+eee5282 (HEAD -> main, lapreport) your commit message  
+6749891 your commit and reference @trevordbunch in the message  
+0522082 (origin/main, origin/HEAD) Update  
+237b52e Update Instructions for template file  
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1  
+6293806 Merge pull request #1 from mcjo163/main  
+7482f04 Typo in lab instructions  
+3080719 typo in readme  
+33efb41 formatted template  
+fd13d03 initial draft  
+ad87871 Create License   
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your master/main branch and your feature branch in your repository (*Step 2.8*)
