@@ -35,7 +35,7 @@ NF3. The custoemr must be able to track food order through the system. (Alana an
 
 System Requirements  
 S1. The system must be built using Messiah's servers. (Parents)  
-S2. 
+S2. The system msut be built so that users can use Andriod, IOS and website orders. 
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
@@ -46,7 +46,20 @@ This is an optional section, where system constraints, out of scope features or 
 In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+Log from step 2.7 
+6749891 (HEAD -> lapreport) your commit and reference @trevordbunch in the message  
+0522082 (origin/main, origin/HEAD, main) Update  
+237b52e Update Instructions for template file  
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1  
+6293806 Merge pull request #1 from mcjo163/main  
+7482f04 Typo in lab instructions  
+3080719 typo in readme  
+33efb41 formatted template  
+fd13d03 initial draft  
+ad87871 Create License  
+
+Log from step 6.4
+
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
