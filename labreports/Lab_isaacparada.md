@@ -24,9 +24,9 @@ As far as I can boil this down, we have a) an individual ordering food and speci
 
 
 #### Business: 
-Add convenience to student’s lives.
-Be reliable and well coordinated.
-Food needs to reach customer in a reasonable time. 
+Will add convenience to student’s lives.
+Will be reliable and timely.
+Food must reach customer in a reasonable time. 
 Delivery menu must be catered specifically for items that can be reasonably transported.
 
 #### User:
@@ -35,8 +35,8 @@ Customer must be able to specify delivery instructions.
 #### Functional:
 1. Customer must be charged upon placing their order
 Cook needs to be notified of order.
-2. Delivery person needs to be notified when order is placed.
-Estimated time of pickup should be provided to delivery person.
+2. Delivery person must to be notified when order is placed.
+Estimated time of pickup must be provided to delivery person.
 
 3. Delivery People must be employees working for the food on campus provider. If workers are random people picking up orders they will likely not be available when needed.  
 
@@ -46,7 +46,7 @@ Estimated time of pickup should be provided to delivery person.
 
 
 #### System: 
-1. Should be a mobile app.
+1. Will be a reactive website/mobile app.
 
 
 ## 3. Assumptions
