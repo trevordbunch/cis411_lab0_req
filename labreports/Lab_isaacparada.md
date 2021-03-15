@@ -13,7 +13,7 @@ ___
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
 
-![Use Case Diagram](/labreports/Screen Shot 2021-02-14 at 11.06.29 PM.png)  
+![Use Case Diagram](/labreports/SS2.png)  
 
 
 The process we are dealing with here is clearly not as simple as you might be led on to believe. We are dealing with at least 3 different parties here. I interviewed a number of people, some of whom had good insights, others of whom weren’t very helpful. One person suggested bringing drones into the picture. For the sake of simplicity (and not wanting to think about legal complications) I decided against bringing drones into any part of this. 
@@ -56,15 +56,15 @@ This is an optional section, where system constraints, out of scope features or 
 
 ### A.1 Forked Repository
 
-![Forked Repository Diagram](/labreports/labreports/Screen Shot 2021-02-14 at 7.35.57 PM.png)  
+![Forked Repository Diagram](/labreports/SS4.png)  
 
 ### A.2 Git Logs
 
-![Commit history](/labreports/Screen Shot 2021-02-14 at 11.50.07 PM.png)
+![Commit history](/labreports/SS1.png)
 
 
 ### A.3 Branch Repository
 
-![Main branch/ feature branch diagram](/labreports/Screen Shot 2021-02-14 at 11.57.46 PM.png)
+![Main branch/ feature branch diagram](/labreports/SS3.png)
 
 ### A.4 Extra Credit
