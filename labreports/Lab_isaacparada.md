@@ -65,6 +65,6 @@ This is an optional section, where system constraints, out of scope features or 
 
 ### A.3 Branch Repository
 
-![Main branch/ feature branch diagram](/labreports/SS3.png)
+![Main branch/ feature branch diagram](/labreports/SS5.png)
 
 ### A.4 Extra Credit
