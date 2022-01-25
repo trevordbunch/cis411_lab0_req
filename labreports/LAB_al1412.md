@@ -1,10 +1,10 @@
 # Lab Report: Requirements
 ___
-**Course:** CIS 411, Spring 2021  
+**Course:** CIS 411, Spring 2022  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Adam Lenker  
-**GitHub Handle:** al1412
-**Repository:** https://github.com/al1412/cis411_lab0_req 
+**GitHub Handle:** al1412  
+**Repository:** https://github.com/al1412/cis411_lab0_req  
 ___
 
 ## 1. Overview
