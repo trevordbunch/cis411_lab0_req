@@ -28,24 +28,26 @@ This is an optional section, where system constraints, out of scope features or 
 
 ### A.1 Forked Repository
 In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+![Repository diagram](https://user-images.githubusercontent.com/97567307/151079618-760d14d1-9e46-43be-b71c-2345e785d7fd.jpg)
+
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-Step 2.7 Git Log
-5816eee (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/al1412/cis411_lab0_req
-c5e7e27 Lab report is located here @trevordbunch
-bf0f87a your commit and reference @trevordbunch in the message
-50d40f8 (upstream/main, origin/labreport, labreport) Update references to main branch
-ef962b1 Fix links in resource area
-237b52e Update Instructions for template file
-dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-6293806 Merge pull request #1 from mcjo163/main
-7482f04 Typo in lab instructions
-3080719 typo in readme
-33efb41 formatted template
-fd13d03 initial draft
-ad87871 Create License
+*Step 2.7 Git Log*   
+5816eee (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/al1412/cis411_lab0_req   
+c5e7e27 Lab report is located here @trevordbunch   
+bf0f87a your commit and reference @trevordbunch in the message   
+50d40f8 (upstream/main, origin/labreport, labreport) Update references to main branch   
+ef962b1 Fix links in resource area   
+237b52e Update Instructions for template file   
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1   
+6293806 Merge pull request #1 from mcjo163/main   
+7482f04 Typo in lab instructions   
+3080719 typo in readme   
+33efb41 formatted template   
+fd13d03 initial draft   
+ad87871 Create License   
 
 
 Hint: for system output, use markdown's fenced code block for formatting.
