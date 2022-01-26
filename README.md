@@ -1,5 +1,4 @@
 # CIS 411 Lab 0: Requirements
-I could change it
 This is the Requirements Lab for CIS 411: Systems Analysis and Design for [Messiah University](http://messiah.edu)
 
 This lab has three purposes:
