@@ -34,7 +34,7 @@ In this section, provide a diagram that demonstrates the relationship between th
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-*Step 2.7 Git Log*    
+***Step 2.7 Git Log***    
 `5816eee (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/al1412/cis411_lab0_req`     
 `c5e7e27 Lab report is located here @trevordbunch`   
 `bf0f87a your commit and reference @trevordbunch in the message`   
