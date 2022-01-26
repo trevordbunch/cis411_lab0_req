@@ -2,9 +2,9 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Alanah Inniss
+**GitHub Handle:** alanahinniss
+**Repository:** https://github.com/alanahinniss/cis411_lab0_req.git
 ___
 
 ## 1. Overview
