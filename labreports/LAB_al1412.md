@@ -35,7 +35,7 @@ In this section, provide a diagram that demonstrates the relationship between th
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
 *Step 2.7 Git Log*
-5816eee (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/al1412/cis411_lab0_req     
+`5816eee (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/al1412/cis411_lab0_req     
 c5e7e27 Lab report is located here @trevordbunch   
 bf0f87a your commit and reference @trevordbunch in the message   
 50d40f8 (upstream/main, origin/labreport, labreport) Update references to main branch   
@@ -47,7 +47,7 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 3080719 typo in readme   
 33efb41 formatted template   
 fd13d03 initial draft  
-ad87871 Create License
+ad87871 Create License`
 
 
 
