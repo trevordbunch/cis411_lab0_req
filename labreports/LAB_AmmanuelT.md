@@ -10,7 +10,7 @@ ___
 ## 1. Overview
 There are three actors. The user, the dinning service staff and the delivery person. The user must first go onto the system and order the food. The dinning service staff will receive the order and will prepare the food. The delivery person must then take the food and deliver it to the user. Once the food arrives to the user the delivery person will confirm having delivered the food and the user must also confirm receiving the food. The user must then pay and the dinning service staff will accept the payment.
 
-![Use Case Diagram](/assets/useCase.svg)  
+![Use Case Diagram](/assets/use.svg)  
 
 
 ## 2. Requirements
@@ -64,7 +64,7 @@ logs from *Step 6.4*
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-![diagram of labreport branch](/assets/labereportBranch.svg)
+![diagram of labreport branch](/assets/labereport.svg)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
