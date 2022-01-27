@@ -40,7 +40,26 @@ This is an optional section, where system constraints, out of scope features or 
 [diagram of forked repository](/assets/forkedRepo.svg)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+logs from *Step 2.7*
+
+```
+→ a0c9ca7 (HEAD -> labreport, origin/labreport) added use case diagram
+bash: syntax error near unexpected token `HEAD'
+50d40f8 (origin/main, origin/HEAD, main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+
+logs from *Step 6.4*
+
+
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
