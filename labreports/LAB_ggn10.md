@@ -19,7 +19,7 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-![Forked Repo Diagram](/Desktop/ForkedRepositoryDiagram.png)
+![Forked Repo Diagram](C:\Users\garre\Desktop\ForkedRepositoryDiagram.png)
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
