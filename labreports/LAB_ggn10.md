@@ -27,13 +27,26 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 ```
 2.7 Logs
 {
-    ea506e4 (HEAD -> labreport, origin/labreport) Added template and started working on part 1
+    fd143ec (HEAD -> labreport, origin/labreport) Forked repo diagram
+    bbf2193 Forked repo diagram
+    fca42b4 Adding diagram to assests
+    67a7f5f Modified fork diagram
+    f35aba0 Added Forked Repo Diagram
+    2b4330c Small changes
+    ea506e4 Added template and started working on part 1
     55b9246 Committing my markdown lab file @trevordbunch
 }
 ```
 
+```
+6.4 Logs
+{
+
+}
+```
+
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+![Forked Repo Diagram](/assets/BranchDiagram.png)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
