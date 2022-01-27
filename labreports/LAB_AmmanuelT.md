@@ -64,7 +64,7 @@ logs from *Step 6.4*
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-![diagram of labreport branch](/assets/labereport.svg)
+![diagram of labreport branch](/assets/labreport.svg)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
