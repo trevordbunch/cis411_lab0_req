@@ -10,14 +10,6 @@ ___
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
@@ -31,20 +23,12 @@ In this section, provide a diagram that demonstrates the relationship between th
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
-Step 2.7 Logs:
+
 ```
+2.7 Logs
 {
-    55b9246 (HEAD -> labreport, origin/labreport) Committing my markdown lab file @trevordbunch
-    50d40f8 (upstream/main, origin/main, origin/HEAD, main) Update references to main branch
-    ef962b1 Fix links in resource area
-    237b52e Update Instructions for template file
-    dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-    6293806 Merge pull request #1 from mcjo163/main
-    7482f04 Typo in lab instructions
-    3080719 typo in readme
-    33efb41 formatted template
-    fd13d03 initial draft
-    ad87871 Create License
+    ea506e4 (HEAD -> labreport, origin/labreport) Added template and started working on part 1
+    55b9246 Committing my markdown lab file @trevordbunch
 }
 ```
 
