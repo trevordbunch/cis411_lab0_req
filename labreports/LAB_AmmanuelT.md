@@ -8,15 +8,10 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
-
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
+There are three actors. The user, the dinning service staff and the delivery person. The user must first go onto the system and order the food. The dinning service staff will receive the order and will prepare the food. The delivery person must then take the food and deliver it to the user. Once the food arrives to the user the delivery person will confirm having delivered the food and the user must also confirm receiving the food. The user must then pay and the dinning service staff will accept the payment.
+ 
 ![Use Case Diagram](/assets/useCase.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+
 
 ## 2. Requirements
 - Buisness Requirements:
@@ -42,7 +37,7 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+[diagram of forked repository](/assets/forkedRepo.svg)
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
@@ -50,7 +45,7 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+[diagram of forked repository](/assets/labereportBranch.svg)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
