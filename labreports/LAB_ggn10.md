@@ -11,18 +11,34 @@ ___
 **Business Need**: 
 “I would like to order a meal from an on-campus provider, and have it delivered to my classroom.”
 
+**Information Gathered From Interviews**:
+- **Union/Falcon Cafe Manager Interview**:
+   - Orders must be picked up within 30 minutes are they are charged and cancelled.
+   - There will only be some types of foods available for delivery order.
+   - 3 delivery employees on per shift. They are provided a bike to assist in delivery times.
+   - Orders will have to be limited to sustain 3 employees and 30 min. time frame.
+- **Student Interview**:
+   - Student expressed desire for system to provide an estimated time of delivery.
+   - Delivery system would open new employment opportunities for students on campus.
+- **IT Interview**:
+   - Delivery system will integrate directly with the systems that are currently in place for the Falcon and Union cafes.
+     - Additional options will be added when the user selects the 'to-go' option when ordering.
+   - A campus map will be required for students to designate their delivery location.
+
 **Overview of Business Process**:
 
 ![Business Process Diagram](/assets/BusinessProcess.png)
 
-Actors and Corresponding Tasks:
+**Actors and Corresponding Tasks**:
 1. **User**: This includes anyone who would order food for delivery. i.e. Student, Employee, Teacher
-   - Place order and confirm Messiah login for payment purposes
+   - Confirm Messiah login for payment purposes
+   - Place order
    - Designate delivery location
    - Be present to recieve food
 2. **Cook Employee**: Employee responsible for processing food orders and making the food
    - Confirm order
-   - Cook food and place food in designated "ready for delivery" area
+   - Cook food
+   - Place food in designated "ready for delivery" area
 3. **Delivery Employee**: Employee responsible for handling delivery process
    - Pick up order and notify user that delivery process has begun
    - Deliver food and verify user has recieved food
