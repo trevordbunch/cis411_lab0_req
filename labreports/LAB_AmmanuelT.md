@@ -37,7 +37,7 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-repo ![diagram of forked repository](/assets/forkedRepo.svg)
+![diagram of forked repository](/assets/forkedRepo.svg)
 
 ### A.2 Git Logs
 logs from *Step 2.7*
