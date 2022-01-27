@@ -8,7 +8,16 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+Business Need: 
+“I would like to order a meal from an on-campus provider, and have it delivered to my classroom.”
+
+![Business Process Diagram](/assets/BusinessProcess.png)
+
+List of Actors:
+1. User: This includes anyone who would order food for delivery. i.e. Student, Employee, Teacher
+2. Cook Employee: Employee responsible for processing food orders and making the food.
+3. Delivery Employee: Employee responsible for handling delivery process.
+4. System: System responsible for processing delivery orders, delivery location, and payment information
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
