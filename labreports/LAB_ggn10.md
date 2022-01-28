@@ -39,7 +39,7 @@ ___
    - Place order
    - Designate delivery location
    - Be present to recieve food
-2. **Cook Employee**: Employee responsible for processing food orders and making the food
+2. **Cook**: Employee responsible for processing food orders and making the food
    - Confirm order
    - Cook food
    - Place food in designated "ready for delivery" area
@@ -77,12 +77,16 @@ ___
   - F.5 The system must provide user with estimated delivery time through messiah.edu email.
   - F.6 The system must allow user to confirm their order.
 - **Non-Functional**: The characteristics that the system should have
-  - N.1 The system will integrate directly with the system that is already in place for Union Cafe and Falcon Cafe. (IT interview)
-  - N.2 The system must render pages in less than 15 seconds after user action.
-  - N.3 The system must display food in a manner that allows for easy user selection.
-  - N.4 The system should be able to handle 30 users without affecting performance.
+  - N.1 The system must render pages in less than 15 seconds after user action.
+  - N.2 The system must display food in a manner that allows for easy user selection.
+  - N.3 The system should be able to handle 30 users without affecting performance.
+  - N.4 The system must provide a campus map that allows for detailed location selection.
 - **System**: Specifications about how the system should be built
-  - S.1
+  - S.1 The system will be built to integrate directly with the system that is already in place for Union Cafe and Falcon Cafe. (IT interview)
+    - S.1.1 The system will use the SSO solution already in place for messiah.edu domain accounts.
+    - S.1.2 The system will be built directly after the 'to-go' option of the current online ordering system.
+  - S.2 The system will be built through HTML, CSS, and JavaScript.
+  - S.3 The system campus map will be built through google maps.
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
