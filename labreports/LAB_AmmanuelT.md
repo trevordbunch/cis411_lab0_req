@@ -8,7 +8,7 @@ ___
 ___
 
 ## 1. Overview
-There are three actors. The user, the dinning service staff and the delivery person. The user must first go onto the system and order the food. The dinning service staff will receive the order and will prepare the food. The delivery person must then take the food and deliver it to the user. Once the food arrives to the user the delivery person will confirm having delivered the food and the user must also confirm receiving the food. The user must then pay and the dinning service staff will accept the payment.
+There are three actors. The user, the dinning service staff and the delivery person. The user must first log onto the system using their messiah email. The user will then enter their location on campus and pick food from the provided menu. The user will then confirm their order and will receive the live location of the food. The dinning service staff will receive the order and will prepare the food. The delivery person must then take the food and deliver it to the user. Once the food arrives to the user the delivery person will confirm having delivered the food and the user must also confirm receiving the food. The user must then pay and the dinning service staff will accept the payment.
 
 ![Use Case Diagram](/assets/use.svg)  
 
@@ -22,10 +22,10 @@ There are three actors. The user, the dinning service staff and the delivery per
     - U.1 The user must povide a valid messiah email adress. (Cyber Security Student)
     - U.2 The user must provide an on campus location. (Kelly Apartment Student)
 - Functional Requirements:
-    - F.1 The System will allow users to add or remove ingredients from food( Student)
+    - F.1 The System will allow users to add or remove ingredients from food(Exercise Science Student)
     - F.2 The System will offer the live location of the food being delivered(Hungry Student)
 - Non-Functional Requirements:
-    - NF.1 The System will ask for confirmation twice so that the user doesn't order food by accident.(Concerned Staff Member)
+    - NF.1 The System will ask for confirmation twice so that the user doesn't order food by accident.(Concerned Faculty Member)
     - NF.2 The System must provide nutritional information for the available food options.(Nutrition Student 1)
     - NF.3 The System will have brightly colored allergens warnings for the available food options. (Nutrition Student 2)
 - System Requirements:
@@ -60,11 +60,8 @@ ad87871 Create License
 logs from *Step 6.4*
 
 
-
-Hint: for system output, use markdown's fenced code block for formatting.
-
 ### A.3 Branch Repository
 ![diagram of labreport branch](/assets/labreport.svg)
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+ ![diagram of round-trip of code](/assets/roundtrip.svg)
