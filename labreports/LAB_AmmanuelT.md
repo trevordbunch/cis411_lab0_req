@@ -12,7 +12,6 @@ There are three actors. The user, the dinning service staff and the delivery per
 
 ![Use Case Diagram](/assets/use.svg)  
 
-
 ## 2. Requirements
 - Buisness Requirements:
     - B.1 The system must limit the orders based on the availability of ingredients, so that the ordered food can be preparred.(Young Dining Service Manager)
@@ -59,7 +58,31 @@ ad87871 Create License
 
 logs from *Step 6.4*
 
-
+```
+f44e450 (HEAD -> main, labreport) fixed links
+d026606 (origin/labreport) added diagram for step 8 & fixed overview
+117448c added diagram for step 8 & fixed overview
+a39879a fixed diagrams
+68f58a7 fixed diagrams
+590d185 fixed diagrams
+f0ed4a3 fixed diagrams
+530b969 fixed diagrams
+d66a8a0 fixed diagrams
+4f9e646 fixed diagrams
+547f848 added more diagrams and Buisness Problem
+6176cd1 added more diagrams and Buisness Problem
+a0c9ca7 added use case diagram
+500d5cb added requirements
+383850c first lab report commit @trovordbunch
+50d40f8 (origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+```
 
 ### A.3 Branch Repository
 ![diagram of labreport branch](/assets/labreport.svg)
