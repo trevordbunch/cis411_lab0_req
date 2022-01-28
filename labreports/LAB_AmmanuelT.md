@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Ammanuel Tamrat  
 **GitHub Handle:** AmmanuelT  
-**Repository:** Your Forked Repository  
+**Repository:** [Forked Repository](https://github.com/AmmanuelT/cis411_lab0_req.git)
 ___
 
 ## 1. Overview
@@ -58,6 +58,7 @@ ad87871 Create License
 ```
 
 logs from *Step 6.4*
+
 
 
 ### A.3 Branch Repository
