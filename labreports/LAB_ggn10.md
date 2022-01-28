@@ -2,9 +2,9 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Garrett Nissley
-**GitHub Handle:** ggn10
-**Repository:** [ggn10/cis411  ](https://github.com/ggn10/cis411_lab0_req)
+**Name:** Garrett Nissley  
+**GitHub Handle:** ggn10  
+**Repository:** [ggn10/cis411  ](https://github.com/ggn10/cis411_lab0_req) 
 ___
 
 ## 1. Overview
@@ -46,7 +46,7 @@ ___
    - Process order details (name, food, delivery location)
    - Process payment according to Messiah.edu account of user
 
-Outcomes:
+**Outcomes**:
 1. Messiah University will not have a food delivery system.
 2. Messiah University will have a food delivery system that fails to fulfill the full scope of the business need.
 3. Messiah University will have a fully-functioning food delivery system.
