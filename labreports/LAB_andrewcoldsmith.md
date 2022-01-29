@@ -8,7 +8,7 @@ ___
 ___
 
 ## 1. Overview
-Students at Messiah University often left without gaps between classes during meal times like lunch and dinner. A service for delivering on-campus dining directly to classrooms could solve this dilema. Using Falcon Link on their phone or laptop, any student would easily be able to order food from the Union or Falcon Cafe and have it delivered to their next class.
+Students at Messiah University are often left without gaps between classes during meal times like lunch and dinner. A service for delivering on-campus dining directly to classrooms could solve this dilema. Using Falcon Link on their phone or laptop, any student would easily be able to order food from the Union or Falcon Cafe and have it delivered to their next class.
 
 ![Forked Repository Diagram](/assets/foodServiceUseCaseDiagram.jpg)
 
