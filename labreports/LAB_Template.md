@@ -1,10 +1,10 @@
 # Lab Report: Requirements
 ___
-**Course:** CIS 411, Spring 2022  
+**Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Andrew Coldsmith  
-**GitHub Handle:** andrewcoldsmith  
-**Repository:** [Forked Repository](https://github.com/andrewcoldsmith/cis411_lab0_req.git)  
+**Name:** Your Name  
+**GitHub Handle:** Your GitHub Handle  
+**Repository:** Your Forked Repository  
 ___
 
 ## 1. Overview
