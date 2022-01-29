@@ -26,8 +26,6 @@ B.1 The system must deliver food in a fast and effective matter. (LeeAnn Boyer)
 B.2 The system must base orders around what is currently avaiable for each dining option, indicating whether or not a certain item is available should such an event occur. (Brendan Hauer)    
 
 
-
-
 **User:**    
 U.1 The system must lead to a screen for the student to select if they want food from either the Falcon or the Union immediately after login. (LeeAnn Boyer)    
 
@@ -46,21 +44,29 @@ F.1 The system must allow the student full access to both take-out eating option
 F.2 The system must offer fast and efficient delivery of meals wherever the student may be and must be able to reach wherever the student is on campus (the food
 should arrive hot if it’s hot food and cold if it’s cold food). (LeeAnn Boyer)    
 
+F.3 The system must indicate the approximate time which a user's food will be ready. (Brendan Hauer)     
+
+F.4 The system must calculate the total cost of their order based on the prices of each option they selected, as well as how many of each option they selected. (Brendan Hauer)    
+
 
 **Non-Functional:**    
 N.1 The system must have user interfaces which are easy to navigate for each screen. (LeeAnn Boyer)     
 
 N.2 The system must have full access to the menus of the eating place that the student chooses. (LeeAnn Boyer)    
 
+N.3 The system must render pages without experiencing glitches or technical errors. (Brendan Hauer)    
+
+N.4 The system must load pages within 3 seconds (at maximum) after a user clicks on an option from the previous page. (Brendan Hauer)    
+
 
 **System:**    
 S.1 The system must authenticate each user through the Messiah SSO (Single Sign-On) system to verify that users are Messiah students or faculty. (LeeAnn Boyer)     
 
-S.3 The system must have the ability to go to a past window if a student
-changes their mind on what they want to order. (LeeAnn Boyer)    
+S.2 The system must have the ability to go to a past window if a student changes their mind on what they want to order. (LeeAnn Boyer)    
 
-S.4 The system must have the option to cancel the order if a student changes their
-mind. (LeeAnn Boyer)    
+S.3 The system must have the option to cancel the order if a student changes their mind. (LeeAnn Boyer)    
+
+S.4 The system must automatically log out the user after ten minutes of inactivity (Brendan Hauer)    
 
 
 ## 3. Assumptions
