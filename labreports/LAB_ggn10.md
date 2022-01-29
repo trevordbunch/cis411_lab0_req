@@ -66,7 +66,7 @@ ___
 4. Messiah University will have a fully-functioning food delivery system that increases customer satisfaction.
 
 ## 2. Requirements
-- **Business**: The business objective that the system needs to satisfy
+- **Business**: The business objectives that the system needs to satisfy
   - B.1 The system must limit orders according to 30 minute time frame. (Manager)
   - B.2 The system must limit ordering according to status of delivery employees. (Manager)
   - B.3 The system must be profitable for Messiah University. (Higher-Up)
@@ -97,9 +97,6 @@ ___
     - S.1.2 The system will be built directly after the 'to-go' option of the current online ordering system.(IT/UX)
   - S.2 The system will be built through HTML, CSS, and JavaScript. (IT/UX)
   - S.3 The system campus map will be built through google maps. (IT/UX)
-
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
 
 ## Appendix: GitHub Notes
 
