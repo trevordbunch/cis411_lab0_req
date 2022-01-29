@@ -63,15 +63,15 @@ ___
   
 * F10: The system must notify the user when their order has been prepared. (Me, the writer of this document)
   
-* F11: The system must allow a Union or Falcon staff member to update the status of an order.  This includes when the order is done being made and when the order is being delivered. (Me, the writer of this document)
+* F11: The system must allow a Union or Falcon staff member to update the status of an order.  This includes when the order is done being made, when the order is being delivered, and when it has been delivered. (Me, the writer of this document)
   
-* F12: The system must provide the ability for the staff member to send SMS messages to the user in case there were errors in the order or in case their location is unclear. (Me, the writer of this document)
+* F12: The system must provide the ability for the staff member to send SMS messages to the user in case there were errors in the order or in case their location or description is unclear. (Me, the writer of this document)
 
 ### Non-Functional ###
 
 * N1: The styles of the added features must match the styles of the existing features. (Judy Fashion, the UI-UX designer)
   
-* N2: The information for the new features of the app must be compatible with an ereader so that people who are blind can still use the service. (Judy Fashion, the UI-UX designer)
+* N2: The information for the new features of the app must be compatible with an e-reader so that people who are blind can still use the service. (Judy Fashion, the UI-UX designer)
    
 * N3: The delivery exchange must comply with the COVID-19 guidelines set by Messiah University. (Kim Phipps, president of Messiah University)
   
@@ -80,7 +80,7 @@ ___
 
 * S1: The system must utilize the existing databases  associated with the Falcon and Union to record delivery information including location, order, and student information. (Hank Farkle IT Coordinator)
 * S2: The system's new features must be coded in way that is cohesive with the existing framework. (Hank Farkle IT Coordinator)
-* S3: The system must utilize SMS features to send text message notifaction of their order's status. (Hank Farkle IT Coordinator) 
+* S3: The system must utilize SMS features to send text message notifications of their order's status. (Hank Farkle IT Coordinator) 
 * S4: The current database system must be able to support the weight of all of the new requests coming in and all of the new data that needs to be stored. (Hank Farkle IT Coordinator) 
 * S5: The system must support views from desktop and mobile devices. (Hank Farkle IT Coordinator) 
 
@@ -94,6 +94,7 @@ ___
 
 ### A.2 Git Logs
 
+#### 1
 * ea25789 : (HEAD -> labreport) Finished overview and diagrams for overview and github relationships
 * 5ec88ff : (origin/labreport) first commit @trevordbunch
 * 50d40f8 : (origin/main, origin/HEAD, main) Update references to main branch
@@ -106,7 +107,21 @@ dafaf5e : Merge pull request #2 from NedacNostrebor/patch-1
 * 33efb41 : formatted template
 * fd13d03 : initial draft
 * ad87871 : Create License
-
+  
+#### 2
+* 5fc2104 : (HEAD -> labreport) actual final commit with grammatical and spelling errors fixed
+* e31b3b3 : final commit and final version of the project
+ea25789 : Finished overview and diagrams for overview and github relationships
+* 5ec88ff : (origin/labreport) first commit @trevordbunch
+* 50d40f8 : (origin/main, origin/HEAD, main) Update references to main branch
+* ef962b1 : Fix links in resource area
+* 237b52e : Update Instructions for template file
+* dafaf5e : Merge pull request #2 from NedacNostrebor/patch-1
+* 6293806 : Merge pull request #1 from mcjo163/main
+* 7482f04 : Typo in lab instructions
+* 3080719 : typo in readme
+* 33efb41 : formatted template
+* fd13d03 : initial draft
 
 
 
