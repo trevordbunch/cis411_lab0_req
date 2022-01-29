@@ -121,7 +121,29 @@ ___
 ```
 6.4 Logs
 {
-
+   270b7ce (HEAD -> main, origin/labreport, labreport) final touches
+   a05c00a final touches
+   e387d8e final touches
+   e154969 Interview and req changes
+   9869a8a More Req. changes
+   e10d11f Req changes
+   54be0af Updated heading
+   7d56b45 Req changes
+   e0f7260 Req changes
+   3b5825b Overview section updated
+   f54342e Updated lab report
+   b3bf3c6 Business Process diagram
+   21ba4e6 Adding branch diagram
+   8ff93d2 Adding branch diagram
+   fd143ec Forked repo diagram
+   bbf2193 Forked repo diagram
+   fca42b4 Adding diagram to assests
+   67a7f5f Modified fork diagram
+   f35aba0 Added Forked Repo Diagram
+   2b4330c Small changes
+   ea506e4 Added template and started working on part 1
+   55b9246 Committing my markdown lab file @trevordbunch
+   50d40f8 (upstream/main, origin/main, origin/HEAD) Update references to main branch
 }
 ```
 
