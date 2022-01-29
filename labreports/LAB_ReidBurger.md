@@ -14,6 +14,8 @@ The second person, Paul Callender, who is 20 years and male, says that an app wi
 
 ![Use Case Diagram OLD](/assets/Use_case_restaurant_model.svg)
 
+[Use Case Diagram NEW](/assets/Use_case_restaurant_model.svg)
+
 ![Use Case Diagram](/assets/Lab0_UseCases.svg)
 
 
