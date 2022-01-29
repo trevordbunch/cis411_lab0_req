@@ -19,9 +19,9 @@ Here is an example of including a image into your lab report using an uploaded f
 Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.    
 **Business:**    
-B.1 The system must deliver food in a fast and effective matter. (LeeAnn Boyer)   
+B.1 The system must deliver food in a fast and effective matter. (LeeAnn Boyer)    
 
 
 **User:**    
@@ -35,13 +35,26 @@ U.4 The system must display confirmation screen with the estimated time of food 
 
 
 **Functional:**    
+F.1 The system must allow the student full access to both take-out eating options on campus. (LeeAnn Boyer)    
+
+F.2 The system must offer fast and efficient delivery of meals wherever the student may be and must be able to reach wherever the student is on campus (the food
+should arrive hot if it’s hot food and cold if it’s cold food). (LeeAnn Boyer)    
 
 
 **Non-Functional:**    
+N.1 The system must have user interfaces which are easy to navigate for each screen. (LeeAnn Boyer)     
+
+N.2 The system must have full access to the menus of the eating place that the student chooses. (LeeAnn Boyer)    
 
 
 **System:**    
+S.1 The system must authenticate each user through the Messiah SSO (Single Sign-On) system to verify that users are Messiah students or faculty. (LeeAnn Boyer)     
 
+S.3 The system must have the ability to go to a past window if a student
+changes their mind on what they want to order. (LeeAnn Boyer)    
+
+S.4 The system must have the option to cancel the order if a student changes their
+mind. (LeeAnn Boyer)    
 
 
 ## 3. Assumptions
