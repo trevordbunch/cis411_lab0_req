@@ -127,6 +127,3 @@ ___
 
 ### A.3 Branch Repository
 ![Forked Repo Diagram](/assets/BranchDiagram.png)
-
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
