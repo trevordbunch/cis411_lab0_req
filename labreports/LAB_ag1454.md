@@ -12,7 +12,7 @@ In this section provides a brief overview of the business problem.  By brief, it
 
 Business problem: “I would like to order a meal from an on-campus provider and have it delivered to my classroom.”
 
-![Business Process](/assets/BPD.png) 
+![Business Process](/assets/BPD.PNG) 
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
