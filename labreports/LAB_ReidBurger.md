@@ -51,11 +51,11 @@ If we are creating one app for everything, there should be a clear switch from "
 ### A.2 Git Logs
 
 ```
-console.log('e667267 (HEAD -> labreport, origin/labreport) Try Again @trevordbunch')
+e667267 (HEAD -> labreport, origin/labreport) Try Again @trevordbunch
 ```
 
 ```
-console.log('bd525b1 (HEAD -> labreport, origin/labreport) Diagrams @trevordbunch
+bd525b1 (HEAD -> labreport, origin/labreport) Diagrams @trevordbunch
 550ab93 Added Requirements @trevordbunch
 fed3ceb StackOverflowGodsSmileUponMe @trevordbunch
 f5f125d DoIt @trevordbunch
@@ -66,7 +66,7 @@ f0b12df Please Work@trevordbunch
 1427e15 TryAgain @trevordbunch
 fdf6a37 UseCaseDiagram @trevordbunch
 995a425 Part1 @trevordbunch
-e667267 Try Again @trevordbunch')
+e667267 Try Again @trevordbunch
 ```
 
 ### A.3 Branch Repository
