@@ -12,7 +12,7 @@ The main problem I am trying to solve is as follows: “I would like to order a 
 
 The second person, Paul Callender, who is 20 years and male, says that an app with such power should be able to also cater to dorms in addition to classrooms and students should be able to sign up to deliver rather than just be the recipient. He also says that the delivery fee should not be too expensive or it would prevent most college students from using it.
 
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)
+![Use Case Diagram](/assets/Lab0_UseCases.svg)
 
 
 ## 2. Requirements
