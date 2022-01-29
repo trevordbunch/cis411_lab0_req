@@ -20,6 +20,29 @@ Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+**Business:**    
+B.1 The system must deliver food in a fast and effective matter. (LeeAnn Boyer)   
+
+
+**User:**    
+U.1 The system must lead to a screen for the student to select if they want food from either the Falcon or the Union immediately after login. (LeeAnn Boyer)    
+
+U.2 The system must lead the user to a screen where they can order their food after selecting the dining option they want food from. (LeeAnn Boyer)    
+
+U.3 The system must associate the user with what building, floor, and room they are in. (LeeAnn Boyer)    
+
+U.4 The system must display confirmation screen with the estimated time of food arrival and a button to press to let the eating place know when the student has gotten their food. (LeeAnn Boyer)    
+
+
+**Functional:**    
+
+
+**Non-Functional:**    
+
+
+**System:**    
+
+
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
