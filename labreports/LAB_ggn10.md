@@ -67,12 +67,12 @@ ___
 
 ## 2. Requirements
 - **Business**: The business objective that the system needs to satisfy
-  - B.1 The system must limit orders according to time frame (30 min). (Manager)
+  - B.1 The system must limit orders according to 30 minute time frame. (Manager)
   - B.2 The system must limit ordering according to status of delivery employees. (Manager)
   - B.3 The system must be profitable for Messiah University. (Higher-Up)
   - B.4 The system must produce orders to fulfill delivery estimate time. (Student)
   - B.5 The system will provide for new job opportunities for Messiah students. (Student)
-  - B.6 The system will not hinder the business process of the Union or Falcon cafe. (Higher-Up)
+  - B.6 The system will not hinder the current business process of the Union or Falcon cafe. (Higher-Up)
 - **User**: The actions that a user takes within the system
   - U.1 The user must sign in using messiah.edu domain email. (IT/UX)
   - U.2 The user must provide payment information. (Student)
