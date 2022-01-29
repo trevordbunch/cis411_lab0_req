@@ -23,6 +23,10 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
 **Business:**    
 B.1 The system must deliver food in a fast and effective matter. (LeeAnn Boyer)    
 
+B.2 The system must base orders around what is currently avaiable for each dining option, indicating whether or not a certain item is available should such an event occur. (Brendan Hauer)    
+
+
+
 
 **User:**    
 U.1 The system must lead to a screen for the student to select if they want food from either the Falcon or the Union immediately after login. (LeeAnn Boyer)    
@@ -32,6 +36,8 @@ U.2 The system must lead the user to a screen where they can order their food af
 U.3 The system must associate the user with what building, floor, and room they are in. (LeeAnn Boyer)    
 
 U.4 The system must display confirmation screen with the estimated time of food arrival and a button to press to let the eating place know when the student has gotten their food. (LeeAnn Boyer)    
+
+U.5 If a dining plan other than the default one (Dining Dollars) is being used, the system must provide options for that sitaution so the user can select which payment plan they will use to pay for their order. (Brendan Hauer)    
 
 
 **Functional:**    
