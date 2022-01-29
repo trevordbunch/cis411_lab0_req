@@ -41,21 +41,12 @@ Students at Messiah University often have no gaps between classes during meal ti
 #### Log 1:
 ```
 ea81896 (HEAD -> labreport, origin/labreport) andrewcoldsmith commit @trevordbunch
-50d40f8 (origin/main, origin/HEAD, main) Update references to main branch
-ef962b1 Fix links in resource area
-237b52e Update Instructions for template file
-dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-6293806 Merge pull request #1 from mcjo163/main
-7482f04 Typo in lab instructions
-3080719 typo in readme
-33efb41 formatted template
-fd13d03 initial draft
-ad87871 Create License
 ```
 
 #### Log 2:
 ```
-
+b49554a (HEAD -> main, labreport) overview and requirements completed
+73f455c completed overview and requirements
 ```
 
 ### A.3 Branch Repository
