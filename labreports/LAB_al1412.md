@@ -102,7 +102,9 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)    
+![Branch Repository diagram](https://user-images.githubusercontent.com/97567307/151678657-8d6a4aee-4593-41db-9789-e04537fd6e35.jpg)
+
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
