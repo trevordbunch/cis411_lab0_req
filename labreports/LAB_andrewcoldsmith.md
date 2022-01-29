@@ -31,16 +31,12 @@ Students at Messiah University often have no gaps between classes during meal ti
     - S.1 The service must only function on Messiah's wifi. (Nathanael)
     - S.2 A new transaction system that allows for dining dollars to be spent online without a card swipe must be instituted. (Messiah IT Professional)
 
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
-
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
 ![Forked Repository Diagram](/assets/repositoryForkDiagram.jpg)  
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
 #### Log 1:
 ```
@@ -62,10 +58,8 @@ ad87871 Create License
 
 ```
 
-Hint: for system output, use markdown's fenced code block for formatting.
-
 ### A.3 Branch Repository
 ![Branch Repository Diagram](/assets/repositoryBranchDiagram.jpg)
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+![Git Roundtrip Diagram](/assets/gitRoundtripDiagram.jpg)
