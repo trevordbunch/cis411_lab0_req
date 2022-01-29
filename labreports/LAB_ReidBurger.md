@@ -49,9 +49,25 @@ If we are creating one app for everything, there should be a clear switch from "
 ![Diagram 1](/assets/git_diagram1.png)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-Hint: for system output, use markdown's fenced code block for formatting.
+```
+console.log('e667267 (HEAD -> labreport, origin/labreport) Try Again @trevordbunch')
+```
+
+```
+console.log('bd525b1 (HEAD -> labreport, origin/labreport) Diagrams @trevordbunch
+550ab93 Added Requirements @trevordbunch
+fed3ceb StackOverflowGodsSmileUponMe @trevordbunch
+f5f125d DoIt @trevordbunch
+aaef139 I hate images @trevordbunch
+cc37496 AHHH @trevordbunch
+f0b12df Please Work@trevordbunch
+57cf313 NowWork @trevordbunch
+1427e15 TryAgain @trevordbunch
+fdf6a37 UseCaseDiagram @trevordbunch
+995a425 Part1 @trevordbunch
+e667267 Try Again @trevordbunch')
+```
 
 ### A.3 Branch Repository
 ![Diagram 2](/assets/git_diagram2.png)
