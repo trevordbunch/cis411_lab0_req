@@ -30,7 +30,7 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
 	- F.2 The system must allow for order cancellations before placing the order. (Loki)
 - **Non-functional**
 	- N.1 The system must include pictures of the available food options. (Thor)
-	- N.2 The system must use a color scheme that doesn’t hinder the ability to read text or identify pictures and icons. (Thor)N.1 The system must include pictures of the available food options. (Thor)
+	- N.2 The system must use a color scheme that doesn’t hinder the ability to read text or identify pictures and icons. (Thor)
 - **System**
 	- S.1 The system must be able to be accessed from desktop and mobile. (Randy)
 	- S.2 The system must have dedicated hardware. (Randy)
@@ -66,9 +66,34 @@ fd13d03 initial draft
 ad87871 Create License
 ```
 
+###### Step 6.4
+```
+cd5e776 (HEAD -> main, labreport) commit8
+09c6d2a (origin/labreport) commit7, ref @trevordbunch
+173f7d9 commit6, ref @trevordbunch
+ee1aff5 commit5, ref @trevordbunch
+ce06ee4 commit5, ref @trevordbunch
+77be37b commit4, ref @trevordbunch
+05e2f88 commit3, ref @trevordbunch
+0446319 commit2, ref @trevordbunch
+505ed41 commit1, ref @trevordbunch
+50d40f8 (upstream/main, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 ![Relationship](/assets/Relationship.png)  
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
+
+(I did 8.2.)
