@@ -55,7 +55,10 @@ e667267 (HEAD -> labreport, origin/labreport) Try Again @trevordbunch
 ```
 
 ```
-bd525b1 (HEAD -> labreport, origin/labreport) Diagrams @trevordbunch
+7239260 (HEAD -> main) Merge branch 'labreport' into main
+b970e7b (origin/labreport, labreport) The Last Push @trevordbunch
+5cee702 Final Push @trevordbunch
+bd525b1 Diagrams @trevordbunch
 550ab93 Added Requirements @trevordbunch
 fed3ceb StackOverflowGodsSmileUponMe @trevordbunch
 f5f125d DoIt @trevordbunch
@@ -67,6 +70,14 @@ f0b12df Please Work@trevordbunch
 fdf6a37 UseCaseDiagram @trevordbunch
 995a425 Part1 @trevordbunch
 e667267 Try Again @trevordbunch
+50d40f8 (origin/main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
 ```
 
 ### A.3 Branch Repository
