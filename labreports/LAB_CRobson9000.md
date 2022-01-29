@@ -10,7 +10,7 @@ ___
 ## 1. Overview
 &nbsp;&nbsp;&nbsp;&nbsp;Sam Smith, a student at Messiah University, was complaining about how his schedule this semester didn't allow time for him to get lunch.  In an annoyed voice he said, “I would like to order a meal from an on-campus provider, and have it delivered to my classroom”.  I've been tasked with critically analyzing this problem to create a system in which Sam can order his lunch from the Union and have it delievered to his classroom so he won't be late and so that he can eat lunch.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I will need to work with the Union and Falcon to solve this problem because they already have ordering systems and are in the business of selling food to Messiah students.  With access to their ordering apps, I'll be able to modify them to include a delivery feature.  I'll need to consult with them about how this idea will effect their busineses, some of these effects being hiring more staff, accounting for more orders which affects supply managament, and possible changes in how they implement the ordering system.  I will also need to work with Sam and other students like Sam to determine the modified app's function.  
+&nbsp;&nbsp;&nbsp;&nbsp;I will need to work with the Union and Falcon to solve this problem because they already have ordering systems and are in the business of selling food to Messiah students.  With access to their ordering apps, I'll be able to modify them to include a delivery feature.  I'll need to consult with them about how this idea will effect their busineses, some of these effects being hiring more staff, accounting for more orders which affects supply management, and possible changes in how they implement the ordering system.  I will also need to work with Sam and other students like Sam to determine the modified apps' function.  
 
 ### Overview Diagram:  
 ![Overview Image](../Lab_Requirements_Overview_Diagam.jpg)
@@ -18,11 +18,11 @@ ___
 ## 2. Requirements
 ### Business ###
 
-* B1: The contract must require the Union and Flacon to hire more staff in order to keep up with new delivery orders.
+* B1: The contract must require the Union and Flacon to hire more staff in order to keep up with new delivery orders. (Me, the writer of this document) 
 * B2: The manager must train the staff to update an order's status. (Me, the writer of this document)  
 &nbsp;&nbsp;&nbsp;&nbsp;Specifically, they must...
-    * Update the order status to "Ready" when the staff member is done making the meal
-    * Update the order status to "On the Way" when the staff member is delivering the meal 
+    * Update the order status to "Ready" when the staff member is done making the meal.
+    * Update the order status to "On the Way" when the staff member is delivering the meal. 
     * Update the order status to "Delivered" when the staff member has delivered the meal (for logging purposes).
 * B3: The Union and Falcon must provide delivery insurance so that if anything happens to the food on the way, the user is not charged the amount. (Jeshua Ho, a business adminstration major at Messiah University)
 * B4: The delivery service will require the user to pay an extra delivery fee, to help balance the extra costs of paying more workers and lower the incentive to order in this way. (Jeshua Ho, a business adminstration major at Messiah University)
@@ -35,7 +35,7 @@ ___
 * U3: The user must place a valid meal order before requesting a delivery. (Jane Doe, the lead manager of the Union Cafe)
 * U4: The user must order to a valid classroom or building on Messiah University's campus. (Me, the writer of this document)
 * U5: The user must add a description of themselves so the deliverer knows who they are delivering to. (Hannah Carnes student at Messiah University)
-* U6: The user must agree to pay before the delivery, allowing the Union or Falcon to take funds directly from their Messiah account ((Jane Doe, the lead manager of the Union Cafe)   
+* U6: The user must agree to pay before the delivery, allowing the Union or Falcon to take funds directly from their Messiah account (Jane Doe, the lead manager of the Union Cafe)   
 
 ### Functional
 
