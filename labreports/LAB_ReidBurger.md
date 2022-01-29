@@ -3,12 +3,14 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Reid Burger
-**GitHub Handle:** ReidBurger
+**GitHub Handle:** [ReidBurger](https://github.com/ReidBurger)
 **Repository:** Reid's Forked Repository  
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+The main problem I am trying to solve is as follows: “I would like to order a meal from an on-campus provider, and have it delivered to my classroom.” I have interviewed two people, one is a teacher, and the other is a student. The teacher, Dr. Malarky, is male, 46 years old, and has three children. He says that an app that provides such a service should do so quickly and in a cost-effective way. Also, the interface should be intuitive so that he can order while walking to class or while being distracted by those pesky students. 
+
+The second person, Paul Callender, who is 20 years and male, says that an app with such power should be able to also cater to dorms in addition to classrooms and students should be able to sign up to deliver rather than just be the recipient. He also says that the delivery fee should not be too expensive or it would prevent most college students from using it.
 
 Here is an example of including a image into your lab report using a URL:  
 ![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
