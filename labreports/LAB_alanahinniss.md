@@ -51,7 +51,7 @@ Order will be successfully executed under the assumptions that there is enough s
 
 ### A.1 Forked Repository
 
-![](chart%202-2.png)
+![](../assets/chart%202.jpg)
 
 
 ### A.2 Git Logs
@@ -90,7 +90,7 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 
 ### A.3 Branch Repository
 
- ![](../assets/chart%203.png)
+ ![](../assets/chart%203.jpg)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
