@@ -13,7 +13,7 @@ ___
 
 
 Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Demonstrating_GitHub_Forks.svg)  
+![Use Case Diagram](/assets/Demonstrating_GitHub_ForksWhite.svg)  
 
 
 ## 2. Requirements
