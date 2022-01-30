@@ -51,7 +51,7 @@ Order will be successfully executed under the assumptions that there is enough s
 
 ### A.1 Forked Repository
 
-/Users/alanahinniss/Documents/GitHub/cis411_lab0_req/assets/chart 2-2.png 
+![](chart%202-2.png)
 
 
 ### A.2 Git Logs
