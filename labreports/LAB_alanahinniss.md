@@ -50,7 +50,8 @@ Order will be successfully executed under the assumptions that there is enough s
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-https://docs.google.com/drawings/d/16f5tNK_Am4j1eXmkA0i4wHPv80UDV_ZLLYFQbDblLaI/edit
+
+/Users/alanahinniss/Documents/GitHub/cis411_lab0_req/assets/chart 2-2.png 
 
 
 ### A.2 Git Logs
