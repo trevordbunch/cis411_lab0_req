@@ -56,7 +56,6 @@ Order will be successfully executed under the assumptions that there is enough s
 
 ### A.2 Git Logs
 
-
 - Step 2.7 Logs
 
 237b52e (origin/main, origin/labreport, origin/HEAD, main) Update Instructions for template file 
@@ -81,8 +80,7 @@ fd13d03 initial draft
 
 ad87871 Create License
 
-
-
+...
 * Step 6.4 Log
 
 
