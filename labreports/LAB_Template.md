@@ -10,7 +10,7 @@ ___
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-![Use Case Diagram](/https://github.com/bowman3239/cis411_lab0_req/blob/git-checkout--b-labreport/CIS411Lab00FoodDrawing.jpg)
+![Use Case Diagram](/assets/https://github.com/bowman3239/cis411_lab0_req/blob/git-checkout--b-labreport/CIS411Lab00FoodDrawing.jpg)
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
