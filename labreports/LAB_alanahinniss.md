@@ -90,6 +90,7 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 
 ### A.3 Branch Repository
 
+ ![](../assets/chart%203.png)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
