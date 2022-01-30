@@ -2,40 +2,65 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Logan Ossman  
+**GitHub Handle:** loganossman  
+**Repository:** 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  
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case Diagram](/assets/Requirements.png)  
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+The above works with an assumed FIFO ticket system and electronic payment. Tip is given in the app, so no paper money is necessary. As the delivery system is connected with the tickets, the chef and deliverer will keep the customer up-to-date on the meal's progress. It is implied that the customer will order online, and they are the one ordering the food.
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+
+* Business
+    * The system must limit orders based on available staff. (Harold the Manager)
+    * Delivery service will adhere to Messiah's 30 minute rule (Nibel the Gourmet)
+* User
+    * Orders and progress must be accessible through their account. (Nibel the Gourmet)
+* Functional
+    * The system will display a progress bar which will be updated at each stage of the process. (Nibel the Glutton)
+    * The system should print separate kinds of tickets whether they are in-house, pickup, or delivery. (Joey the Chef)
+* Non-Functional
+    * The location of the delivery must be accessible by the deliverer. (Jenny the Deliverer)
+    * App load-time, actions, and user events should be less than 10 seconds. (Jenny the Deliverer) 
+* System
+    * The system will integrate the legacy system to save money. (Harold the Manager)
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.
+
+1. Online account are used to make purchases, and will not print order if low balance.
+
+2. Deliveries are made on-campus only.
+
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+![Forked Repository](/assets/Git_Branch_v_Fork.png)  
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-Hint: for system output, use markdown's fenced code block for formatting.
+2.7
+
+    6badd56 (HEAD -> labreport, origin/labreport) your commit and reference @trevordbunch in the message
+    50d40f8 (origin/main, origin/HEAD, main) Update references to main branch
+    ef962b1 Fix links in resource area
+    237b52e Update Instructions for template file
+    dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+    6293806 Merge pull request #1 from mcjo163/main
+    7482f04 Typo in lab instructions
+    3080719 typo in readme
+    33efb41 formatted template
+    fd13d03 initial draft
+    ad87871 Create License
+    Logans-MacBook-Air:cis411_
+
+6.4
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+![Branch Repository Representation](/assets/Git_Feature_Branch_Creation.png)
