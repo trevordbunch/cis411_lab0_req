@@ -10,19 +10,36 @@ ___
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+**Business Overview**: Students, staff, and guests can access the online dining service, The Falcon, through connection of the Messiah Network. Being able to process payments via online allows for people to be more efficient throughout their day. The site will allow users to be able to send orders online and be able to be notified when the food is ready to be picked up. The payments and orders are processed by The Falcon through the site user login information through the network.
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+**Business**:
+-	The University’s system must be capable of processing multiple orders online at once (Falcon Manager)
+-	The University’s system must update the system based off available items (Union Manager)
+-	The University must have enough staff for breakfast and lunch (Falcon Manager)
+
+**User**:
+-	Users must make payments using their school ID, cash, or credit (Falcon Manager)
+-	Users must be connected to the network (Union Manager)
+-	Users must place a time for pickup (Union Manager)
+
+**Functional**:
+-	Must have an interface to show the food items (Union Manager)
+-	Confirmation of order sent to email (Falcon Manager)
+-	Sending an Email when ordered is ready (Falcon Manager)
+
+**Non-Functional**:
+-	The system must be capable of processing 500 orders within each hour of being open (Falcon Manager)
+-	The system must have “cancel”, “go back”, and “proceed to checkout” options (Falcon manager)
+-	The system must remove unavailable items (Union Manager)
+-	The system must provide images of the items (Visual Learner #1)
+
+**System**:
+-	User can only access the website when connected to the Messiah Network (Andrew Coldsmith)
+-	The system must process that the user’s ID Card matches the receipt through scanning (Andrew Coldsmith)
+
 
 ## Appendix: GitHub Notes
 
