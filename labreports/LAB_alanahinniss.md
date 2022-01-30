@@ -8,9 +8,9 @@ ___
 ___
 
 ## 1. Overview
-A student wants their food to be delivered to them. They must log-in using Messiah University SSO portal and choose which on-campus provider, they are ordering from. After the user selects their order, the order will then be confirmed. After confirmation the system will provide an order status, from preparation to delivery. If there is an issue with the delivery process, there will be a return or refund policy.   
+A student wants their food to be delivered to them. They must log-in using Messiah University SSO portal and choose which on-campus provider, they are ordering from. After the user selects their order, the order will then be confirmed. After confirmation the system will provide an order status, from preparation to delivery. If there is an issue with the delivery process, there will be a return or refund policy. 
 
-https://docs.google.com/drawings/d/11K9V-nbD4vmXOXC6E42smvR1VrFnw56hiG3v9qQ2dd4/edit
+![](../assets/first%20graph.jpg)
 
 ## 2. Requirements
   
@@ -90,7 +90,6 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 
 ### A.3 Branch Repository
 
-https://docs.google.com/drawings/d/1LmjRVu-1_nOHMl5sS3eZEeBHAAyL6Dcf_nTYfiIL_H8/edit
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
