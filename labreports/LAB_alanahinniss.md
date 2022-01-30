@@ -59,16 +59,26 @@ Order will be successfully executed under the assumptions that there is enough s
 * Step 2.7 Logs
 
 
-237b52e (origin/main, origin/labreport, origin/HEAD, main) Update Instructions for template file _ 
+237b52e (origin/main, origin/labreport, origin/HEAD, main) Update Instructions for template file 
+
 50d40f8 (upstream/main) Update references to main branch
+
 ef962b1 Fix links in resource area
+
 237b52e Update Instructions for template file  Corrected error on the name of the template file on Step 2.
+
 dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+
 6293806 Merge pull request #1 from mcjo163/main
+
 7482f04 Typo in lab instructions 
+
 3080719 typo in readme
+
 33efb41 formatted template
+
 fd13d03 initial draft
+
 ad87871 Create License
 
 
