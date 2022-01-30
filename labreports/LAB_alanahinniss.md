@@ -57,7 +57,7 @@ https://docs.google.com/drawings/d/16f5tNK_Am4j1eXmkA0i4wHPv80UDV_ZLLYFQbDblLaI/
 
 * Step 2.7 Logs
 
-237b52e (origin/main, origin/labreport, origin/HEAD, main) Update Instructions for template file
+237b52e (origin/main, origin/labreport, origin/HEAD, main) Update Instructions for template file;
 50d40f8 (upstream/main) Update references to main branch
 ef962b1 Fix links in resource area
 237b52e Update Instructions for template file  Corrected error on the name of the template file on Step 2.
