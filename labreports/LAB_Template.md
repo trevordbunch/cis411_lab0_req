@@ -16,7 +16,26 @@ This picture shows how a student can order food on campus and have it deliverere
 The chef will always have food prepared, so as the client orders and pays, the food will be given to another work to deliver the food to the client.
 
 ## 2. Requirements
-Business - 
+Business - The business objective that the system needs to satisfy:
+  B1. - The system only runs when the kitchen is open. (Student 1)
+  B2. - The system only shows food that is available at that given moment. (Student 2)
+ 
+User - The actions that a user takes within the system.
+        U1. - The user must attend Messiah University and be connected to Messiah Wifi. (Student 2).
+        U2. - The user must select what type of payment option they will be paying with. (TBunch)
+ 
+Functional  - The functions the system should perform.
+        F1. - The system must present an anticipated delivery time prior to allowing the user to confirm the order. (TBunch)
+        F2. - The system must incorperate all toppings and customizable options that are permitted within kitchen guidelines. (Student 2)
+        F3. - The system shall incoperate pictures of the food that is being offered. (Student 2).
+  
+Non-Functional - The characteristics that the system should have
+        N1. - The system must render pages in less than 10 seconds after any user action or application event. (TBunch)
+        N2. - The system will have a live feed of the kitchen so students can watch their food be prepared. (Student 1)
+        
+Systems - The specification about how the system should be built.
+        S1. - The system must use Messiah University Signle Sing On (SSO) solution for any accounts with a messiah.edu domain (TBunch)
+        S2. - The system will always be live, but while the kitchen is closed, will show a message saying "We are not taking any orders at this time. Sorry for the inconvenience." (Student 1) 
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
