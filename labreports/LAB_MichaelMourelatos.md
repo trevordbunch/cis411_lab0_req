@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Michael Mourelatos  
 **GitHub Handle:** MichaelMourelatos  
-**Repository:** [MichaelMourelatos Forked Repository] (https://github.com/MichaelMourelatos/cis411_lab0_req)
+**Repository:** [MichaelMourelatos Forked Repository](https://github.com/MichaelMourelatos/cis411_lab0_req)
 ___
 
 ## 1. Overview
@@ -13,7 +13,7 @@ ___
 **Business Overview**: Students, staff, and guests can access the online dining service, The Falcon, through connection of the Messiah Network. Being able to process payments via online allows for people to be more efficient throughout their day. Having food delivered is an additional way The Falcon is willing to help students. The site will allow users to be able to send orders online and be able to be notified when the food has been delivered. The payments and orders are processed by The Falcon through the site user login information through the network.
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+
 
 **Business**:
 -	The University’s system must be capable of processing multiple orders online at once (Falcon Manager)
@@ -50,7 +50,7 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
 ![Forked Repository Diagram](/assets/Fork_Diagram_1_30.jpg)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+
 
 **Log 1**:
 ```
