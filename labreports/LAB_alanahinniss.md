@@ -14,45 +14,35 @@ https://docs.google.com/drawings/d/11K9V-nbD4vmXOXC6E42smvR1VrFnw56hiG3v9qQ2dd4/
 
 ## 2. Requirements
   
-- Business 
+Business 
 
-B.1 The business must ensure that the food can be produced, packaged, and delivered within the delivery time frame.
+* B.1 The business must ensure that the food can be produced, packaged, and delivered within the delivery time frame.
+* B.2 The business must have a delivery service where the food can be transferred safely and timely. 
+* B.3 The business must have a return or refund policy, in case the order was delivered at the wrong destination etc. 
 
-B.2 The business must have a delivery service where the food can be transferred safely and timely. 
+User
 
-B.3 The business must have a return or refund policy, in case the order was delivered at the wrong destination etc. 
+* U.1 The user must indicate which dinning service they want their order to come from. 
+* U.2 The user must login using their Messiah University credentials. 
+* U.3 The user must provide the building name and the room number of where they want their food to be delivered. 
 
-- User
+Functional 
 
-U.1 The user must indicate which dinning service they want their order to come from. 
+* F.1 The system must have an anticipated delivery time, providing an estimate before the confirmation of their order. (Trevor slide)
+* F.2 The system must provide a menu for each dining services offered so users can choose what they want 
+* F.3 The system sends a confirmation once the order of the user is created. 
 
-U.2 The user must login using their Messiah University credentials. 
+Non – Functional 
 
-U.3 The user must provide the building name and the room number of where they want their food to be delivered. 
+* NF. 1 The system should be able to handle numerous of orders without performance deterioration 
+* NF.2 The system must render pages in less than 10 seconds after any user action or application event. (Trevor’s Slides) 
+* NF.3 The systm must remove items from the menu if the item is not avaliable.
 
-- Functional 
+System
 
-F.1 The system must have an anticipated delivery time, providing an estimate before the confirmation of their order. (Trevor slide)
-
-F.2 The system must provide a menu for each dining services offered so users can choose what they want 
-
-F.3 The system sends a confirmation once the order of the user is created. 
-
-- Non – Functional 
-
-NF. 1 The system should be able to handle numerous of orders without performance deterioration 
-
-NF.2 The system must render pages in less than 10 seconds after any user action or application event. (Trevor’s Slides) 
-  
-NF.2 The systm must remove items from the menu if the item is not avaliable.
-
-- System
-
-S.1 The system must use Messiah College Single Sign on (SSO) solution for any accounts with a messiah.edu domain. (Trevor’s slide)
-
-S.2 The system must be available for all devices (Windows, Mac, iOS, Android) 
-
-S.3 The system must be compatible for all browsers. 
+* S.1 The system must use Messiah College Single Sign on (SSO) solution for any accounts with a messiah.edu domain. (Trevor’s slide)
+* S.2 The system must be available for all devices (Windows, Mac, iOS, Android) 
+* S.3 The system must be compatible for all browsers. 
 
 ## 3. Assumptions
 Order will be successfully executed under the assumptions that there is enough staff memebers.  
@@ -65,31 +55,23 @@ https://docs.google.com/drawings/d/16f5tNK_Am4j1eXmkA0i4wHPv80UDV_ZLLYFQbDblLaI/
 
 ### A.2 Git Logs
 
-Step 2.7 Logs
+* Step 2.7 Logs
 
 237b52e (origin/main, origin/labreport, origin/HEAD, main) Update Instructions for template file
-
 50d40f8 (upstream/main) Update references to main branch
-
 ef962b1 Fix links in resource area
-
 237b52e Update Instructions for template file  Corrected error on the name of the template file on Step 2.
-
 dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-
 6293806 Merge pull request #1 from mcjo163/main
-
 7482f04 Typo in lab instructions 
-
 3080719 typo in readme
-
 33efb41 formatted template
-
 fd13d03 initial draft
-
 ad87871 Create License
 
-Step 6.4 Log
+
+
+* Step 6.4 Log
 
 4d8f73b added requirements 
 
