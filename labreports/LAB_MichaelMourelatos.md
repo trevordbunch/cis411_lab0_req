@@ -52,14 +52,17 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-Log 1:
+**Log 1**:
 ```
 aed6d07 (HEAD -> labreport, origin/labreport) Michael Mourelatos making first commit to @trevordbunch.
 
 ```
-Log 2:
+**Log 2**:
 ```
-
+b55db0e (HEAD -> main, origin/labreport, labreport) Edits to #1 Overview and Added Diagrams
+ea3102a Updates and Adding Diagram
+47868eb Updated Process on Assignment Pt. 2.
+29e67ee Updated Process on Assignment.
 ```
 
 
