@@ -8,7 +8,7 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+A student wants their food to be delivered to them. They must log-in using Messiah University SSO portal and choose which on-campus provider, they are ordering from. After the user selects their order, the order will then be confirmed. After confirmation the system will provide an order status, from preparation to delivery. If there is an issue with the delivery process, there will be a return or refund policy.   
 
 Here is an example of including a image into your lab report using a URL:  
 ![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
@@ -19,10 +19,33 @@ Here is an example of including a image into your lab report using an uploaded f
 Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+  
+- Business 
+** B.1 The business must ensure that the food can be produced, packaged, and delivered within the delivery time frame.
+** B.2 The business must have a delivery service where the food can be transferred safely and timely. 
+** B.3 The business must have a return or refund policy, in case the order was delivered at the wrong destination etc. 
+
+- User
+** U.1 The user must indicate which dinning service they want their order to come from. 
+** U.2 The user must login using their Messiah University credentials. 
+** U.3 The user must provide the building name and the room number of where they want their food to be delivered. 
+
+- Functional 
+** F.1 The system must have an anticipated delivery time, providing an estimate before the confirmation of their order. (Trevor slide)
+** F.2 The system must provide a menu for each dining services offered so users can choose what they want 
+** F.3 The system sends a confirmation once the order of the user is created. 
+
+- Non – Functional 
+** NF. 1 The system should be able to handle numerous of orders without performance deterioration 
+** NF.2 The system must render pages in less than 10 seconds after any user action or application event. (Trevor’s Slides) 
+
+_ System
+** S.1 The system must use Messiah College Single Sign on (SSO) solution for any accounts with a messiah.edu domain. (Trevor’s slide)
+** S.2 The system must be available for all devices (Windows, Mac, iOS, Android) 
+** S.3 The system must be compatible for all browsers. 
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+Order will be successfully executed under the assumptions that there is enough staff memebers.  
 
 ## Appendix: GitHub Notes
 
