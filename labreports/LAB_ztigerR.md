@@ -35,6 +35,7 @@ Credit: By Tyler Regitz
   - U.2 The user must be able to select which business they are ordering from within the same application (Student 3).
   - U.3 The user can store prebuilt orders that have been saved to the user's account to be reordered quickly (John Doe).
   - U.4 The user must be able to order food to their dormbuilding(Woody).
+  - U.5 The user can choose to leave a detailed comment for instuction on how to prepare the food and what to look for on delivery (Derek).
 - **Functional**: The functions should the system perform
   - F.1 The system must present an anticipated delivery time prior to allowing the user to confirm the order (Hangry Student 2).
   - F.2 The system must display an interactive menu for both union or falcon depending on where the user wants to order from (Me).
@@ -62,7 +63,7 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+![Use Case](Lab1/../Images/Repo%20Relationships.jpg) 
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
@@ -70,7 +71,7 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+![Use Case](Lab1/../Images/Feature%20Branch.jpg)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.

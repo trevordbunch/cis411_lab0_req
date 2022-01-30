@@ -1,0 +1,14 @@
+[33mde39989[m[33m ([m[1;36mHEAD -> [m[1;32mlabreport[m[33m)[m 4th commit diagrams added
+[33m0a48f9e[m thrid commit requirements done
+[33m1d9bb4c[m second commit @trevordbunch
+[33m1dbdcd8[m[33m ([m[1;31morigin/labreport[m[33m)[m First commit @trevordbunch
+[33m50d40f8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Update references to main branch
+[33mef962b1[m Fix links in resource area
+[33m237b52e[m Update Instructions for template file
+[33mdafaf5e[m Merge pull request #2 from NedacNostrebor/patch-1
+[33m6293806[m Merge pull request #1 from mcjo163/main
+[33m7482f04[m Typo in lab instructions
+[33m3080719[m typo in readme
+[33m33efb41[m formatted template
+[33mfd13d03[m initial draft
+[33mad87871[m Create License
