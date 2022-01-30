@@ -44,6 +44,20 @@ This is an optional section, where system constraints, out of scope features or 
 
 ### A.2 Git Logs
 
+4076e81 (HEAD -> main, labreport) An image commit.
+5875e9a (origin/labreport) This is my last commit for @trevordbunch
+6badd56 your commit and reference @trevordbunch in the message
+50d40f8 (origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+
 2.7
 
     6badd56 (HEAD -> labreport, origin/labreport) your commit and reference @trevordbunch in the message
