@@ -12,6 +12,9 @@ In this section provides a brief overview of the business problem.  By brief, it
 
 ![Use Case Diagram](/assets/https://github.com/bowman3239/cis411_lab0_req/blob/git-checkout--b-labreport/CIS411Lab00FoodDrawing.jpg)
 
+This picture shows how a student can order food on campus and have it deliverered to their room. 
+The chef will always have food prepared, so as the client orders and pays, the food will be given to another work to deliver the food to the client.
+
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
