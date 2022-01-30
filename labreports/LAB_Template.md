@@ -16,7 +16,7 @@ This picture shows how a student can order food on campus and have it deliverere
 The chef will always have food prepared, so as the client orders and pays, the food will be given to another work to deliver the food to the client.
 
 ## 2. Requirements
-#### Business
+#### Business.
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
 
