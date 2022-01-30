@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Tyler Regitz  
 **GitHub Handle:** @ztigerR  
-**Repository:** Your Forked Repository 
+**Repository:** [Your Forked Repository](https://github.com/ztigerR/cis411_lab0_req) 
 ___
 
 ## 1. Overview
@@ -31,11 +31,11 @@ Credit: By Tyler Regitz
   - B.6 The system must allow for slecting which order will be delivered and then removed when the delivery is completed (Delivery Manager).
   
 - **User**: The actions that a user takes within the system
-  - U.1 The user must associate their account with payment method (e.g., Falcon Dollars or Credit Card) (Hungry Student 1).
+  - U.1 The user must enter a description of their person for the delieverer (Student 1).
   - U.2 The user must be able to select which business they are ordering from within the same application (Student 3).
   - U.3 The user can store prebuilt orders that have been saved to the user's account to be reordered quickly (John Doe).
   - U.4 The user must be able to order food to their dormbuilding(Woody).
-  - U.5 The user can choose to leave a detailed comment for instuction on how to prepare the food and what to look for on delivery (Derek).
+  - U.5 The user can choose to leave a detailed comment for instuction on how to prepare the food (Derek).
 - **Functional**: The functions should the system perform
   - F.1 The system must present an anticipated delivery time prior to allowing the user to confirm the order (Hangry Student 2).
   - F.2 The system must display an interactive menu for both union or falcon depending on where the user wants to order from (Me).
@@ -57,8 +57,7 @@ Credit: By Tyler Regitz
   - S.3 The application must be branded with the messiah logo (Policy IT01.64).
   - S.4 The system must only be avalible when on the messiah secure wifi (Policy IT08.31).
 
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+ 
 
 ## Appendix: GitHub Notes
 
@@ -66,12 +65,42 @@ This is an optional section, where system constraints, out of scope features or 
 ![Use Case](Lab1/../Images/Repo%20Relationships.jpg) 
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-Hint: for system output, use markdown's fenced code block for formatting.
+**Labreport Log**
+
+
+
+de39989  (HEAD -> labreport) 4th commit diagrams added<br/>
+0a48f9e thrid commit requirements done<br/>
+1d9bb4c second commit @trevordbunch<br/>
+1dbdcd8 (origin/labreport) First commit @trevordbunch<br/>
+50d40f8 (origin/main, origin/HEAD, main) Update references to main branch<br/>
+ef962b1 Fix links in resource area<br/>
+237b52e Update Instructions for template file<br/>
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1<br/>
+6293806 Merge pull request #1 from mcjo163/main<br/>
+7482f04 Typo in lab instructions<br/>
+3080719 typo in readme<br/>
+33efb41 formatted template<br/>
+
+
+**Main Log**
+
+42e3263 (HEAD -> main, labreport) commit 5<br/>
+de39989 4th commit diagrams added<br/>
+0a48f9e thrid commit requirements done<br/>
+1d9bb4c second commit @trevordbunch<br/>
+1dbdcd8 (origin/labreport) First commit @trevordbunch<br/>
+50d40f8 (origin/main, origin/HEAD) Update references to main branch<br/>
+ef962b1 Fix links in resource area<br/>
+237b52e Update Instructions for template file<br/>
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1<br/>
+6293806 Merge pull request #1 from mcjo163/main<br/>
+7482f04 Typo in lab instructions<br/>
+3080719 typo in readme<br/>
+33efb41 formatted template
+
 
 ### A.3 Branch Repository
 ![Use Case](Lab1/../Images/Feature%20Branch.jpg)
 
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
