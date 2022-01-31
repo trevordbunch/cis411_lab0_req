@@ -63,9 +63,9 @@ This product will be website based and similar to the Union and Falcon ordering 
 ### A.2 Git Logs
 **Step 2.7 Log**
 ```
-C:\Users\timot\Documents\College\Messiah\3rd Year\Spring 2022\CIS 411\Labs>git log --oneline
-833e180 (HEAD -> labreport) Step2 commit attempt3 to @trevordbunch
-50d40f8 (test) Update references to main branch
+C:\Users\timot\Documents\College\Messiah\3rd Year\Spring 2022\CIS 411\Labs\cis411_lab0_req>git log --oneline
+c719351 (HEAD -> labreport, origin/labreport) Commit Round2 Attemp1 Step2 for @trevordbunch
+50d40f8 (origin/main, origin/HEAD, main) Update references to main branch
 ef962b1 Fix links in resource area
 237b52e Update Instructions for template file
 dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
