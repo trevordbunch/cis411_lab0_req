@@ -36,7 +36,7 @@ The use case diagram below shows the business process of delivering food to a st
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-![repository](assets/repo_diagram.svg)
+![repository](/assets/repo_diagram.svg)
 
 ### A.2 Git Logs
 b7882dc (HEAD -> labreport, origin/labreport) your commit and reference @trevordbunch in the message
@@ -53,4 +53,4 @@ fd13d03 initial draft
 ad87871 Create License
 
 ### A.3 Branch Repository
-![Branches](assets/Branches.svg)
+![Branches](/assets/Branches.svg)
