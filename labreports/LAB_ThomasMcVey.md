@@ -9,18 +9,43 @@ ___
 
 ## 1. Overview
 "I would like to order a meal from an on-campus provider, and have it delivered to my classroom."
-
-
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Demonstrating_GitHub_ForksWhite.svg)  
+ 
+![Use Case Diagram](/assets/Summary.svg)  
 
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+- **Business**
+  - B.1 The payment of workers must not exceed the budgeted amount at best, and if there are extra funds due to absent workers, new workers must be found to replace them, with extra money serving as the only permitable worse case scenario (Shaggy-Haired Boss)
+  - B.2 The system should have a feature where any and all tips can be recorded by the deliverer of the meal, so that they can be included on student's W-2s. (Pointy-Tuxed Boss)
+  
+- **User**
+    
+    - U.1 May allow user to accept cash. (Amanda Jacobs)   
+    - U.2 Food that can be ordered should be able to be eaten quickly and easy to clean up (Amanda Jacobs)
 
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+- **Functional**
+  - F.1 Would like it to be as intuitive and easy to use as GrubHub's interface (Elena Rosas) 
+  - F.2 Should allow user to order food for other students (Elena Rosas) 
+
+- **Non-Functional**
+    - N.1 The system should send crash logs to the main server whenever a crash occurs for better trouble shooting from the dev team. (Sleep-Deprived Programmer)
+    - N.2 The U.I for a color-blind mode should be readable to those who are color-blind (Hindsighted Developer)
+
+- **System** 
+  - S.1 The system must not store user card information in the even that they use a credit card rather than falcon dollars, dining dollars, or cash. (Phish-Wary IT Manager)
+  - S.2 The system should keep records of how much capital is generated on a daily, weekly, bi-weekly, monthly, and yearly cycle. (Revenue-Seeking Strategist)
+## 3. Assumptions 
+- **Physical**
+  - P.1 System will have enough computers to run needed server
+  - P.2 Adequate space exists and can be allocated for the purposes of this service
+
+- **Human Resources**
+  - H.1 Programmers competent in the needed fields are already on staff.
+  - H.2 The student body will make use of the service.
+
+- **Software**
+  - T.1 Software currently exists to be purchased, or can be readily replicated in a manner able to satisfy time constraints and budget
+  - T.2 Changes in future technology will not be so drastic in relation to the specified system as to render it completely inoperable.   
 
 ## Appendix: GitHub Notes
 
@@ -50,6 +75,4 @@ Hint: for system output, use markdown's fenced code block for formatting.
 ### A.3 Branch Repository
 ![Use Case Diagram](/assets/Branch_relationships.svg) 
 
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
 
