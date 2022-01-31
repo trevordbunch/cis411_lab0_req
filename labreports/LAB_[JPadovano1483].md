@@ -40,11 +40,24 @@ This diagram demonstrates the relationship between  the source repository and my
 ![Forked Repository Diagram](../assets/ForkedRepository.svg)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
-
-Hint: for system output, use markdown's fenced code block for formatting.
-
 ```
+7c0bf52 (HEAD -> main, labreport) Final lab report
+
+b387c46 (origin/labreport) Almost finished with the lab report @trevordbunch
+
+fb10f52 you commit and reference @trevordbunch in the message
+
+50d40f8 (upstream/main, origin/main, origin/HEAD) Update references to main branch
+
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 
 ```
 
