@@ -59,11 +59,21 @@ ad87871 Create License
 #### Step 6.4 Log
 
 ```
-kylie@DESKTOP-PR6DBD9 MINGW64 /c/GitHub/cis411_lab0_req (labreport)
-$ git commit -a -m "my final commit"
-[labreport c28906f] my final commit
- 1 file changed, 70 insertions(+), 41 deletions(-)
- rewrite labreports/LAB_kfirestone25.md (87%)
+kylie@DESKTOP-PR6DBD9 MINGW64 /c/GitHub/cis411_lab0_req (main)
+$ git log --oneline
+acbd17a (HEAD -> main, labreport) my final commit
+c28906f my final commit
+c0e429e my first commit @Cmcculler
+50d40f8 (upstream/main, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 ```
 
 ### A.3 Branch Repository
