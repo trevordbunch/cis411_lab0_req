@@ -2,32 +2,42 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Isaac Ho
+**GitHub Handle:** isaachhm  
+**Repository:** https://github.com/isaachhm/cis411_lab0_req.git 
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+The use case diagram below shows the business process of delivering food to a student. Ther are four actors, the client, the cook, the delivery person, and the boss. The client accesses the system and places their order. The client must also input the classroom and building they want to food to be delivered to. After the order is submitted, it gives the total amount that the student needs to pay and the students account is charged. The order confirmation is then sent to the cook. The food is then cooked by the cook and given to the delivery person. The delivery person must then deliver the food to the assigned classroom in the assigned building. The client must be in the assigned classroom 5 minutes before the delivery person arrives.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case Diagram](/assets/Business.svg)  
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+1.	Business
+- The system must limit the amount of orders based on staff capacity in order to deliver within 10 minutes. (Pointy Hair Boss)
+- The system must only display the available foods. (Pointy Hair Boss)
+2.	User 
+- The user must associate their account with payment method. (Hangry Student 1)
+- The user must put their classroom number and building before submitting the order. (Hangry Student 1)
+3.	Functional
+- The system must present the total amount that the order costs. (Hangry Student 2)
+- The system must only send an order confirmation after the student makes the payment. (Pointy Hair Boss)
+- The system must present an estimated delivery time before allowing the student to confirm their order. (Hangry Student 2)
+- The system must notify the student through an email when the delivery is in transit and an updated delivery time. (Hangry Student 2)
+4.	Non-Functional 
+- The system must render pages in less than 10 seconds after any user action or application event. (UX Expert Lady)
+- The system must be available for students to access between opening time and closing. (Pointy Hair Boss)
+- The system must be able to withstand high network traffic in the case of many students ordering at the same time. (UX Expert Lady)
+5.	System 
+- The system server must use Messiah’s Single Sign On solution for any accounts with the messiah.edu domain. (Policy IT01.02)
+- The system must be user friendly and easy to navigate. (Hangry Student 1)
 
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+![repository](assets/repo_diagram.svg)
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
@@ -35,7 +45,4 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
-
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+![Branches](assets/Branches.svg)
