@@ -1,0 +1,59 @@
+# Lab Report: Requirements
+___
+**Course:** CIS 411, Spring 2021  
+**Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
+**Name:** Richard Pokrivka  
+**GitHub Handle:** richard-pokrivka  
+**Repository:** https://github.com/richard-pokrivka/cis411_lab0_req  
+___
+
+## 1. Brief Overview of the Business Problem
+
+
+![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vQ3LX-ntncsVKXqaj7ZQp6_v5FyNy4OlMff-_D74jFk918veTlx7LbVW44H-6lP70fWWRXXNuB2wJdE/pub?w=1323&h=721)  
+Credit: By Richard Pokrivka and Corum McCuller, https://docs.google.com/drawings/d/e/2PACX-1vQ3LX-ntncsVKXqaj7ZQp6_v5FyNy4OlMff-_D74jFk918veTlx7LbVW44H-6lP70fWWRXXNuB2wJdE/pub?w=1323&h=721
+
+
+This image describes the business process for creating a process for Messiah food to be delivered to Messiah Clients through an application. The person ordering the food would first authenticate being a Messiah Member. Then they would choose the food and or drink and confirm the method of payment and delivery location. Once the order is placed the chef accepts the order and prepares it and the delivery worker accepts the order delivery. Once the food is prepared, the delivery worker picks it up and gives it to the client.
+
+## 2. Requirements
+
+- Business: There will be a cap on the amount of food being ordered to limit the kitchen staff from being overwhelmed and prevent a safety hazard for the delivery staff. (Head of Messiah Dining Services)
+
+- User: The user must have the option to use an alternate form of payment method and can save that information to the individual user. (e.g., Falcon Dollars or Credit Card) (Ryan Fascetta, Messiah Student).
+
+- Functional: The system must provide a confirmation message to the user placing the order and sends a message saying not being at the presumed location for pickup warrants missing out on the order. (Head of IT).
+
+- Non-Functional: Multiple different hyperlinks starting with different restaurants, and then different food options. (Software Developer)
+  
+- System: System must be able to accept credit card if user is not using Messiah meal plan (Rj Mellor, Messiah Student)
+
+## Appendix: GitHub Notes
+
+### A.1 Forked Repository
+![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vRiciRzaSFXGqlx8xsG5ZWctqxjv_xodmjuLbMPNLPoaII0qfNj1kpNmPV9DFPMcBnyc5z0RBAQF87v/pub?w=1505&h=611) 
+
+### A.2 Git Logs
+~~~
+Log from Step 2.7
+
+9c8c222 (HEAD -> labreport, origin/labreport) your commit and reference @trevordbunch in the message
+ee425cd (origin/main, origin/HEAD, main) Delete git checkout -b labreport
+f2c818a Create git checkout -b labreport
+50d40f8 (upstream/main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License 
+~~~
+*Step 6.4*.
+
+
+
+### A.3 Branch Repository
+![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vR-GZCmzHoyIOeRY9xtOmq9Tcjcn2S6qI1AE_nwpjILX1oEKZ68tY0NWDFLEEkiEpKuHwHpSKnQax8Z/pub?w=960&h=720)
