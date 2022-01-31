@@ -6,7 +6,7 @@ ___
 **GitHub Handle:** Bowman3239 
 **Repository:** https://github.com/bowman3239/cis411_lab0_req  
 ___
-
+[[https://github.com/bowman3239/cis411_lab0_req/blob/git-checkout--b-labreport/CIS411Lab00FoodDrawing.jpg?raw=true]]
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
