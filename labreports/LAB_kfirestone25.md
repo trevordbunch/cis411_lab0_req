@@ -59,7 +59,11 @@ ad87871 Create License
 #### Step 6.4 Log
 
 ```
-
+kylie@DESKTOP-PR6DBD9 MINGW64 /c/GitHub/cis411_lab0_req (labreport)
+$ git commit -a -m "my final commit"
+[labreport c28906f] my final commit
+ 1 file changed, 70 insertions(+), 41 deletions(-)
+ rewrite labreports/LAB_kfirestone25.md (87%)
 ```
 
 ### A.3 Branch Repository
