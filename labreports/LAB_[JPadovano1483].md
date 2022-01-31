@@ -14,31 +14,28 @@ The problem we are solving is that we would like to be able to order food from a
 
 ## 2. Requirements
 1. Business
-   1.  Must keep and graph data from order times, using it to determine what times are busier for orders and schedule employees accordingly
-   2. Must post the afore mentioned data to the page so users can see when the busiest times occur
+   1.  Must keep and graph data from order times, using it to determine what times are busier for orders and schedule employees accordingly (Gordon Ramsay)
+   2. Must post the afore mentioned data to the page so users can see when the busiest times occur (Gordon Ramsay)
    3. Must make the cafe a profit of at least 20% (Noel Laven)
 2. User
-   1. Must have a school email (ending with @messiah.edu)
-   2. Must place order, make payment, and specify what building and room to deliver to
-   3. Must allow a minimum wait time of 25 minutes
+   1. Must have a school email (ending with @messiah.edu) (Peter Parker)
+   2. Must place order, make payment, and specify what building and room to deliver to (Gordon Ramsay)
+   3. Must allow a minimum wait time of 25 minutes (Peter Parker)
 3. Functional
-   1. Must inform user of any issues with their order (i.e. out of an item, longer delivery time than expected, issue with payment, etc.)
-   2. Must send confirmation email with a receipt, including the items that were purchased, cost (per item and total), and expected delivery time
+   1. Must inform user of any issues with their order (i.e. out of an item, longer delivery time than expected, issue with payment, etc.) (Peter Parker)
+   2. Must send confirmation email with a receipt, including the items that were purchased, cost (per item and total), and expected delivery time (Gordon Ramsay)
 4. Non-Functional
    1. Page must send order to the cafe within 5 seconds of user hitting submit (Noel Laven)
    2. Should allow user to input any dietary restrictions and refresh the menu options to reflect what they can eat (Justin Wood)
-   3. Layout should be easy to follow and use
+   3. Layout should be easy to follow and use (Peter Parker)
 5. System
-   1. Must be available during hours of operation of the cafe
-   2. Must only accept orders from users with a school email
-
-## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+   1. Must be available during hours of operation of the cafe (Gordon Ramsay)
+   2. Must only accept orders from users with a school email (Gordon Ramsay) 
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-This diagram demonstrates the relationship between  the soiurce repository and my forked repository.
+This diagram demonstrates the relationship between  the source repository and my forked repository.
 
 ![Forked Repository Diagram](../assets/ForkedRepository.svg)
 
@@ -47,8 +44,11 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
-### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+```
 
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+```
+
+### A.3 Branch Repository
+This diagram models the relationship between my main branch an dfeature branch in my reposirtory.
+
+![Branch Relationship Diagram](../assets/BranchDiagram.svg)
