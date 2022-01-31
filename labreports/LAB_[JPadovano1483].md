@@ -1,25 +1,36 @@
 # Lab Report: Requirements
 ___
-**Course:** CIS 411, Spring 2021  
+**Course:** CIS 411, Spring 2022  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Jamie Padovano  
+**GitHub Handle:** JPadovano1483 
+**Repository:** https://github.com/JPadovano1483/cis411_lab0_req  
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+The problem we are solving is that we would like to be able to order food from an on-campus provider and have it delivered to our classroom. This use case diagram models the relationships between the client, who is ordering and paying for their food, the employees, who both cook and deliver the food, and the boss, who manages the employees. The client orders and pays for their food, then the cook receives the order and cooks the food. Another employee takes the food and delivers it to the client in their classroom. The boss oversees and manages the cooks and other employees.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case Diagram](/assets/Overview.svg)
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+1. Business
+   1.  Must keep and graph data from order times, using it to determine what times are busier for orders and schedule employees accordingly
+   2. Must post the afore mentioned data to the page so users can see when the busiest times occur
+   3. Must make the cafe a profit of at least 20% (Noel Laven)
+2. User
+   1. Must have a school email (ending with @messiah.edu)
+   2. Must place order, make payment, and specify what building and room to deliver to
+   3. Must allow a minimum wait time of 25 minutes
+3. Functional
+   1. Must inform user of any issues with their order (i.e. out of an item, longer delivery time than expected, issue with payment, etc.)
+   2. Must send confirmation email with a receipt, including the items that were purchased, cost (per item and total), and expected delivery time
+4. Non-Functional
+   1. Page must send order to the cafe within 5 seconds of user hitting submit (Noel Laven)
+   2. Should allow user to input any dietary restrictions and refresh the menu options to reflect what they can eat (Justin Wood)
+   3. Layout should be easy to follow and use
+5. System
+   1. Must be available during hours of operation of the cafe
+   2. Must only accept orders from users with a school email
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
@@ -27,7 +38,9 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+This diagram demonstrates the relationship between  the soiurce repository and my forked repository.
+
+![Forked Repository Diagram](../assets/ForkedRepository.svg)
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
