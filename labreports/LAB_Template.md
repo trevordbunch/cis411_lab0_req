@@ -55,5 +55,7 @@ Hint: for system output, use markdown's fenced code block for formatting.
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
+https://github.com/bowman3239/cis411_lab0_req/blob/git-checkout--b-labreport/Untitled%20Diagram.drawio
+
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
