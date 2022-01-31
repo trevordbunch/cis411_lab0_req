@@ -80,9 +80,8 @@ ad87871 Create License
 **Step 6.4 Log**
 ```
 C:\Users\timot\Documents\College\Messiah\3rd Year\Spring 2022\CIS 411\Labs\cis411_lab0_req>git log --oneline
-10bb3d1 (HEAD -> main) Merge branch 'labreport'
-b0208fc step6 attempt 1
-833e180 (labreport) Step2 commit attempt3 to @trevordbunch
+8dd93af (HEAD -> main, origin/labreport, labreport) Commit Round2 Attemp1 Step2a
+c719351 Commit Round2 Attemp1 Step2 for @trevordbunch
 50d40f8 (origin/main, origin/HEAD) Update references to main branch
 ef962b1 Fix links in resource area
 237b52e Update Instructions for template file
