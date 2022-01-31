@@ -1,0 +1,96 @@
+Lab: Requirements
+Christian Reames
+
+TASK: "I would like to order a meal from an on-campus provider, 
+and have it delivered to my classroom."
+
+ANSWERS TO TASK:
+
+FRAMEWORK 
+
+1. Business
+The system must process a meal order (including payment) provided
+by a user to an on-campus provider
+and have it delivered to the designated location/classroom. 
+
+2. User
+The user shall order the meal and tell the system
+where the classroom is. 
+
+3. Functional
+The system should place the order to the desired cafe
+and then tell the worker delivering it where the classroom is. 
+
+4. Non-Functional
+The system should be able to sustain high traffic and handle 
+many users at once. The system should also be able to process more
+than one payment at a time. 
+
+5. System
+The system should have an interface in which the user can place 
+the order with all of the items currently on the menu. The system 
+should also be able to process payment through Messiah's Dining
+Dollars Services as well as print/process the order to the Chef 
+in which the meal is cooked and given to the delivery man. 
+
+
+Interviewees:
+
+- Head of Messiah IT department (Elliot Cumberbatch)
+    Q: Who inputs what is or isn't on the menu when a user goes 
+    to order?
+    A: Whoever is on staff gives a report of what is or isn't available
+    to the manager on shift and the manager implements it into the 
+    computer whenever something runs out or if something is added. 
+
+    Q: What is the best way to handle high traffic with this particular
+    type of system?
+    A: There are more than one way to achieve this goal. An example
+    of one that would be helpful to handle high traffic would be
+    Laravel, which is a PHP framework that is good for handling
+    high-traffic web applications. However, whatever framework is 
+    chosen must be compatible with the system that is currently 
+    used by that particular cafe on campus.
+
+- Head of Messiah dining services (Liam Cartman)
+    Q: How will the payment be processed?
+    A: When the customer orders, the payment is processed and 
+    entered into our database with the date and the time of the 
+    order as well as the amount. After it has processed, the 
+    student account is updated. 
+
+    Q: What will happen if someone pays with a credit card
+    A: A platform called Stripe which links applications to 
+    credit card accounts will be used to link the two together
+    if someone doesn't use a student account card. 
+
+
+- Work-Study Scheduling coordinator for dining services (Jim Swanson)
+    Q: Who will be delivering the food to the users/clients?
+    A: We will have staff members on deck to gather orders from 
+    the chef and then deliver it to their prospective location 
+    on campus. 
+
+    Q: What happens if there is an influx of deliveries?
+    A: If we are ever understaffed and there are more deliveries
+    than we can handle, we will set a cap limit to how many
+    we can recieve and update the application when we meet 
+    max capacity. An algorithm can be implemented to figure 
+    out how much a group can possibly handle. Also, an average wait
+    time will appear when the order is finalized so the user
+    has an idea of when they will recieve what they ordered.  
+
+Chef at Larsen Student Union (Cole McCracken)
+    Q: What must be done to keep you and other chefs from being 
+    overwhelmed?
+    A: I think that it's important to find a max number of orders
+    that me and the other chefs can handle at a time. It'd be hard
+    getting more orders than we can handle and it not only would make 
+    the workers angry but it would also make the customer angry
+    because they wouldn't get their food in a timely manner. 
+
+    Q: Will the orders go directly to you or to someone else first?
+    A: When the order is sent, it prints out onto a ticket that comes
+    directly to the chefs. Once we cook the food, we give it with 
+    the ticket to the delivery person who gathers whatever else
+    was ordered (drinks, etc.) and then delivers it. 
