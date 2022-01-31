@@ -72,28 +72,20 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 fd13d03 initial draft
 ad87871 Create License
 ```
-...
-* Step 6.4 Log
 
+- Step 6.4 Log
 
+```
 4d8f73b added requirements 
-
 1c9ffc5 added diagram step 8
-
 dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-
 6293806 Merge pull request #1 from mcjo163/main
-
 7482f04 Typo in lab instructions 
-
 3080719 typo in readme
-
 33efb41 formatted template
-
+```
 
 ### A.3 Branch Repository
 
  ![](../assets/chart%203.jpg)
 
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
