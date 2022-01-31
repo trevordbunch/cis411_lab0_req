@@ -51,8 +51,26 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 fd13d03 initial draft
 ad87871 Create License 
 ~~~
-*Step 6.4*.
-
+~~~
+Log from Step 6.4
+074a606 (HEAD -> main) Merge branch 'labreport'
+a3158df (labreport) your commit message @cmcculler1 yolo
+1a3e344 (origin/main, origin/HEAD) Delete ProjectDiagram.jpg
+97ec2e7 Add files via upload
+9c8c222 your commit and reference @trevordbunch in the message
+ee425cd Delete git checkout -b labreport
+f2c818a Create git checkout -b labreport
+50d40f8 (upstream/main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+~~~
 
 
 ### A.3 Branch Repository
