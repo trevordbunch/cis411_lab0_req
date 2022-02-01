@@ -17,22 +17,35 @@ A feature development shall be made so that an individual will be able to select
 ## 2. Requirements
 
 Business - Create a system/feature that allows individuals on the University Campus to order food from the on-campus provider, to a classroom. (Must)
-Source: 
 
-User - The user will order food from the online order system, there will be an option for them to select a classroom location for delivery. This will change their order from the standard to new delivery option. (Must)
-Source:  
+Source: Kim S. Phipps, President "I want this order system to work for everyone on-campus. Students and Teachers should be able to use the current order system to send food to classrooms across campus"
+-----------------------------------------------------------------------------------------------------------------------------------
+
+User - The user will order food from the online order system, there will be an option for them to select a classroom location for delivery. This will change their order from the standard to new delivery option which the delivery-staff will be attached to. (Must)
+
+Source: Kathie Shafer, VP for Operations "Basically, this new deilivery system will need to give instructions to the delivery staff. They will need a way to know where to go, so our users will need to select the classroom they want food delivered to in this system."  
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Functional - Receive orders from those connected to the University Network. Have those orders be relayed to the relevant on-campus food provider. (Must)
-Source:
+
+Source: Brian Sheaffer, Network Admin "This system will need to take orders from our network and relay it to the correct place"
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Non-Functional - System shall be quick, robust, not prone to errors, and user-friendly. (Must) Requires a GUI usable on mobile devices, and be compatable Windows/MacOS operating systems. Also to be compatable with major browsers, specificly Chrome, Safari, Edge & Firefox. (Must)
-Source:
 
-System - Specifications about how the system should be built.
-Source:
+Source: Tony Wyland, Director Tech "Many of our students like to order on their phones, this system needs to work on mobile devices and different OSes, mainly MACos and Windows. We also use Edge on our Campus Computers. Make sure the system is compatable with the Top 4 major Browsers." 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+System - Will require the use of the current Database SQL, major additions to the Order System/GUI, added ability of payment system to processes payments online. 
+
+Source: David Walker, VP for Finance "With this new system students will have to pay up-front online before we send food out. I dont want the problem of un-claimed food on deliveries. Our current system does not have this ability."
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+Other features to consider include:
+-Phone notification system that informs users when their order has begun processing/is being sent out. 
+-Uber-like delivery-acceptance system so that there does not need to be a large group of on-staff delivery-people.
+-Whitelist system so only certain people can order food to classrooms.
 
 ## Appendix: GitHub Notes
 
