@@ -2,12 +2,14 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Elias Gregory  
+**GitHub Handle:** [eg1272](https://github.com/eg1272)  
+**Repository:** https://github.com/eg1272/cis411_lab0_req  
 ___
 
 ## 1. Overview
+Messiah University wants to have a system where an individual can order a meal from an on-campus provider and have it delivered to a classroom.
+
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
 Here is an example of including a image into your lab report using a URL:  
