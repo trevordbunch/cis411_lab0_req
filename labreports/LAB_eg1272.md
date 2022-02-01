@@ -10,8 +10,9 @@ ___
 ## 1. Overview
 Messiah University wants to have a system where an individual can order a meal from an on-campus provider and have it delivered to a classroom.
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/use-case.png)  
+![Use Case Diagram](/assets/use-case.png)
+
+A feature development shall be made so that an individual will be able to select a classroom location using the on-campus university ordering system. When an order is made using the classroom option, the client must make payment before the on-campus provider will accept/confirm the order. Once an order is confirmed, its details will be printed out of the kitchen. The cooks will create the order, and set it on the delivery-bay with attached instructions. Deliverers will read the location, bring it to the destination, and the client will have received their order. 
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
