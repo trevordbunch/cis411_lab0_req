@@ -85,6 +85,24 @@ fd13d03 initial draft
 ad87871 Create License
 ```
 
+Last part.
+
+```{
+a32f917 (HEAD -> main, labreport) Completed Lab
+0a07b91 (origin/labreport) This is my first commit.  @trevordbunch in the message
+8c0f29f (origin/main, origin/HEAD) Revert changes made during test
+1fb6b7a Check if changes push
+50d40f8 (upstream/main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+
 ### A.3 Branch Repository
 
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
