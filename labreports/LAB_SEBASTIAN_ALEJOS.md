@@ -102,9 +102,10 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 33efb41 formatted template
 fd13d03 initial draft
 ad87871 Create License
-
+```
 ### A.3 Branch Repository
 
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+
 ![Branch Diagram](/assets/branch.png)  
 Credit: By Akar, <https://medium.com/@aakarr.me/how-to-create-branch-in-git-6118de02a7c6>
