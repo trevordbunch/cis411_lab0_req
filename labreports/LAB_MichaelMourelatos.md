@@ -16,30 +16,41 @@ ___
 
 
 **Business**:
--	The University’s system must be capable of processing multiple orders online at once (Falcon Manager)
--	The University’s system must update the system based off available items (Union Manager)
--	The University’s system must accept payment online (Union Manager)
--	The University shall notify students when order is ready (Falcon Manager)
+
+B1: The University’s system must be capable of processing multiple orders online at once (Falcon Manager)
+
+B2: The University’s system must update the system based off available items (Union Manager)
+
+B3: The University’s system must accept payment online (Union Manager)
+
+B4: The University shall notify students when order is ready (Falcon Manager)
 
 **User**:
--	Users will make payments using their school ID, cash, or credit online (Falcon Manager)
--	Users must be connected to the network (Union Manager)
--	Users must place a time for pickup (Union Manager)
+U1: Users will make payments using their school ID, cash, or credit online (Falcon Manager)
+
+U2: Users must be connected to the network (Union Manager)
+
+U3: Users must place a time for pickup (Union Manager)
 
 **Functional**:
--	Must have an interface to show the food items (Union Manager)
--	There will be a confirmation of the order sent to email (Falcon Manager)
--	An email will be sent when ordered is ready (Falcon Manager)
+F1: Must have an interface to show the food items (Union Manager)
+
+F2: There will be a confirmation of the order sent to email (Falcon Manager)
+
+F3: An email will be sent when ordered is ready (Falcon Manager)
 
 **Non-Functional**:
--	The system must be capable of processing 500 orders within each hour of being open (Falcon Manager)
--	The system shall have “cancel”, “go back”, and “proceed to checkout” options (Falcon manager)
--	The system must remove unavailable items (Union Manager)
--	The system must provide images of the items (Visual Learner #1)
+NF1: The system must be capable of processing 500 orders within each hour of being open (Falcon Manager)
+
+NF2: The system shall have “cancel”, “go back”, and “proceed to checkout” options (Falcon manager)
+
+NF3: The system must remove unavailable items (Union Manager)
+
+NF4: The system must provide images of the items (Visual Learner #1)
 
 **System**:
--	User can only access the website when connected to the Messiah Network (Andrew Coldsmith)
--	The system must process that the user’s ID Card matches the receipt through scanning (Andrew Coldsmith)
+S1: User can only access the website when connected to the Messiah Network (Andrew Coldsmith)
+S2: The system must process that the user’s ID Card matches the receipt through scanning (Andrew Coldsmith)
 
 
 
