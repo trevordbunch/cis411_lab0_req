@@ -22,16 +22,31 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
 Business-
 The app should cater to the user so they will want to use it again. (The head honcho)
 
+The app should run smoothly so the user can actually use it. (The boss)
+
+The app should provide better features than the current ording apps. (Head of a marketing team.)
+
 User-
 The app should allow you to share your phone number so you can recieve a text once they are outside your classes' door so they don't disrupt the classroom. (Conscientious student)
+
+Don't make the app confusing to use (Student)
 
 Functional-
 The app should have an estimated waiting time so I know if there is enough time for it to get there before my next class. (Busy student)
 
+The app should have a way to cancel or edit an order. (Student)
+
+The app should have a way to tell the delivery people where I am (Student)
+
 Non-Functional-
 The app should look appealing. (Front end developer)
 
-System- The app should use the Messiah University Single Sign On for accounts using the messiah.edu domain (Policy IT01.02)
+The app would look cool if there were pictures of the food. (Student)
+
+System- 
+The app should use the Messiah University Single Sign On for accounts using the messiah.edu domain (Policy IT01.02)
+
+
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
