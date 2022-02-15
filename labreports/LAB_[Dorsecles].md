@@ -12,7 +12,7 @@ ___
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-![Use Case](https://docs.google.com/drawings/d/1Q859MLO4d0wPF8F1_r3U3qIijcTgm90HLf6CI3hGJPI/)  
+![Use Case](../assets/FoodDelivery.jpg)  
 
 The students will order food off the ordering app. The app should use Messiah's student authentification software to make sure only students can use this app and to connect it to the student's meal plan. The app will also charge the account. Once the student orders, the cooks should make the food and send it to delivery service on campus. The delivery service should then take the food to the desired location.
 
@@ -43,7 +43,7 @@ A possible problem with this business practice is that the professor of the clas
 ### A.1 Forked Repository
 In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
 
-![Use Case](https://docs.google.com/drawings/d/1PBzHeJEMoEaC6adPZyeCadorFujHz1j51WSOElR_q8c/)
+![Use Case](../assets/Fork.jpg)
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
@@ -73,7 +73,7 @@ Fast-forward
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
-![Use Case](https://docs.google.com/drawings/d/1htESwqW-BVht-jyEOtnwvGf0Ed7Bj5u7NR05KwIprxc/)
+![Use Case](../assets/MainVFeature.jpg)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
