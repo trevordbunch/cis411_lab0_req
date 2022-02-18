@@ -47,7 +47,43 @@ in which the meal is cooked and given to the delivery man.
 ![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vRDZwhpaHTWQbS9V1oCRbPn9EQFQrIo46pDv8OYZUGf8bj_cintDuuUYzbDF0ElAydXNrOAOhnct0rX/pub?w=938&h=425)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+2.7
+~~~
+333e500 (HEAD -> labreport, origin/labreport) cmcculler1 sup
+f9ff43c (origin/main, origin/HEAD, main) Add files via upload
+f1db9f5 Merge pull request #1 from christianreames/LAB_christianreames
+27cb2b5 (origin/LAB_christianreames) Add files via upload
+cfe014f Add files via upload
+50d40f8 (upstream/main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+~~~
+6.4
+~~~
+517a266 (HEAD -> main, labreport) @cmcculler1 family guy
+333e500 (origin/labreport) cmcculler1 sup
+f9ff43c (origin/main, origin/HEAD) Add files via upload
+f1db9f5 Merge pull request #1 from christianreames/LAB_christianreames
+27cb2b5 (origin/LAB_christianreames) Add files via upload
+cfe014f Add files via upload
+50d40f8 (upstream/main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+~~~
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
