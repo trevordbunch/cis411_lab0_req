@@ -49,7 +49,7 @@ This is an optional section, where system constraints, out of scope features or 
 ![Forked Repository](/assets/Git_Branch_v_Fork.png)  
 
 ### A.2 Git Logs
-
+```
     4076e81 (HEAD -> main, labreport) An image commit.
     5875e9a (origin/labreport) This is my last commit for @trevordbunch
     6badd56 your commit and reference @trevordbunch in the message
@@ -63,9 +63,10 @@ This is an optional section, where system constraints, out of scope features or 
     33efb41 formatted template
     fd13d03 initial draft
     ad87871 Create License
+```
 2.7
 
-
+```
     6badd56 (HEAD -> labreport, origin/labreport) your commit and reference @trevordbunch in the message
     50d40f8 (origin/main, origin/HEAD, main) Update references to main branch
     ef962b1 Fix links in resource area
@@ -78,6 +79,7 @@ This is an optional section, where system constraints, out of scope features or 
     fd13d03 initial draft
     ad87871 Create License
     Logans-MacBook-Air:cis411_
+```
 6.4
 
 ### A.3 Branch Repository
