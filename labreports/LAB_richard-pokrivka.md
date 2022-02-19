@@ -18,20 +18,38 @@ This image describes the business process for creating a process for Messiah foo
 
 ## 2. Requirements
 
-- Business: There will be a cap on the amount of food being ordered to limit the kitchen staff from being overwhelmed and prevent a safety hazard for the delivery staff. (Head of Messiah Dining Services)
+### Business: 
+--There will be a cap on the amount of food being ordered to limit the kitchen staff from being overwhelmed and prevent a safety hazard for the delivery staff. (Head of Messiah Dining Services)
 
-- User: The user must have the option to use an alternate form of payment method and can save that information to the individual user. (e.g., Falcon Dollars or Credit Card) (Ryan Fascetta, Messiah Student).
+--The system must limit or deny orders based on time and amount ordered. This prevents problems when large orders would be placed close to closing time when the kitchen is cleaned and ready to be shut down. (Head of the Union)
 
-- Functional: The system must provide a confirmation message to the user placing the order and sends a message saying not being at the presumed location for pickup warrants missing out on the order. (Head of IT).
+### User: 
+--The user must have the option to use an alternate form of payment method and can save that information to the individual user. (e.g., Falcon Dollars or Credit Card) (Ryan Fascetta, Messiah Student).
 
-- Non-Functional: Multiple different hyperlinks starting with different restaurants, and then different food options. (Software Developer)
+--The user can save food orders and delivery locations to an account to make ordering next time easier (Lazy Student)
+
+### Functional: 
+--The system must provide a confirmation message to the user placing the order and sends a message saying not being at the presumed location for pickup warrants missing out on the order. (Head of IT).
+
+--The system must present an anticipated delivery time prior to order confirmation and offer order cancellation if the wait is seemingly too long. (Owen Joyce, Student)
+
+--System must be able to accept credit card if user is not using Messiah meal plan (Rj Mellor, Messiah Student)
+
+### Non-Functional: 
+--Multiple different hyperlinks starting with different restaurants, and then different food options. (Software Developer)
+
+--The system should display nutritional information about the food and general information of the different restaurants on campus so the purchaser, who may be new to Messiah, has a better understanding of what they are ordering. (Freshman Transfer Chad)
   
-- System: System must be able to accept credit card if user is not using Messiah meal plan (Rj Mellor, Messiah Student)
+### System: 
+--The system should utilize the Messiah authentication to ensure the purchaser is present on Messiah grounds and has ties to the institution. (P-Safety Officer)
+
+--The system should limit the number of orders that can be placed by one account in a certain time period in case of scenarios where another person has access to an account and could spend all the money. This feature is similar to the vending machine limit. (Old Main financial worker)
+
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vRiciRzaSFXGqlx8xsG5ZWctqxjv_xodmjuLbMPNLPoaII0qfNj1kpNmPV9DFPMcBnyc5z0RBAQF87v/pub?w=1505&h=611) 
+![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vS3pzCRX_pG8zsB68w0lvPSUaR7L6cbkeUzzEiLXoGy5rLrAhb0KzuH5On3mS4ZKkM2e9rJKnxTASXi/pub?w=1092&h=711) 
 
 ### A.2 Git Logs
 ~~~
@@ -74,4 +92,4 @@ ad87871 Create License
 
 
 ### A.3 Branch Repository
-![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vR-GZCmzHoyIOeRY9xtOmq9Tcjcn2S6qI1AE_nwpjILX1oEKZ68tY0NWDFLEEkiEpKuHwHpSKnQax8Z/pub?w=960&h=720)
+![Use Case](https://docs.google.com/drawings/d/e/2PACX-1vTtY_I_fl5RGno1D-ajNwmo6R4v1Isr6lTCECPbG4sKb9v6thpKrWqerTGx5Pc6WAcEWGIlH1iJn4R8/pub?w=1401&h=730)
