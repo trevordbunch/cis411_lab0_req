@@ -8,16 +8,19 @@ ___
 ___
 
 ## 1. Overview
-Business problem: “I would like to order a meal from an on-campus provider at Messiah University, 
+**Business problem:** “I would like to order a meal from an on-campus provider at Messiah University, 
 and have it delivered to my classroom.”
 
-Actors: Client, Cook, Packer, Delivery Person
+**After talking with my roommate Jacob Siliman and my friend Mason Powers. They both specified that they would want a simple process to ordering food as follows:  to open application with menu greeted. Then go through menu and pick desired food. Put in room number. Pay with card or student account. Wait less than 15 minutes for food and eat. 
 
-Task: Order, Pay, Cook, pack food, pick up food, deliver food
+**Actors:** Client, Cook, Packer, Delivery Person
 
-Process: First the client orders food and then pays, after the kitchen receives the order where the cook proceeds to cook order the upon completion the food packer packs the food so that it is ready for pickup. Next the delivery person picks up food and then delivers it to the client.
+**Task:** Order, Pay, Cook, pack food, pick up food, deliver food
 
-Outcome: person gets the order to the desired location.
+**Process:** First the client orders food and then pays, after the kitchen receives the order where the cook proceeds to cook order the upon completion the food packer packs the food so that it is ready for pickup. Next the delivery person picks up food and then delivers it to the client.
+
+**Outcome:** Person gets the order to the desired location.
+
 
 Here is an example of including a image into your lab report using a URL:  
 ![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
