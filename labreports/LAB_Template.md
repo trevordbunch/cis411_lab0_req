@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Luke Hardman  
 **GitHub Handle:** LAHardman
-**Repository:** Your Forked Repository
+**Repository:** https://github.com/LAHardman/cis411_lab0_req
 ___
 
 ## 1. Overview
