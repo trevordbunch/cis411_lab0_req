@@ -27,7 +27,7 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+![Fork Relational Diagram](https://user-images.githubusercontent.com/122503446/212914533-28d32c2c-e447-44a0-be18-888821ece583.png)
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
