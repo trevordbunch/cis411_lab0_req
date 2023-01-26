@@ -8,17 +8,9 @@ ___
 ___
 
 ## 1. Overview
-The use cases for an application to solve the need “I would like to order a meal from an on-campus provider, and have it delivered to my classroom” are shown below.
+The use cases for an application to solve the need “I would like to order a meal from an on-campus provider, and have it delivered to my classroom” are shown below:
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-[Use Case Diagram] (/assets/food use case.png)
+![Use Case Diagram](/assets/food_use_case.png)
 
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
