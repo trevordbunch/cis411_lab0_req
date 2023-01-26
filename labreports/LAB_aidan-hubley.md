@@ -10,13 +10,10 @@ ___
 ## 1. Overview
 In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+#### Response
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case](/assets/UseCase.png)
+
 ___
 
 ## 2. Requirements
@@ -46,6 +43,8 @@ This is an optional section, where system constraints, out of scope features or 
 
 - **User**:
   - User.2 The user should be able to make payments throughout a period of time. (Justin)
+- **Out of Scope**:
+  - THe system must display the geolocation of the delivery method, displaying its speed and orientation. (Ray)
 
 ___
 
@@ -66,7 +65,7 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 Hint: for system output, use markdown's fenced code block for formatting.
 
 #### Response:
-##### Step 2.7 logs
+##### Step 2.7 Logs
 ```
 9a9d4e6 (HEAD -> labreports, origin/labreports) your commit and reference @trevorbunch in the message
 2ce0103 (origin/main, origin/HEAD, main) Add files via upload
@@ -84,15 +83,37 @@ fd13d03 initial draft
 ad87871 Create License
 ```
 
-#### Step 6.4 
+#### Step 6.4 Logs
+```
+2436ff1 (HEAD -> main) Merge branch 'labreports'
+60b4ab9 (origin/labreports, labreports) commit message
+9d33283 (origin/main, origin/HEAD) Add files via upload
+9a9d4e6 your commit and reference @trevorbunch in the message
+2ce0103 Add files via upload
+d3575ed Delete diagram.pdf
+e202670 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
 ___
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
 #### Response:
+```
 
+```
 
+![Use Case Diagram](/assets/Branch Diagram.png)
 ___
 
 ### A.4 Extra Credit
