@@ -3,8 +3,8 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Emily Baldwin  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**GitHub Handle:**   ebaldwin2023
+**Repository:** https://github.com/ebaldwin2023/cis411_lab0_req/blob/main/labreports/LAB_Template.md
 ___
 
 ## 1. Overview
