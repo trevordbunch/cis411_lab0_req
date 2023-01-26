@@ -3,7 +3,7 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Luke Hardman  
-**GitHub Handle:** LAHardman
+**GitHub Handle:** LAHardman  
 **Repository:** https://github.com/LAHardman/cis411_lab0_req
 ___
 
