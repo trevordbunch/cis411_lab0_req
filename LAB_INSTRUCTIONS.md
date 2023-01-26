@@ -14,7 +14,7 @@
 1. After logging in, navigate to the root of this repository.
 2. Fork this repository to your personal GitHub account (hint: read the page).
 3. Record the URL to your forked repo in your lab report.
-4. Generate a simple diagram (in Google Draw or your favorite diagramming tool) that demonstrates the relationship between this repository and my account (tangollama) with your account and your newly forked repository. (i.e. Is this the same thing as a source control branch or is there something unique about a fork in a distributed version control system? Hint... I'm asking for a reason. If it's helpful, think about the relationship you and another student who is conducting the fork command each has to this respository.)
+4. Generate a simple diagram (in Google Draw or your favorite diagramming tool) that demonstrates the relationship between this repository and my account (tangollama) with your account and your newly forked repository. (i.e. Is this the same thing as a source control branch or is there something unique about a fork in a distributed version control system? Hint... I'm asking for a reason. If it's helpful, think about the relationship you and another student who is conducting the fork command each has to this repository.)
 
 ## Step 2: Creating a feature branch
 [Branching and merging](https://www.atlassian.com/agile/software-development/branching) is a common tactic used in change management and feature development. We're going to use a branch (and eventually a merge) to build our lab report.
