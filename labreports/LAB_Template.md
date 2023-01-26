@@ -2,7 +2,7 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
+**Name:** Emily Baldwin  
 **GitHub Handle:** Your GitHub Handle  
 **Repository:** Your Forked Repository  
 ___
