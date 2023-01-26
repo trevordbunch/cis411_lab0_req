@@ -110,6 +110,25 @@ In this section, provide a diagram that demonstrates the relationship between yo
 
 #### Response:
 ```
+214c724 (HEAD -> main) Merge branch 'labreports'
+66f2a37 (labreports) commit message
+2436ff1 Merge branch 'labreports'
+60b4ab9 (origin/labreports) commit message
+9d33283 (origin/main, origin/HEAD) Add files via upload
+9a9d4e6 your commit and reference @trevorbunch in the message
+2ce0103 Add files via upload
+d3575ed Delete diagram.pdf
+e202670 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 
 ```
 
