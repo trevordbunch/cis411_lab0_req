@@ -52,7 +52,11 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.* 
+
+![relationshipsdiagram!](../assets/Diagram_Relationship_.jpg)
+
+
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
@@ -61,6 +65,7 @@ Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+![relationshipdiagramagain!](../assets/Diagram_Relationship_2.jpg)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
