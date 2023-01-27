@@ -43,17 +43,30 @@ The user places their order on the app, chooses delivery time and location, and 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*
 ![Forked Repo Diagram](/ForkedRepo.png)  
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
-
-Hint: for system output, use markdown's fenced code block for formatting.
-
+In this section, provide the logs from *Step 2.7* and *Step 6.4*.  
+2.7 Logs:
+```
+137441b (HEAD -> labreport, origin/labreport) everything done except for logs
+4ca940e initial commit hello @trevordbunch
+50d40f8 (origin/main, origin/HEAD, main, labreq) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+6.4 Logs:
+```
+```
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 ![Branch Diagram](Branches.png)
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+![Full Journey Diagram](FullJourney.png)
