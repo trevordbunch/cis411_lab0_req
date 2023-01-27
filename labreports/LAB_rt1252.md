@@ -90,7 +90,159 @@ ad87871 Create License
 ```
 
 Step 6.4 logs
-
+```
+fbf3317 (HEAD -> main) Merge branch 'labreport'
+98cb641 (labreport) Name change
+311c109 Update LAB_rt1252.md
+8c91f05 Name changes
+33ebb60 Update LAB_rt1252.md
+115e84e (origin/main, origin/HEAD) Delete Step 2 - Creating a feature branch.png
+5b5641c Delete Step 1 - Fork this repo digram.png
+a0f9618 (origin/labreport) Step 1 diagram upload
+bf431f8 Update LAB_rt1252.md
+737c214 Update LAB_rt1252.md
+cb410d1 name change
+cca1671 Create food use case.png
+0a40cd6 Delete food use case.png
+ffd2368 Add files via upload
+5c7c5d3 Add files via upload
+02e6726 Add files via upload
+7b2edcb Delete simple diagram.png
+7f42692 Hi @trevordbunch, I also like bbq
+0de6e51 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+:
+fbf3317 (HEAD -> main) Merge branch 'labreport'
+98cb641 (labreport) Name change
+311c109 Update LAB_rt1252.md
+8c91f05 Name changes
+33ebb60 Update LAB_rt1252.md
+115e84e (origin/main, origin/HEAD) Delete Step 2 - Creating a feature branch.png
+5b5641c Delete Step 1 - Fork this repo digram.png
+a0f9618 (origin/labreport) Step 1 diagram upload
+bf431f8 Update LAB_rt1252.md
+737c214 Update LAB_rt1252.md
+cb410d1 name change
+cca1671 Create food use case.png
+0a40cd6 Delete food use case.png
+ffd2368 Add files via upload
+5c7c5d3 Add files via upload
+02e6726 Add files via upload
+7b2edcb Delete simple diagram.png
+7f42692 Hi @trevordbunch, I also like bbq
+0de6e51 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+ ESCOD
+115e84e (origin/main, origin/HEAD) Delete Step 2 - Creating a feature branch.png
+5b5641c Delete Step 1 - Fork this repo digram.png
+a0f9618 (origin/labreport) Step 1 diagram upload
+bf431f8 Update LAB_rt1252.md
+737c214 Update LAB_rt1252.md
+cb410d1 name change
+cca1671 Create food use case.png
+0a40cd6 Delete food use case.png
+ffd2368 Add files via upload
+5c7c5d3 Add files via upload
+02e6726 Add files via upload
+7b2edcb Delete simple diagram.png
+7f42692 Hi @trevordbunch, I also like bbq
+0de6e51 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ ESCOD
+115e84e (origin/main, origin/HEAD) Delete Step 2 - Creating a feature branch.png
+5b5641c Delete Step 1 - Fork this repo digram.png
+a0f9618 (origin/labreport) Step 1 diagram upload
+bf431f8 Update LAB_rt1252.md
+737c214 Update LAB_rt1252.md
+cb410d1 name change
+cca1671 Create food use case.png
+0a40cd6 Delete food use case.png
+ffd2368 Add files via upload
+5c7c5d3 Add files via upload
+02e6726 Add files via upload
+7b2edcb Delete simple diagram.png
+7f42692 Hi @trevordbunch, I also like bbq
+0de6e51 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+ ESCOD
+115e84e (origin/main, origin/HEAD) Delete Step 2 - Creating a feature branch.png
+5b5641c Delete Step 1 - Fork this repo digram.png
+a0f9618 (origin/labreport) Step 1 diagram upload
+bf431f8 Update LAB_rt1252.md
+737c214 Update LAB_rt1252.md
+cb410d1 name change
+cca1671 Create food use case.png
+0a40cd6 Delete food use case.png
+ffd2368 Add files via upload
+5c7c5d3 Add files via upload
+02e6726 Add files via upload
+7b2edcb Delete simple diagram.png
+7f42692 Hi @trevordbunch, I also like bbq
+0de6e51 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+ ESCOD
+5b5641c Delete Step 1 - Fork this repo digram.png
+a0f9618 (origin/labreport) Step 1 diagram upload
+bf431f8 Update LAB_rt1252.md
+737c214 Update LAB_rt1252.md
+cb410d1 name change
+cca1671 Create food use case.png
+0a40cd6 Delete food use case.png
+ffd2368 Add files via upload
+5c7c5d3 Add files via upload
+02e6726 Add files via upload
+7b2edcb Delete simple diagram.png
+7f42692 Hi @trevordbunch, I also like bbq
+0de6e51 Add files via upload
+50d40f8 (upstream/main, upstream/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
