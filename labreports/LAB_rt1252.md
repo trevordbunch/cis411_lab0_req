@@ -237,9 +237,14 @@ ad87871 Create License
 ```
 
 ### A.3 Branch Repository
-Step 2 - Creating a feature branch diagram
+
 
 ![Step 2](/assets/Step_two_diagram.png) 
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
+
+Step 8 - Extra credit
+
+Round trip diagram
+
+![Extra credit](/assets/extra_credit_diagram.png) 
