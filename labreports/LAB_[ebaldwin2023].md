@@ -71,6 +71,8 @@ https://docs.google.com/drawings/d/e/2PACX-1vS6Lz0jqz81hcPxhzXkRFXPzOGuaH8mbumtG
 
 URL of log from 6.4:
 
+https://docs.google.com/drawings/d/e/2PACX-1vTfopDCGuTWxFvGKQtkf0O2oNZ0OsENQH3qKfmu_gLUd1-CDPmFCMzndBny81IIWLbxXCL4Amjw_-h9/pub?w=960&h=720
+
 
 
 ### A.3 Branch Repository
@@ -80,5 +82,3 @@ Here is a URL for a diagram that I have built that shows the relationship betwee
 https://docs.google.com/drawings/d/e/2PACX-1vRAWy8zuBoEbeM1JMwf_-FuQtq7UnuOXRsQxmpt29K66Zqzczuymxzk8V8zsSB2lDyL5fY4F8Cag6Ac/pub?w=960&h=720
 
 
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
