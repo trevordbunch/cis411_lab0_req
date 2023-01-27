@@ -91,7 +91,7 @@ ad87871 Create License
 
 Step 6.4 logs
 ```
-fbf3317 (HEAD -> main) Merge branch 'labreport'
+fbf3317 (HEAD -> main) Merge branch 'labreport' 
 98cb641 (labreport) Name change
 311c109 Update LAB_rt1252.md
 8c91f05 Name changes
