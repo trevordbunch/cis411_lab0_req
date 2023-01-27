@@ -2,9 +2,9 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Emily Baldwin  
+**GitHub Handle:**   ebaldwin2023
+**Repository:** https://github.com/ebaldwin2023/cis411_lab0_req/blob/main/labreports/LAB_Template.md
 ___
 
 ## 1. Overview
@@ -27,7 +27,10 @@ This is an optional section, where system constraints, out of scope features or 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+
+Here is a URL for the diagram that I have built that shows the relationship between the source repository and the forked version that I have as well as other students:
+
+file:///Users/emilyanderson/Documents/GitHub/cis411_lab0_req/Lab_%20Req%20Step%201%20Diagram.png 
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
@@ -35,7 +38,10 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+A diagram that demonstrates the relationship between my main branch and my feature branches in my repository:
+
+file:///Users/emilyanderson/Documents/GitHub/cis411_lab0_req/Lab_%20Req%20Step%202.8%20Diagram.png
+
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
