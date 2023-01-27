@@ -34,6 +34,28 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
+Log from step 2.7:
+``` json
+$ git log --oneline
+8a0c27c (HEAD -> labreports, origin/labreports) Added name, github handle and repo URL to the heading of the lab report.
+3c46adc Made a copy of the lab template provided by @trevordbunch.
+50d40f8 (upstream/main, origin/main, origin/HEAD, main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+
+Log from step 6.4:
+``` json
+
+```
+
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
