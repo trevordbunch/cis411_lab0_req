@@ -49,13 +49,22 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
 - S4 - The system must be able to shutdown for a set period of time when there are not enough employees or delivery people to keep up with the amount of orders (shift manager).
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+- A1 - This system assumes that the university will allow the delivery of food into classrooms.
+- A2 - This system assumes that only students/faculty/staff that have university accounts will be ordering via this service.
+- A3 - This system assumes that the users will be willing to pay the extra fee to have the food delivered. 
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
 In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
 
+Step 1 - Fork this repository diagram
+
+![Step 1](/assets/Step_one_diagram.png)
+
+Step 2 - Creating a feature branch diagram
+
+![Step 1](/assets/Step_two_diagram.png)
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
