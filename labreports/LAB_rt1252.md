@@ -13,7 +13,6 @@ The use cases for an application to solve the need “I would like to order a me
 ![Use Case Diagram](/assets/food_use_case.png)
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
 **Business**
 - B1 - The system must ensure that orders can be delivered in less than 15 minutes (Brett Graff).
