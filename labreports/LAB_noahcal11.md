@@ -9,7 +9,7 @@ ___
 
 ## 1. Overview
 The user places their order on the app, chooses delivery time and location, and pays. Once payment is received, the chefs begin making the food and a delivery person selects the job. When the food is ready, the delivery person takes the food to the classroom/dorm and, upon user retrieval, confirms delivery.
-![Order Food Diagram](/FoodDiagram.png) 
+![Order Food Diagram](/assets/FoodDiagram.png) 
 
 ## 2. Requirements
 - **Business**: The business objective that the system needs to satisfy.
@@ -43,7 +43,7 @@ The user places their order on the app, chooses delivery time and location, and 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-![Forked Repo Diagram](/ForkedRepo.png)  
+![Forked Repo Diagram](/assets/ForkedRepo.png)  
 
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.  
@@ -79,7 +79,7 @@ fd13d03 initial draft
 ad87871 Create License
 ```
 ### A.3 Branch Repository
-![Branch Diagram](Branches.png)
+![Branch Diagram](/assets/Branches.png)
 
 ### A.4 Extra Credit
-![Full Journey Diagram](FullJourney.png)
+![Full Journey Diagram](/assets/FullJourney.png)
