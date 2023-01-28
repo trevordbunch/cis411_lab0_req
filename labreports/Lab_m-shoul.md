@@ -13,7 +13,7 @@ Students at Messiah University want to be able to order a meal from an on-campus
 To solve this issue, we are going to build an application that will be able to handle the following process:
 1. The student visits the online ordering platform or mobile application provided by Messiah University.
 2. The student selects menu items and specifies the delivery location.
-3. The student makes a payment using a preffered method such as Falcon Dollars, debit/credit, or mobile payments.
+3. The student makes a payment using a preferred method such as Falcon Dollars, debit/credit, or mobile payments.
 4. The system confirms the order and provides an estimated delivery time.
 5. The cook prepares the order and delivery personnel brings the meal to the specified location. 
 
@@ -26,28 +26,28 @@ Credit: Michael Shoul
 * B.2 - Order Tracking: Students must have the ability to track their orders in real-time and recieve updates on the status of their delivery. (Busy Student)
 * B.3 - Feasibility: The system must be able to limit orders based on staff capacity at all locations on Campus. (Dining Services)
 * B.4 - Delivery: The system must have the ability to deliver meals within 15 minutes after the food has been prepared. (Ben Clarke)
-* B.5 - Options: The system will offer a variety of meal options to accomodate for dietary restrictions and allergies.
+* B.5 - Options: The system will offer a variety of meal options to accommodate for dietary restrictions and allergies.
 
 ### 2.2 User
 * U.1 - Options: The user must have access to a variety of meal options, including options for dietary restrictions and allergies. (Health Expert)
 * U.2 - Payment: The user must be able make payments securely, with multiple options available such as Falcon Dollars or credit/debit. (Dining Services)
-* U.3 - Convienence: The user must be able to place an order and have it delivered to a specified location with minimal waiting time. (Ben Clarke)
-* U.4 - Order Tracking: The user must be able to track their order and recieve updates on the expected delivery time. **SOURCE**
+* U.3 - Convenience: The user must be able to place an order and have it delivered to a specified location with minimal waiting time. (Ben Clarke)
+* U.4 - Order Tracking: The user must be able to track their order and receive updates on the expected delivery time. **SOURCE**
 * U.5 - User Interface: The user must be able to navigate the ordering process easily and with minimal confusion. **SOURCE**
 
 ### 2.3 Functional
-* F.1 - Online System: The system must allow customers to place their orders online, including selecting menu items, speficying delivery locations, and making payments. **SOURCE**
+* F.1 - Online System: The system must allow customers to place their orders online, including selecting menu items, specifying delivery locations, and making payments. **SOURCE**
 * F.2 - Payment: The system must be able to securely process payment from students using Dining Dollars, Ala Carte, credit/debit cards, or mobile payments. (Ben Clarke)
 * F.3 - Inventory: The system must be able to track and update inventory, ensuring that menu items are available for students to order. (Joe McGillen)
-* F.4 - Reciept: The system must send an email reciept subsequent to the online transaction. (Credit Card User)
-* F.5 - Delivery: The system must provide an anticipated delivery time prior to allowing the user confirm the order. (Joe McGillen)
+* F.4 - Receipt: The system must send an email receipt  subsequent to the online transaction. (Credit Card User)
+* F.5 - Delivery: The system must provide an anticipated delivery time prior to allowing the user to confirm the order. (Joe McGillen)
 * F.5 - Delivery Management: The system must be able to track the location of the delivery personnel to ensure orders are delivered to the correct location on campus. **SOURCE**
-* F.6 - Feedback: The system must have a way to handle customer issues and recieve feedback to improve future performance. **SOURCE**
+* F.6 - Feedback: The system must have a way to handle customer issues and receive feedback to improve future performance. **SOURCE**
 
 ### 2.4 Non-Functional
 * N.1 - Speed: The system must be able to handle a high volume of orders and respond to student requests quickly and efficiently. **SOURCE**
 * N.2 - Reliability: The system must be available to students at all times with minimal downtime for maintenance. **SOURCE**
-* N.3 - Maintainabilty: The system must be easy to maintain and update, with clear documentation for troubleshooting. **SOURCE**
+* N.3 - Maintainability: The system must be easy to maintain and update, with clear documentation for troubleshooting. **SOURCE**
 * N.4 - Security: The system must have security measures in place to protect student data and adhere to Messiah regulations. **SOURCE**
 * N.5 - Accessibility: The system must be accessible to all users, including those with disabilities.**SOURCE**
 * N.6 - Performance: The system must render pages within 1 second of any event or user application. **SOURCE**
@@ -74,8 +74,8 @@ Credit: Michael Shoul
 * S.2 - Authorization: The service will verify the identities of users to ensure only authorized individuals can place orders.
 
 ### 3.3 Caveats
-* CV.1 - Staffing: The service will require a sufficient number of deliverty employees to handle the volume of orders.
-* CV.2 - Tracking: The serivce will have to use specific technologies to track the delivery.
+* CV.1 - Staffing: The service will require a sufficient number of delivery employees to handle the volume of orders.
+* CV.2 - Tracking: The service will have to use specific technologies to track the delivery.
 
 
 ## Appendix: GitHub Notes
@@ -89,9 +89,24 @@ Relationship between the [source repository](https://github.com/trevordbunch/cis
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-**WHAT DO I DO HERE**
+**2.7** - Git commit log for my [feature branch](https://github.com/m-shoul/cis411_lab0_req/tree/labreport) to my [lab report](https://github.com/m-shoul/cis411_lab0_req/blob/labreport/labreports/Lab_m-shoul.md) 
 
-Hint: for system output, use markdown's fenced code block for formatting.
+```
+f5bbe50 (HEAD -> labreport, origin/labreport) @trevordbunch
+f129d8a @trevorbunch
+50d40f8 (origin/main, origin/HEAD, main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+
+**6.4** 
 
 ### A.3 Branch Repository
 ![Branch Repository](/assets/FeatureBranch.svg)
