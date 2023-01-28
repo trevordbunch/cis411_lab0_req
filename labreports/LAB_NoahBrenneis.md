@@ -61,5 +61,7 @@ Log from Step 6.4:
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
+![branch relationship diagram](/assets/Branch%20Relationship.svg)
+
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
