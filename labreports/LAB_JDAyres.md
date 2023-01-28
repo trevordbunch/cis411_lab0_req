@@ -13,7 +13,9 @@ The business problem presented is, "I would like to order a meal from an on-camp
 
 Application Use Case Diagram:  
 ![Use Case](../assets/UseCaseDiagram.drawio.png)
+
 Explenation:
+
 The customer orders food which gets proccessed by our system, once this is complete the food order is confirmed by the chef who then cooks the food. The deliverer obtains the food and then deliveres it to the customer who then eats, and enjoys it... ideally.                   
 
 ## 2. Requirements
