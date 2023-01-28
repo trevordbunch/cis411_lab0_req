@@ -8,7 +8,8 @@ ___
 ___
 
 ## 1. Overview
- 
+**Business Process Diagram**
+
 ![Business Process Diagram](/assets/business_process_diagram.jpg)  
 
 
@@ -75,47 +76,27 @@ Assumption 2: This system deals only with order placing and processing, not meal
 ![Source Repository vs. Forked Repository](/assets/source_vs_fork_rep.jpg) 
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
-Hint: for system output, use markdown's fenced code block for formatting.
-
-Logs: Step 2.7
+Log: Step 2.7
 ```
 
 291cfa7 (HEAD -> labreport, origin/labreport) First commit for Lab 0 @trevordbunch
-50d40f8 (origin/main, origin/HEAD, main) Update references to main branch
-ef962b1 Fix links in resource area
-237b52e Update Instructions for template file
-dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-6293806 Merge pull request #1 from mcjo163/main
-7482f04 Typo in lab instructions
-3080719 typo in readme
-33efb41 formatted template
-fd13d03 initial draft
-ad87871 Create License
 
 ```
 
-Logs: Step 6.4
+Log: Step 6.4
 ```
 
 1a49803 (HEAD -> main, origin/labreport, labreport) Sections A.2 and A.3 complete.
-291cfa7 First commit for Lab 0 @trevordbunch
-50d40f8 (origin/main, origin/HEAD) Update references to main branch
-ef962b1 Fix links in resource area
-237b52e Update Instructions for template file
-dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
-6293806 Merge pull request #1 from mcjo163/main
-7482f04 Typo in lab instructions
-3080719 typo in readme
-33efb41 formatted template
-fd13d03 initial draft
-ad87871 Create License
 
 ```
 
 ### A.3 Branch Repository
+**Main Branch vs. Feature Branch**
+
 ![Main Branch vs. Feature Branch](/assets/main_vs_feature_branch.jpg)
 
 ### A.4 Extra Credit
+**Round Trip Diagram**
+
 ![Round Trip Diagram](/assets/round_trip_diagram.jpg)
