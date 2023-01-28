@@ -40,7 +40,7 @@ S.1 The system must be a mobile application and be accessable from Falconlink(St
 
 ### A.1 Forked Repository
 Diagram of the relationship between My repository and Trevor Bunch's repository:
-![Diagram](/assets/Forking.png)
+![Diagram](/assets/Forking.drawio.png)
 
 ### A.2 Git Logs
 Logs from 2.7: Creating A Feature Branch
