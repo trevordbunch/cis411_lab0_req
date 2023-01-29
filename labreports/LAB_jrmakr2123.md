@@ -37,10 +37,7 @@ System Detailing the Process of Getting Food From a School Provided Dinning Loca
 ![The Flow Chart for a Forked Repository](https://raw.githubusercontent.com/jrmakr2123/cis411_lab0_req/d8a6cc57182485b09d007c416af8ac001fdf748e/assets/Forked_Repository_Diagram.svg) 
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
-
-Hint: for system output, use markdown's fenced code block for formatting.
-After creating a Branch
+After creating the labreport branch
  ```d8a6cc5 (HEAD -> labreport, origin/labreport) Created Fork Repo. Diagram for report use.
 c5d80c8 Updated Lab Report
 50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD, main) Update references to main branch
