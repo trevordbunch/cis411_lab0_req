@@ -11,6 +11,7 @@ ___
 Students at Messiah University want to be able to order a meal from an on-campus provider and have it delivered to a classroom location.
 
 To solve this issue, we are going to build an application that will be able to handle the following process:
+
 1. The student visits the online ordering platform or mobile application provided by Messiah University.
 2. The student selects menu items and specifies the delivery location.
 3. The student makes a payment using a preferred method such as Falcon Dollars, debit/credit, or mobile payments.
@@ -20,6 +21,7 @@ To solve this issue, we are going to build an application that will be able to h
 ![Use Case Diagram](/assets/CaseDiagram.svg)
 
 ## 2. Requirements
+
 ### 2.1 Business
 * B.1 - Capability: The system must have an online platform or mobile application for students to place their orders and make payments. (Ben Clarke)
 * B.2 - Order Tracking: Students must have the ability to track their orders in real-time and receive updates on the status of their delivery. (Busy Student)
@@ -110,5 +112,7 @@ Hello world
 
 
 ### A.3 Branch Repository
+
 ![Branch Repository](/assets/FeatureBranch.svg)
+
 Relationship between my [main branch](https://github.com/m-shoul/cis411_lab0_req/tree/main) and my [feature branch](https://github.com/m-shoul/cis411_lab0_req/tree/labreport) in my repository.
