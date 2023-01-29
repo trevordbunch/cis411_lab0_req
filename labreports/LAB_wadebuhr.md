@@ -50,16 +50,16 @@ Credit: By Tomas Beuzen, https://www.tomasbeuzen.com/post/git-fork-branch-pull/f
 ### A.2 Git Logs
 
 1. Intial Commit: 66decda1c26fd585e4ac5791de03141c0888a071  
-   Updated my name and handle 
+    Updated my name and handle 
    
-2. Second Commit: c28136356eadb2170f2fe7376196dd8561c8eed6
-   Added Requirements, Overview, and Diagrams
+2. Second Commit: c28136356eadb2170f2fe7376196dd8561c8eed6  
+    Added Requirements, Overview, and Diagrams
 
-3. Third Commit: cce3fc1cb14dcbaa6435a1ed9acf028485a7470a
-   Deleted innstructions.
+3. Third Commit: cce3fc1cb14dcbaa6435a1ed9acf028485a7470a  
+    Deleted innstructions.
 
-4. Fourth Commit: 
-   Added logs and branch diagram
+4. Fourth Commit: 0915da8cc591c767cd7a7549aa33c910223d5715  
+    Added logs and branch diagram
 
 ### A.3 Branch Repository
 
