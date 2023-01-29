@@ -109,3 +109,5 @@ Main and Feature Branches Diagram
 ![Main and Feature Branches Diagram](/assets/Branch_and_features.jpg)  
 Made using Google Drawing
 ### A.4 Extra Credit
+Create a lab report mardown file (ex. cp labreports/LAB_Template.md labreports/LAB_[GITHUB USERNAME].md ).
+"mardown" should be "markdown"
