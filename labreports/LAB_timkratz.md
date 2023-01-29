@@ -10,7 +10,7 @@ ___
 ## 1. Overview
 This is the use case that solves the problem of “I would like to order a meal from an on-campus provider, and have it delivered to my classroom”. It is shown below.
 
-![Use Case Diagram](/assets/UseCase1.JPG)  
+![Use Case Diagram](/assets/UseCase1.jpg)  
 
 
 ## 2. Requirements
@@ -42,11 +42,11 @@ This is the use case that solves the problem of “I would like to order a meal 
 ### A.1 Forked Repository
 Shown below is a diagram that demonstrates the relationship between Trevor's repository and my forked repository
 
-![Forked Repository](/assets/Image2.JPG)  
+![Forked Repository](/assets/Forked.svg)  
 
 ### A.2 Git Logs
 2.7 Logs:
-![Log 2.7](/assets/2.7.JPG)  
+![Log 2.7](/assets/2.7.jpg)  
 and *Step 6.4*.
 
 Hint: for system output, use markdown's fenced code block for formatting.
