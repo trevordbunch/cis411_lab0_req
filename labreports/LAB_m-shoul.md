@@ -107,7 +107,25 @@ ad87871 Create License
 ```
 2. Git commit log from [main](https://github.com/m-shoul/cis411_lab0_req/tree/main/labreports) to my [lab report](https://github.com/m-shoul/cis411_lab0_req/blob/labreport/labreports/Lab_m-shoul.md) 
 ```
-Hello world
+a9eff40 (HEAD -> main, origin/labreport, labreport) Final Commit
+847de53 Final Commit
+947dcf9 Merge branch 'labreport' of https://github.com/m-shoul/cis411_lab0_req into labreport
+0cb4e93 Images
+3e9a61b Rename Lab_m-shoul.md to LAB_m-shoul.md
+a4e1423 Final Commit
+a3c0487 Stopped at step 6.2
+f5bbe50 @trevordbunch
+f129d8a @trevorbunch
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 ```
 
 
