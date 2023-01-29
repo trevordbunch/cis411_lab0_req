@@ -19,8 +19,24 @@ Here is an example of including a image into your lab report using an uploaded f
 Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+User
 
+-The user must be able to use their falcon dollars to place their order
+
+-The user must be able to use the system on multiple platforms such as (Windows, IOS, macOS, Android, and Linux)
+
+-The system must respond to the user in less than 1 second
+
+Employees
+
+-Employees must recieve address as well as any information the old system gave them.
+
+-Employees must be able to change information displayed on the website as needed.
+  
+Business
+
+-The order must be delivered within 10 minutes of the order being placed
+  
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
 
