@@ -10,24 +10,34 @@ ___
 ## 1. Overview
 Our goal for this program is to create a service that delivers on-campus food sources directly to students in classes. In interviewing two students, Courtney and Peyton, we discovered that there would be great conveniance for students whose schedules would not allow them to eat certain meals throughout the day. There were also concerns raised about professors who find that the service distracts their students. Both these benefits and drawbacks will be addressed in the features offered by this service.[include chart]
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+Use Case Diagram 
+![Use Case Diagram](/assets/Lab_Use_Case.jpg)  
+Made using Google Drawing
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
-
+#Business
+Meals will be delivered to the students from on-campus food suppliers, as per the given text
+~~~
+“I would like to order a meal from an on-campus provider, and have it delivered to my classroom.”
+~~~
+#User
+A user will make an order online, after logging into their Messiah account, describing the desired meal (from a menu), and the delivery destination.
+#Functional
+The system will allow a cook to view an order placed by a customer (in this case, also a student). This order will then be visible to the person delivering the order, or in print.
+#Non-Functional
+The system should be streamlined, and as linear as possible, so that the user can easily navigate the different menus of the different sources of food. There should also be preexisting options for delivery locations, so there is not confusion over misinputs. 
+#System
+-The system will connect with students' existing Messiah accounts, so that they can use their dining dollars to make payment for the food.
+-If the students' account has no dining dollarsavailable, the student can pay by other electronic means, such as PayPal.
+-The system will connect to the ticket printer's native software to convey the data inputted by the user (whichever ticket printer is relevant to the order, be it Union, Falcon, Lottie, or Cafe Diem).
 ## 3. Assumptions
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
-
+Lab Fork Diagram 
+![Lab Fork Diagram](/assets/Lab_Fork.jpg)  
+Made using Google Drawing
 ### A.2 Git Logs
 ~~~
 Nason@Kritchs-Blade MINGW64 ~/Documents/GitHub/LAB_02NRA (labreport)
@@ -44,10 +54,26 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 fd13d03 initial draft
 ad87871 Create License
 
+Nason@Kritchs-Blade MINGW64 ~/Documents/GitHub/LAB_02NRA (labreport)
+$ git log --oneline
+b4dea3e (HEAD -> labreport, origin/labreport) First Edit @trevordbunch
+b3865e8 Following initial instructions @trevordbunch
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD, main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+
 
 ~~~
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
-
+Main and Feature Branches Diagram 
+![Main and Feature Branches Diagram](/assets/Branch_and_features.jpg)  
+Made using Google Drawing
 ### A.4 Extra Credit
