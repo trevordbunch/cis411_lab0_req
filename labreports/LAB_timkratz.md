@@ -2,27 +2,39 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
+**Name:** Tim Kratz  
+**GitHub Handle:** timkratz  
 **Repository:** Your Forked Repository  
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+This is the use case that solves the problem of “I would like to order a meal from an on-campus provider, and have it delivered to my classroom”. It is shown below.
 
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
+![Use Case Diagram](/assets/Image1.svg)  
 
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
+### Business:
+  - There must be enough staff to be able to deliver the food so that it gets there within a reasonable timeframe of 15-30 minutes (Josh)
+
+### User:
+- The user must be able to be identified with their order when it is brought into the classroom to ensure that the food is given to the right person. This must be done using unique order codes that the customer gets after ordering and when the food arrives they show this code to ensure a match. (Will)
+
+### Functional:
+- The system must be able to give an estimated time of when your food will be delivered and also must give updates on when the food is leaving the on-campus provider and when it has arrived and been given to the customer. (Joel)
+
+### Non-Functional:
+- The system should be able to have the capacity for every Messiah account to be logged into the system at one time (Joel)
+
+### System: 
+- The system must be easy to navigate and only be accessible to Messiah accounts. (Josh)
+- The system must be able to limit orders so that they can only be delivered on campus and to a classroom (Will)
+
+
+
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+ 
 
 ## Appendix: GitHub Notes
 
