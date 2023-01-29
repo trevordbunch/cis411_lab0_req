@@ -57,5 +57,3 @@ This content is provided under the `MIT` [license](LICENSE).
 # Credits
 Special thanks to Joel Worrall, aka [tangollama](https://github.com/tangollama), for co-developing this course.
 
-1. Schedule Order (1)
-2. 
