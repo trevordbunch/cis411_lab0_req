@@ -2,9 +2,9 @@
 This is the Requirements Lab for CIS 411: Systems Analysis and Design for [Messiah University](http://messiah.edu)
 
 This lab has three purposes:
-1. Within Systems Analysis and Design, you are going to need to be able to document **requirements** in a digestable format for review and approval.  This lab is a practical writing exercise for developing that skill.
+1. Within Systems Analysis and Design, you are going to need to be able to document **requirements** in a digestible format for review and approval.  This lab is a practical writing exercise for developing that skill.
 2. In multi-contributor environments, you need to use some form of **source control** and versioning.  Many developers use [*git*](https://git-scm.com/) and [GitHub](https://github.com/) to coordinate their individual contributions into a single code base.  This lab will introduce you to forking a repository, making your own changes and then contributing back to the source as a `pull request`.
-3. Describing your work online ususally takes the form of a **Markdown** document (e.g., `readme.md`).  This lab will help you write and format your document up to professional standards.
+3. Describing your work online usually takes the form of a **Markdown** document (e.g., `readme.md`).  This lab will help you write and format your document up to professional standards.
 
 # Doing the Lab
 
