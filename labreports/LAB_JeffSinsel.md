@@ -46,7 +46,6 @@ This is an optional section, where system constraints, out of scope features or 
 ![Forked Repository Diagram](/assets/forkedRepositoryGraphic.PNG)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 ### 2.7
 ```
 56d3062 (HEAD -> labreport, origin/labreport) yo @trevordbunch
@@ -63,7 +62,18 @@ ad87871 Create License
 ```
 ### 6.4
 ```
-
+b239f80 (HEAD -> main, origin/labreport, labreport) Complete lab report minus git logs
+56d3062 yo @trevordbunch
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 ```
 ### A.3 Branch Repository
 ![Branch Diagram](/assets/branchOffMainGraphic.PNG)
