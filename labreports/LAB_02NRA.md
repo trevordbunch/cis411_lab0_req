@@ -2,13 +2,13 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Nason Allen
+**GitHub Handle:** 02NRA
+**Repository:** https://github.com/02NRA/LAB_02NRA/branches
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
+Our goal for this program is to create a service that delivers on-campus food sources directly to students in classes. In interviewing two students, Courtney and Peyton, we discovered that there would be great conveniance for students whose schedules would not allow them to eat certain meals throughout the day. There were also concerns raised about professors who find that the service distracts their students. Both these benefits and drawbacks will be addressed in the features offered by this service.[include chart]
 
 Here is an example of including a image into your lab report using a URL:  
 ![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
@@ -22,7 +22,6 @@ Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
 
 ## Appendix: GitHub Notes
 
@@ -30,12 +29,25 @@ This is an optional section, where system constraints, out of scope features or 
 In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+~~~
+Nason@Kritchs-Blade MINGW64 ~/Documents/GitHub/LAB_02NRA (labreport)
+$ git log --oneline
+b3865e8 (HEAD -> labreport, origin/labreport) Following initial instructions @trevordbunch
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD, main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 
-Hint: for system output, use markdown's fenced code block for formatting.
+
+~~~
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
 ### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
