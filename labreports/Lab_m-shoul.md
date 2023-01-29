@@ -17,48 +17,47 @@ To solve this issue, we are going to build an application that will be able to h
 4. The system confirms the order and provides an estimated delivery time.
 5. The cook prepares the order and delivery personnel brings the meal to the specified location. 
 
-![Use Case Diagram](/assets/CaseDiagram.svg)  
-Credit: Michael Shoul
+![Use Case Diagram](/assets/CaseDiagram.svg)
 
 ## 2. Requirements
 ### 2.1 Business
 * B.1 - Capability: The system must have an online platform or mobile application for students to place their orders and make payments. (Ben Clarke)
-* B.2 - Order Tracking: Students must have the ability to track their orders in real-time and recieve updates on the status of their delivery. (Busy Student)
+* B.2 - Order Tracking: Students must have the ability to track their orders in real-time and receive updates on the status of their delivery. (Busy Student)
 * B.3 - Feasibility: The system must be able to limit orders based on staff capacity at all locations on Campus. (Dining Services)
 * B.4 - Delivery: The system must have the ability to deliver meals within 15 minutes after the food has been prepared. (Ben Clarke)
-* B.5 - Options: The system will offer a variety of meal options to accommodate for dietary restrictions and allergies.
+* B.5 - Options: The system must offer a variety of meal options to accommodate for dietary restrictions and allergies. (Joe McGillen)
 
 ### 2.2 User
-* U.1 - Options: The user must have access to a variety of meal options, including options for dietary restrictions and allergies. (Health Expert)
-* U.2 - Payment: The user must be able make payments securely, with multiple options available such as Falcon Dollars or credit/debit. (Dining Services)
-* U.3 - Convenience: The user must be able to place an order and have it delivered to a specified location with minimal waiting time. (Ben Clarke)
-* U.4 - Order Tracking: The user must be able to track their order and receive updates on the expected delivery time. **SOURCE**
-* U.5 - User Interface: The user must be able to navigate the ordering process easily and with minimal confusion. **SOURCE**
+* U.1 - Options: The user will have access to a variety of meal options, including options for dietary restrictions and allergies. (Health Expert)
+* U.2 - Payment: The user will be able make payments securely, with multiple options available such as Falcon Dollars or credit/debit. (Dining Services)
+* U.3 - Convenience: The user will be able to place an order and have it delivered to a specified location with minimal waiting time. (Ben Clarke)
+* U.4 - Order Tracking: The user will be able to track their order and receive updates on the expected delivery time. (Ben Clarke)
+* U.5 - User Interface: The user will be able to navigate the ordering process easily and with minimal confusion. (Joe McGillen)
 
 ### 2.3 Functional
-* F.1 - Online System: The system must allow customers to place their orders online, including selecting menu items, specifying delivery locations, and making payments. **SOURCE**
+* F.1 - Online System: The system must allow customers to place their orders online, including selecting menu items, specifying delivery locations, and making payments. (Dining Services)
 * F.2 - Payment: The system must be able to securely process payment from students using Dining Dollars, Ala Carte, credit/debit cards, or mobile payments. (Ben Clarke)
 * F.3 - Inventory: The system must be able to track and update inventory, ensuring that menu items are available for students to order. (Joe McGillen)
 * F.4 - Receipt: The system must send an email receipt  subsequent to the online transaction. (Credit Card User)
 * F.5 - Delivery: The system must provide an anticipated delivery time prior to allowing the user to confirm the order. (Joe McGillen)
-* F.5 - Delivery Management: The system must be able to track the location of the delivery personnel to ensure orders are delivered to the correct location on campus. **SOURCE**
-* F.6 - Feedback: The system must have a way to handle customer issues and receive feedback to improve future performance. **SOURCE**
+* F.6 - Delivery Management: The system must be able to track the location of the delivery personnel to ensure orders are delivered to the correct location on campus. (Ben Clarke)
+* F.7 - Feedback: The system must have a way to handle customer issues and receive feedback to improve future performance. (Dining Services)
 
 ### 2.4 Non-Functional
-* N.1 - Speed: The system must be able to handle a high volume of orders and respond to student requests quickly and efficiently. **SOURCE**
-* N.2 - Reliability: The system must be available to students at all times with minimal downtime for maintenance. **SOURCE**
-* N.3 - Maintainability: The system must be easy to maintain and update, with clear documentation for troubleshooting. **SOURCE**
-* N.4 - Security: The system must have security measures in place to protect student data and adhere to Messiah regulations. **SOURCE**
-* N.5 - Accessibility: The system must be accessible to all users, including those with disabilities.**SOURCE**
-* N.6 - Performance: The system must render pages within 1 second of any event or user application. **SOURCE**
-* N.7 - Integration: The system must be able to integrate with other systems and services provided by Messiah University. **SOURCE**
+* N.1 - Speed: The system must be able to handle a high volume of orders and respond to student requests quickly and efficiently. (Dining Services)
+* N.2 - Reliability: The system must be available to students at all times with minimal downtime for maintenance. (Dining Services)
+* N.3 - Maintainability: The system must be easy to maintain and update, with clear documentation for troubleshooting. (Messiah ITS)
+* N.4 - Security: The system must have security measures in place to protect student data and adhere to Messiah regulations. (Messiah ITS)
+* N.5 - Accessibility: The system must be accessible to all users, including those with disabilities. (Joe McGillen)
+* N.6 - Performance: The system must render pages within 1 second of any event or user application. (UX Expert)
+* N.7 - Integration: The system must be able to integrate with other systems and services provided by Messiah University. (Messiah ITS)
  
 ### 2.5 System
-* S.1 - Hardware: The system must be able to run on a variety of devices, such as desktop computers, laptops, and mobile devices. **(SOURCE)**
-* S.2 - Scalability: The system must be able to handle a high volume of orders.**(SOURCE)**
-* S.3 - User Interface: The systems must have a user-friendly user interface to easily navigate the ordering process and track their orders. **(SOURCE)**
-* S.4 - Network: The system must use Messiah University Single Sign On (SSO) for any accounts with a messiah.edu domain. **SOURCE**
-* S.5 - Security: The system must have robust security measures in place to protect student data and adhere to Messiah University standards. **SOURCE**
+* S.1 - Hardware: The system must be able to run on a variety of devices, such as desktop computers, laptops, and mobile devices. (Dining Services)
+* S.2 - Scalability: The system must be able to handle a high volume of orders. (Messiah ITS)
+* S.3 - User Interface: The system must have a user-friendly user interface to easily navigate the ordering process and track their orders. (Joe McGillen)
+* S.4 - Network: The system must use Messiah University Single Sign On (SSO) for any accounts with a messiah.edu domain. (Messiah ITS)
+* S.5 - Security: The system must have robust security measures in place to protect student data and adhere to Messiah University standards. (Messiah ITS)
 
 ## 3. Assumptions
 
@@ -87,7 +86,6 @@ Credit: Michael Shoul
 Relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and my [forked repository](https://github.com/m-shoul/cis411_lab0_req). 
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
 **2.7** - Git commit log for my [feature branch](https://github.com/m-shoul/cis411_lab0_req/tree/labreport) to my [lab report](https://github.com/m-shoul/cis411_lab0_req/blob/labreport/labreports/Lab_m-shoul.md) 
 
@@ -111,6 +109,3 @@ ad87871 Create License
 ### A.3 Branch Repository
 ![Branch Repository](/assets/FeatureBranch.svg)
 Relationship between my [main branch](https://github.com/m-shoul/cis411_lab0_req/tree/main) and my [feature branch](https://github.com/m-shoul/cis411_lab0_req/tree/labreport) in my repository.
-
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
