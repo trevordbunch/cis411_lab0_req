@@ -9,8 +9,7 @@ ___
 
 ## 1. Overview
 The development of a use case for a busines system that can facilitate ording a meal from an on-campus provider and having it delivered to the classroom of the person who placed the order.
-
-
+![Use Case](https://user-images.githubusercontent.com/122503446/215306052-6d396df2-aa79-44cd-8ed8-8b6854e1c268.png)
 
 ## 2. Requirements
 
@@ -30,7 +29,10 @@ The development of a use case for a busines system that can facilitate ording a 
 
 
 ## 3. Assumptions
-This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
+We are assuming the following in regards to the system:
+1. The school is capable of holding students accountable for the amount of money they spend on their orders
+2. Orders will only be placed to classrooms
+3. Students will be accountable for picking up their orders from the designated location
 
 ## Appendix: GitHub Notes
 
@@ -43,7 +45,7 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+![Fork Relational Diagram](https://user-images.githubusercontent.com/122503446/215306037-b0bd0a1b-031a-49b0-bf9d-0002ad2eb536.png)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
