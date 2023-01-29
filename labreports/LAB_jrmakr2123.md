@@ -53,3 +53,20 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 33efb41 formatted template
 fd13d03 initial draft
 ad87871 Create License
+```
+After merging the main branch and the labreport branch
+
+```eea976a (HEAD -> main, origin/labreport, labreport)     modified:   labreports/LAB_jrmakr2123.md
+9b54a52 Create Food System.svg
+d8a6cc5 Created Fork Repo. Diagram for report use.
+c5d80c8 Updated Lab Report
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
