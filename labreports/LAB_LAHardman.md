@@ -40,9 +40,40 @@ We are assuming the following in regards to the system:
 ![Fork Relational Diagram](https://user-images.githubusercontent.com/122503446/212914533-28d32c2c-e447-44a0-be18-888821ece583.png)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+'c6a26dd (HEAD -> main, labreport) updated requirements
+0d63669 (origin/labreport) My commit for fork of @trevorbunch lab
+ebe329a (origin/main, origin/HEAD) Update LAB_Template.md
+89f82eb Update LAB_Template.md
+2c788a3 Update LAB_Template.md
+0852ba6 Update LAB_Template.md
+50d40f8 Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License'
 
-Hint: for system output, use markdown's fenced code block for formatting.
+'fd90139 (HEAD -> main, labreport) updated requirements
+c6a26dd (origin/labreport) updated requirements
+0d63669 My commit for fork of @trevorbunch lab
+ebe329a (origin/main, origin/HEAD) Update LAB_Template.md
+89f82eb Update LAB_Template.md
+2c788a3 Update LAB_Template.md
+0852ba6 Update LAB_Template.md
+50d40f8 Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License'
 
 ### A.3 Branch Repository
 ![Fork Relational Diagram](https://user-images.githubusercontent.com/122503446/215306037-b0bd0a1b-031a-49b0-bf9d-0002ad2eb536.png)
