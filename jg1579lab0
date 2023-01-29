@@ -26,24 +26,38 @@ Credit: Wade Buhr
 
 Business 
 
-B.1 The system must limit orders based on staff capacity, so that the delivery Service Level Agreement of within 10 of promised delivery is not placed in jeopardy. (Pointy Hair Boss) 
+B.1 The system must limit orders based on staff capacity, so that the delivery Service Level Agreement of within 10 of promised delivery is not placed in jeopardy. (Tired Manager) 
+
+
+B.2 The system must keep record of supplys in stock, so that they do not run out durring business hours.()
 
 User 
 
-U.1 The user must associate their account with payment method (e.g., Falcon Dollars or Credit Card) (Hungry Student 1). 
+U.1 The user must associate their account with payment method (e.g., Falcon Dollars or Credit Card) (Business Manager). 
+
+
+U.2 The user must have a valid address for delivery of food(Confused Amazon Worker)
 
 Functional 
 
 F.1 The system must present an anticipated delivery time prior to allowing the user to confirm the order (Hangry Student 2). 
 
+
+F.2 The system must present a last minute review of a order before they confirm an order.(Indesisivve Student)
+
 Non-Functional 
 
-N.1 The system must render pages in less than 10 seconds after any user action or application event. (UX Expert Lady) 
+N.1 The system must render pages in less than 10 seconds after any user action or application event. (I.T Worker) 
+
+
+N.2 The system must be able to handle more than 30 users at a time.(Annoyed I.t Manager)
 
 System 
 
 S.1 The system must use Messiah College Single Sign On (SSO) solution for any accounts with a messiah.edu domain. (Policy IT01.02) 
 
+
+S.2 The system must lock out a spefific device if it fails to properly login more than 4 times.(IT Manager)
  
 
 
