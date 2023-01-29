@@ -1,9 +1,13 @@
 # Lab Report: Continuous Integration
 ___
 **Course:** CIS 411, Spring 2023 
-**Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
+
+**Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch) 
+ 
 **Name:** Ben Clarke  
+
 **GitHub Handle:** BenOfTheOneRing
+
 **Repository:** https://github.com/BenOfTheOneRing/cis411_lab0_req
 ___
 
@@ -29,7 +33,7 @@ b.1: The system must limit orders based on staff capacity (ceo)
 
 b.2: The system must be capable of accepting both falcon dollars and credit card info (a real anonymous user)
 
-b.3: The system, including extra staff requirements, cannot increase the price of an order more than $1.50 (a real anonymous user) 
+b.3: The system, including extra staff requirements, cannot increase the price of an order more than $1.50 (Mike Shoul) 
 
 ## User
 u.1: User must be able input their current location, including building, floor, and classroom (a second real anonymous user) 
@@ -54,17 +58,19 @@ n.2: The system must have an intuitive and user friendly layout (user compliance
 
 n.3: The system must be able to render any page within half a second (web designer manager)
 
+n.4 The system and delivery method cannot add more than 15 minutes to the normal wait time for food (Mike Shoul)
+
 
 ## System 
 s.1: The system must be web based (head of marketing)
 
-s.2: The system must be able to handle large amount of traffic (ceo)
+s.2: The system must be able to handle at least 100 users at once (ceo)
 
-s.3: The system must be able to produce unique confirmation ID tickets for each order (real cybersecurity major)
+s.3: The system must be able to produce unique confirmation ID tickets for each order (Ben Clarke)
 
 s.4: The system must be able to communicate to the on campus provider's cooks and runners (ceo)
 
-s.5: The system must utilize mfa (real cybersecurity major)
+s.5: The system must utilize mfa (Ben Clarke)
 
 # Appendix
 
@@ -87,6 +93,20 @@ a.2:
     ad87871 Create License
 
     6.4 
+    7ecffac (HEAD -> main, labreport) Almost finished
+    eda6ca7 Almost finished
+    a4ce2e1 (origin/labreport) my commit @trevordbunch
+    50d40f8 (origin/main, origin/HEAD) Update references to main branch
+    ef962b1 Fix links in resource area
+    237b52e Update Instructions for template file
+    dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+    6293806 Merge pull request #1 from mcjo163/main
+    7482f04 Typo in lab instructions
+    3080719 typo in readme
+    33efb41 formatted template
+    fd13d03 initial draft
+    ad87871 Create License
+
 
 
 
