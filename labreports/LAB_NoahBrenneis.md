@@ -86,7 +86,26 @@ ad87871 Create License
 
 Log from Step 6.4:
 ``` json
-
+$ git log --oneline
+c10cee7 (HEAD -> main, origin/labreports, labreports) Completed the overview, requirements and assumptions sections of the lab report
+016a207 Added Food Delivery UCD.svg
+3c93519 Added the branch relationship diagram to the lab report
+5089d62 Added Branch Relationship.svg
+49e18cd Added the fork relationship diagram to the lab report
+31a76b8 Added Fork Relationship.svg
+841fa45 Added the log of the previous push to the lab report.
+8a0c27c Added name, github handle and repo URL to the heading of the lab report.
+3c46adc Made a copy of the lab template provided by @trevordbunch.
+50d40f8 (upstream/main, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 ```
 
 ### A.3 Branch Repository
