@@ -68,7 +68,20 @@ ad87871 Create License
 ```
 Step 6.4
 ```
-
+8e427c8 (HEAD -> labreport, origin/labreport, main) Update LAB_jm1959.md
+0d0d996 LAB commit
+c453bd5 Delete LAB_jm1959
+17fb595 Create LAB_jm1959
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 ```
 ### A.3 Branch Repository
 Relationship between main branch and feature branch
