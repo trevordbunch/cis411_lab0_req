@@ -10,7 +10,7 @@ etc. in order to pick up their ordered food from union and falcon. Students woul
 the food can be delivered to them quickly and still fresh so they don't have to stop their current tasks. To aid in solving this
 issue, I interviewed two students from Messiah University and documented my findings.
 
-[Case Diagram]: https://docs.google.com/drawings/d/1LkN6Ms1c0Eukg1CU9DhFph95h-may1Pfzz7RT1CExRw/edit?usp=sharing
+### [Case Diagram]: https://docs.google.com/drawings/d/1LkN6Ms1c0Eukg1CU9DhFph95h-may1Pfzz7RT1CExRw/edit?usp=sharing
 
 ## 2. Requirements:
 Business: The business objective that the system needs to satisfy.
@@ -32,3 +32,12 @@ N.1 The system should have a suggestion bar based on recent orders to expand the
 System: Specifications about how the system should be built.
 
 S.1 The system must use Messiah's Multi-Factor Authentication (MFA) to ensure that the private information of the Messiah students remains safe (Mike).
+
+## Appendix:
+
+### A.1 Forked Repository: https://docs.google.com/drawings/d/1XgqnsAyuN5uDr1nEp05jq2uWuercPAA9a8TihuTSBfE/edit?usp=sharing
+
+### A.2 Git Logs:
+Due to the work being on a school desktop and not on my usual device, I was unable to reach the Git Logs. There is a photo of a fail attempt for proof on the desktop.
+
+### A.3 Branch Repository:
