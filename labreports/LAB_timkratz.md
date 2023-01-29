@@ -1,6 +1,6 @@
 # Lab Report: Requirements
 ___
-**Course:** CIS 411, Spring 2021  
+**Course:** CIS 411, Spring 2023  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Tim Kratz  
 **GitHub Handle:** timkratz  
@@ -10,7 +10,7 @@ ___
 ## 1. Overview
 This is the use case that solves the problem of “I would like to order a meal from an on-campus provider, and have it delivered to my classroom”. It is shown below.
 
-![Use Case Diagram](/assets/Image1.svg)  
+![Use Case Diagram](/assets/UseCase1.JPG)  
 
 
 ## 2. Requirements
@@ -34,15 +34,20 @@ This is the use case that solves the problem of “I would like to order a meal 
 
 
 ## 3. Assumptions
- 
+ - Messiah allows this service to be used
+ - Users will want to use this service
 
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
+Shown below is a diagram that demonstrates the relationship between Trevor's repository and my forked repository
+
+![Forked Repository](/assets/Image2.JPG)  
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
+2.7 Logs:
+![Log 2.7](/assets/2.7.JPG)  
+and *Step 6.4*.
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
