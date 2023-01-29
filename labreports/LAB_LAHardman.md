@@ -38,7 +38,7 @@ We are assuming the following in regards to the system:
 ### A.1 Forked Repository
 ![Fork Relational Diagram](https://user-images.githubusercontent.com/122503446/212914533-28d32c2c-e447-44a0-be18-888821ece583.png)
 ### A.2 Git Logs
-'c6a26dd (HEAD -> main, labreport) updated requirements
+`c6a26dd (HEAD -> main, labreport) updated requirements
 0d63669 (origin/labreport) My commit for fork of @trevorbunch lab
 ebe329a (origin/main, origin/HEAD) Update LAB_Template.md
 89f82eb Update LAB_Template.md
@@ -53,9 +53,9 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 3080719 typo in readme
 33efb41 formatted template
 fd13d03 initial draft
-ad87871 Create License'
+ad87871 Create License`
 
-'fd90139 (HEAD -> main, labreport) updated requirements
+`fd90139 (HEAD -> main, labreport) updated requirements
 c6a26dd (origin/labreport) updated requirements
 0d63669 My commit for fork of @trevorbunch lab
 ebe329a (origin/main, origin/HEAD) Update LAB_Template.md
@@ -71,7 +71,7 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 3080719 typo in readme
 33efb41 formatted template
 fd13d03 initial draft
-ad87871 Create License'
+ad87871 Create License`
 
 ### A.3 Branch Repository
 ![Fork Relational Diagram](https://user-images.githubusercontent.com/122503446/215306037-b0bd0a1b-031a-49b0-bf9d-0002ad2eb536.png)
