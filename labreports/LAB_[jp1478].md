@@ -9,7 +9,7 @@ ___
 
 ## 1. Overview
 
-![Use Case Diagram](/assets/Use_Case_Diagram.pdf)  
+![Use Case Diagram](/assets/UseCaseDiagram.jpg)  
 
 The business problem that this project aims to solve is that students and staff 
 want to be able to have food made and delivered on campus. This involves a customer placing an order, 
@@ -47,7 +47,7 @@ S.2 The system must support multiple payment plans (Dining Dollars, Commuter Pla
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-![Forked Repository Diagram](/assets/RepoDiagram.pdf)
+![Forked Repository Diagram](/assets/RepoDiagram.jpg)
 
 ### A.2 Git Logs
 ~~~
@@ -81,8 +81,8 @@ fd13d03 initial draft
 ad87871 Create License
 ~~~
 ### A.3 Branch Repository
-![Branched Repository Diagram](/assets/BranchDiagram.pdf)
+![Branched Repository Diagram](/assets/BranchDiagram.jpg)
 
 
 ### A.4 Extra Credit
-![Full Repository Diagram](/assets/GitDiagram.pdf)
+![Full Repository Diagram](/assets/GitDiagram.jpg)
