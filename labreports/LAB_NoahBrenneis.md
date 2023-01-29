@@ -8,15 +8,6 @@ ___
 ___
 
 ## 1. Overview
-In this section provides a brief overview of the business problem.  By brief, it should include a single image (business process or use case diagram) and a textual explanation (describing actors, tasks, information, or outcomes) and described in *Step 4*.
-
-Here is an example of including a image into your lab report using a URL:  
-![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
-
-Here is an example of including a image into your lab report using an uploaded file:  
-![Use Case Diagram](/assets/Use_case_restaurant_model.svg)  
-Credit: By Kishorekumar 62, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7880320
 
 ![use case diagram](/assets/Food%20Delivery%20UCD.svg)
 
@@ -27,7 +18,6 @@ Besides the web server needed to run the service, there are three types of peopl
 The customer's primary action is to place an order, which has four steps: selecting the food items to purchase, indicating the on-campus delivery location, adding the needed payment info, and processing the order. The cook then receives the order and prepares it, at which point it is made ready for pickup by the delivery person. This delivery person will then deliver the order to the location specified by the order, at which point the customer receives it and the process is finished.
 
 ## 2. Requirements
-In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
 ### Business Requirements
 - B.1 - The system must only allow orders to be placed if there are a sufficient number of delivery workers capable of making deliveries (My Younger Brother)
@@ -58,14 +48,10 @@ Because universities are not open during certain periods of the year, the servic
 ## Appendix: GitHub Notes
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the [source repository](https://github.com/trevordbunch/cis411_lab0_req) and your forked repository in *Step 1.*  
 
 ![fork relationship diagram](/assets/Fork%20Relationship.svg)
 
 ### A.2 Git Logs
-In this section, provide the logs from *Step 2.7* and *Step 6.4*.
-
-Hint: for system output, use markdown's fenced code block for formatting.
 
 Log from Step 2.7:
 ``` json
@@ -109,9 +95,5 @@ ad87871 Create License
 ```
 
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
 ![branch relationship diagram](/assets/Branch%20Relationship.svg)
-
-### A.4 Extra Credit
-In this section, provide the round-trip diagram described in *Step 8*.
