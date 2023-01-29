@@ -87,7 +87,7 @@ Relationship between the [source repository](https://github.com/trevordbunch/cis
 
 ### A.2 Git Logs
 
-**2.7** - Git commit log for my [feature branch](https://github.com/m-shoul/cis411_lab0_req/tree/labreport) to my [lab report](https://github.com/m-shoul/cis411_lab0_req/blob/labreport/labreports/Lab_m-shoul.md) 
+1.  Git commit log for my [feature branch](https://github.com/m-shoul/cis411_lab0_req/tree/labreport) to my [lab report](https://github.com/m-shoul/cis411_lab0_req/blob/labreport/labreports/Lab_m-shoul.md) 
 
 ```
 f5bbe50 (HEAD -> labreport, origin/labreport) @trevordbunch
@@ -103,8 +103,11 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 fd13d03 initial draft
 ad87871 Create License
 ```
+2. Git commit log from [main](https://github.com/m-shoul/cis411_lab0_req/tree/main/labreports) to my [lab report](https://github.com/m-shoul/cis411_lab0_req/blob/labreport/labreports/Lab_m-shoul.md) 
+```
+Hello world
+```
 
-**6.4** 
 
 ### A.3 Branch Repository
 ![Branch Repository](/assets/FeatureBranch.svg)
