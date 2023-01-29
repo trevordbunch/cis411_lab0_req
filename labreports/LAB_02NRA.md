@@ -69,6 +69,21 @@ dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
 fd13d03 initial draft
 ad87871 Create License
 
+Nason@Kritchs-Blade MINGW64 ~/Documents/GitHub/LAB_02NRA (labreport)
+$ git log --oneline
+eef31ac (HEAD -> labreport, origin/labreport) Final Edit @trevordbunch
+b4dea3e First Edit @trevordbunch
+b3865e8 Following initial instructions @trevordbunch
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD, main) Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
 
 ~~~
 
