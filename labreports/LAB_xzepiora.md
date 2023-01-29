@@ -8,7 +8,6 @@ ___
 ___
 
 ## 1. Overview
-Add a use case diagram
 
 **The business problem that needs to be solved is ordering food from Messiah's dining halls and having the meal delivered to a class room in a timely manner.**
 
@@ -18,6 +17,9 @@ Below is a short overview of who is involved, the actions being accomplished, th
 - The tasks that need to be completed are the student selects a dining hall, the student orders food, the student pays, the meal prepper recieves and completes the order, the delivery person delievers the food.
 - The information needed for the functionality of the app are: student name, student order, student location, student payment info, menus, dining hall hours, and expected delivery time.
 - The outcome of this is that the dining hall recieves payment and that the student recieves their order within a timely manner.
+
+
+![Use Case Diagram](./Images/Use%20Case%20Diagram%20(1).jpg)
 
 ## 2. Requirements
 
@@ -125,8 +127,35 @@ ad87871 Create License
 
 **6.4 Logs**
 
+```
+b226e85 (HEAD -> main, labreport) Final commit to main branch.
+
+043cfd2 (origin/labreport) Update LAB_xzepiora.md
+
+295c8be @trevordbunch
+
+50d40f8 (upstream/main, upstream/HEAD, origin/main, origin/HEAD) Update references to main branch
+
+ef962b1 Fix links in resource area
+
+237b52e Update Instructions for template file
+
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+
+6293806 Merge pull request #1 from mcjo163/main
+
+7482f04 Typo in lab instructions
+
+3080719 typo in readme
+
+33efb41 formatted template
+
+fd13d03 initial draft
+
+ad87871 Create License
+```
 ### A.3 Branch Repository
-In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
+Diagram that shows the relationship of the main branch to the lab report branch.
 
 ![Branch Repository](./Images/Branch%20Making.jpg)
 
