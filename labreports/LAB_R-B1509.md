@@ -152,12 +152,41 @@ ad87871 Create License
 }
 ```
 
+```
+{
+   ddd69b7 (HEAD -> main, labreport) More Markdown Formatting editing, fixed link to feature branch diagram
+a73137b (origin/main, origin/HEAD) Markdown Formatting editing, fixed layout on file
+3f34e6e (origin/labreport) Commiting changes of lab steps up to 6, one commit of step 4 did right before this one
+af10704 your commit and reference @trevordbunch in the message
+c0fd557 your commit and reference @trevordbunch in the message
+31683a9 Update LAB_INSTRUCTIONS.md
+c05d49a Merge pull request #79 from JeffSinsel/typoFix
+301ee3e Update LAB_INSTRUCTIONS.md
+20e50ed fixed typos
+1ac4149 Update LAB_JeffSinsel.md
+b239f80 Complete lab report minus git logs
+56d3062 yo @trevordbunch
+50d40f8 Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+(END)
+}
+
+```
+
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
 In this section, provide a diagram that demonstrates the relationship between your main branch and your feature branch in your repository (*Step 2.8*)
 
-[Branch](https://drive.google.com/file/d/1JtBDoP-EKBdtOal41TmPBIQ5gjORYVXK/view?usp=sharing)
+[Branch](https://drive.google.com/file/d/1oKyWRueneaLRrnaiBkS3lMdFad529wOj/view?usp=sharing)
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
