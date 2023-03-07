@@ -154,7 +154,8 @@ ad87871 Create License
 
 ```
 {
-   ddd69b7 (HEAD -> main, labreport) More Markdown Formatting editing, fixed link to feature branch diagram
+   10d7d89 (HEAD -> main, labreport) fixed link to correct diagram
+ddd69b7 (origin/labreport) More Markdown Formatting editing, fixed link to feature branch diagram
 a73137b (origin/main, origin/HEAD) Markdown Formatting editing, fixed layout on file
 3f34e6e (origin/labreport) Commiting changes of lab steps up to 6, one commit of step 4 did right before this one
 af10704 your commit and reference @trevordbunch in the message
