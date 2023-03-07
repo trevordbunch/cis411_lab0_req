@@ -43,7 +43,7 @@ and have it delivered to my classroom."
 4. Update information on supplies
 
 
-[Simple Diagram](https://drive.google.com/file/d/1FeSquaX99_ltCL5PJ2VPnXg6ZAtJvSji/view?usp=sharing)
+![Overview Diagram](/assets/Overview.drawio.svg)
 
 Here is an example of including a image into your lab report using a URL:  
 ![Use Case](https://commons.wikimedia.org/wiki/File:Use_case_restaurant_model.svg#/media/File:Use_case_restaurant_model.svg)  
