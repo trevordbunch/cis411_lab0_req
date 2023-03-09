@@ -76,3 +76,8 @@ Credit: By Tomas Beuzen, https://www.tomasbeuzen.com/post/git-fork-branch-pull/f
 ![image](/assets/2.7%20log%20for%20lab%201.jpg)
 6.4 logs
 ![image](/assets/6.4%20for%20lab%201.jpg)
+
+### A.3 Main/Feature Branch
+
+![image](/assets/Main%20and%20feature.jpg)
+
