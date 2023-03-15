@@ -55,7 +55,7 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
 
 
 ### A.1 Forked Repository
-In this section, provide a diagram that demonstrates the relationship between the forked repository.![forked repository](https://docs.google.com/drawings/d/e/2PACX-1vTM0zxHXb-OF8sXdtVEfavkz513Y0kQ_CK6jGiF4yjrAKpag6HZUwHYmBdiEjcBLIItt4FgVKBhgBcJ/pub?w=960&h=720)
+In this section, provide a diagram that demonstrates the relationship between the forked repository.![forked repository](https://docs.google.com/drawings/d/e/2PACX-1vRR7ZnF5zVMvBZwUheWiGoqVnuYp-RdqGWq4a39ioJLmtMo_-bc6xFzJXC3jn1jyoOGvzdDikGttjiq/pub?w=960&h=720)
 ### A.2 Git Logs
 In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 ~~~
