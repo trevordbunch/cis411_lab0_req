@@ -182,6 +182,41 @@ ad87871 Create License
 
 ```
 
+Extra Log
+
+```
+{
+   7d8bdfa (HEAD -> main, origin/labreport, labreport) Test 3 Unnecessary, updated all image links
+f20b08b Testing overview link trial  2, will change crlf settings in Test 3
+fa5e3ad Adding images, config core.autocrlf set to false locally, one test link in labreport to filed image  
+10d7d89 (origin/main, origin/HEAD) fixed link to correct diagram
+ddd69b7 More Markdown Formatting editing, fixed link to feature branch diagram
+a73137b Markdown Formatting editing, fixed layout on file
+3f34e6e Commiting changes of lab steps up to 6, one commit of step 4 did right before this one
+af10704 your commit and reference @trevordbunch in the message
+c0fd557 your commit and reference @trevordbunch in the message
+31683a9 Update LAB_INSTRUCTIONS.md
+c05d49a Merge pull request #79 from JeffSinsel/typoFix
+301ee3e Update LAB_INSTRUCTIONS.md
+20e50ed fixed typos
+1ac4149 Update LAB_JeffSinsel.md
+b239f80 Complete lab report minus git logs
+56d3062 yo @trevordbunch
+50d40f8 Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+(END)
+}
+```
+
+
 Hint: for system output, use markdown's fenced code block for formatting.
 
 ### A.3 Branch Repository
