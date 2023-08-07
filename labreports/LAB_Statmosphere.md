@@ -33,8 +33,26 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 
 Hint: for system output, use markdown's fenced code block for formatting.
 
+Step 2.7
 ```
-
+9bf6b16 (HEAD -> labreport, origin/labreport) Step 2.7
+40e0763 August 6th Reset
+4086659 Update LAB_Statmosphere.md
+3f28597 my second commit
+1f5c27d my first commit
+50d40f8 Update references to main branch
+ef962b1 Fix links in resource area
+237b52e Update Instructions for template file
+dafaf5e Merge pull request #2 from NedacNostrebor/patch-1
+6293806 Merge pull request #1 from mcjo163/main
+7482f04 Typo in lab instructions
+3080719 typo in readme
+33efb41 formatted template
+fd13d03 initial draft
+ad87871 Create License
+```
+Step 6.4
+```
 ```
 
 ### A.3 Branch Repository
