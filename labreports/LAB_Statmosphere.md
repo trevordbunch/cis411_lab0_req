@@ -17,7 +17,20 @@ In this section provides a brief overview of the business problem.  By brief, it
 ## 2. Requirements
 In this section, organize and list requirements from *Step 5*.  You are welcome to organize this section in anyway that you would like (using headings or tables).  The structure of this section should correspond to your overview section, and it is recommended that that you review the [lessons learned](../lessonsLearned.md) from your colleagues.
 
-Students will be able to access the app via a website on their laptop or a mobile device. After logging in, they place an order and are shown its price. Payment will be automatically linked to their falcon dining dollars. They enter the location on campus they want food delivered to and an estimated wait time appears based on what they ordered and how many other orders are being processed. Orders are sent to a kitchen where the food is made. Food is delivered after wrapping it in towels and/or tin foil to keep it warm when it arrives.
+    (My interviewees were students, Mike Shoul and Ben Clarke. Requirement requests were made together.)
+    Business:
+        The order must take no more than 10 minutes from the time it is ordered until it gets delivered. The system will therefore limit the orders placed based on the amount of staff present.
+        Food will be packaged in a manner that keeps it warm throughout the delivery process.
+    User:
+        The user only needs a laptop or mobile device to access the website.
+        To place an order, the student needs to specify what food items they want and a location for the food to be delivered to.
+    Functional:
+        The system will automatically pay for the student via the student's Dining Dollars.
+        Upon placing an order, the system needs to return an expected wait time, taking into account the other orders already placed and the staff available.
+    Non-Functional:
+        The system must not have lower loading times than other digital food ordering services on campus (such as those used by The Union and The Falcon). The point of this service is to be more convienent than going in person and placing an order.
+    Service: (Nothing was specified by Mike or Ben, but I have one thing to add.)
+        The system shall use the same CAS system used by Messiah services such as Falcon Link so that the student logs in before accessing the website.
 
 ## 3. Assumptions
 This is an optional section, where system constraints, out of scope features or other caveats can be clearly documented.  
