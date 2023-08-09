@@ -28,7 +28,7 @@ In this section, organize and list requirements from *Step 5*.  You are welcome 
         The system will automatically pay for the student via the student's Dining Dollars.
         Upon placing an order, the system needs to return an expected wait time, taking into account the other orders already placed and the staff available.
     Non-Functional:
-        The system must not have lower loading times than other digital food ordering services on campus (such as those used by The Union and The Falcon). The point of this service is to be more convienent than going in person and placing an order.
+        The system must not have lower loading times than other digital food ordering services on campus (such as those used by The Union and The Falcon). The point of this service is to be more convenient than going in person and placing an order.
     Service: (Nothing was specified by Mike or Ben, but I have one thing to add.)
         The system shall use the same CAS system used by Messiah services such as Falcon Link so that the student logs in before accessing the website.
 
@@ -91,3 +91,5 @@ In this section, provide a diagram that demonstrates the relationship between yo
 
 ### A.4 Extra Credit
 In this section, provide the round-trip diagram described in *Step 8*.
+[Diagram] (https://docs.google.com/drawings/d/1XRINqBAacdlw5adcMD5nkZ2jcARqntrDthvBrA8e5ww)
+I changed the spelling of the word "convenient" in the requirements section.
